@@ -1,4 +1,4 @@
-# SW Testing Fundamentals 2021.
+# SW Testing Fundamentals 2021
 
 ## :wave: Bienvenid@s
 
