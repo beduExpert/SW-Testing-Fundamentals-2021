@@ -16,7 +16,7 @@
 
 En el testing la forma en como comunicamos defectos y áreas de oportunidad de los procesos y productos de trabajo que se analizan debe ser de forma impersonal, basada en medida de lo posible con hechos y siempre respetando el punto de vista de las demás personas. Es importante recordar que el ser humano tiene cierta intoleracia a recibir críticas negativas de su trabajo.
 
-## Validación de Prework
+## :dart: Validación de Prework
 
 1. ¿Qué es un producto de software?
     a. Un producto que compras por medio de una aplicación de software.
