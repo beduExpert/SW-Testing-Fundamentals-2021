@@ -25,30 +25,42 @@ En el testing la forma en como comunicamos defectos y áreas de oportunidad de l
     - Conjunto de atributos hechos a base de códigos y algoritmos para realizar una tarea determinada por medio de instrucciones.
 
 2. ¿En qué año se originó la palabra “bug”?
-    a. 1945
-    b. 1960
-    c. 1955
-    d. 1990
+    - 1945
+    - 1960
+    - 1955
+    - 1990
 
 3. ¿Por qué se originan los errores en el software?
-    a. Algunos lenguajes de programación son defectuosos.
-    b. No se les invierte suficientes recursos a los proyectos.
-    c. Los defectos siempre están presentes y no se pueden corregir.
-    d. Los errores son causados por las personas.
+    - Algunos lenguajes de programación son defectuosos.
+    - No se les invierte suficientes recursos a los proyectos.
+    - Los defectos siempre están presentes y no se pueden corregir.
+    - Los errores son causados por las personas.
 
 4. ¿Qué es calidad?
-    a. Productos a bajo costo
-    b. Conjunto de características deseables que cumplen con la función para la que fueron diseñadas. 
-    c. Características de un objeto que están bien diseñadas.
-    d. Satisfacer las necesidades sociales e individuales
+    - Productos a bajo costo.
+    - Conjunto de características deseables que cumplen con la función para la que fueron diseñadas.
+    - Características de un objeto que están bien diseñadas.
+    - Satisfacer las necesidades sociales e individuales.
 
 5. Es un ejemplo de producto de software
-    a. Tarjeta digital
-    b. Televisión 
-    c. Aplicación de un dispositivo móvil
-    d. Horno de microondas
+    - Tarjeta digital.
+    - Televisión.
+    - Aplicación de un dispositivo móvil.
+    - Horno de microondas.
 
+## Ejemplos de Productos de Software
 
+Aplicaciones Móviles
+![image](https://user-images.githubusercontent.com/67882289/135358516-120b8f77-a924-4eaf-8ed1-b29de221f246.jpeg)
+
+Videojuegos
+![image](https://user-images.githubusercontent.com/67882289/135358529-07e0cc14-707a-4620-a2de-2731e89b524d.jpeg)
+
+Páginas Web
+![image](https://user-images.githubusercontent.com/67882289/135358551-a0722e02-ad95-4532-8d33-028cd9e98486.png)
+
+Software en Automóviles
+![image](https://user-images.githubusercontent.com/67882289/135358599-6f8cbbd2-6d6a-4a05-b659-162b7f3d8af7.jpeg)
 
 
 ## 📂 Organización de la clase
