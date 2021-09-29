@@ -16,13 +16,13 @@
 
 En el testing la forma en como comunicamos defectos y áreas de oportunidad de los procesos y productos de trabajo que se analizan debe ser de forma impersonal, basada en medida de lo posible con hechos y siempre respetando el punto de vista de las demás personas. Es importante recordar que el ser humano tiene cierta intoleracia a recibir críticas negativas de su trabajo.
 
-## :dart: Validación de Prework
+## Validación de Prework
 
 1. :dart: ¿Qué es un producto de software?
-    a. Un producto que compras por medio de una aplicación de software.
-    b. Un producto para fabricar software.
-    c. Componentes especializados que usan industrias de tecnologías.
-    d. Conjunto de atributos hechos a base de códigos y algoritmos para realizar una tarea determinada por medio de instrucciones.
+a. Un producto que compras por medio de una aplicación de software.
+b. Un producto para fabricar software.
+c. Componentes especializados que usan industrias de tecnologías.
+d. Conjunto de atributos hechos a base de códigos y algoritmos para realizar una tarea determinada por medio de instrucciones.
 
 2. ¿En qué año se originó la palabra “bug”?
     a. 1945
