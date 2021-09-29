@@ -2,7 +2,7 @@
 
 ## :wave: Bienvenid@s
 
-Bienvenido al modulo de Software Testing Fundamentals. En este modulo conoceras principios y conceptos fundamentales como qué es un bug, qué son las pruebas de caja negra y caja blanca, e introducción a algunas herramientas que te ayudaran a automatizar y administrar pruebas de manera más eficiente. Para que seas uno de los mejores testers debes ser capaz de compartir una cultura de calidad con tu equipo de tabajo y a la vez concentrar esfuerzos para ejecutar pruebas más precisas en el software. Esperamos ayudarte en este modulo a trabajar estas habilidades y motivarte a involucrarte al amplio mundo del software testing.
+Bienvenid@s al modulo de Software Testing Fundamentals. En este modulo conoceras principios y conceptos fundamentales como qué es un bug, qué son las pruebas de caja negra y caja blanca, e introducción a algunas herramientas que te ayudaran a automatizar y administrar pruebas de manera más eficiente. Para que seas uno de los mejores testers debes ser capaz de compartir una cultura de calidad con tu equipo de tabajo y a la vez concentrar esfuerzos para ejecutar pruebas más precisas en el software. Esperamos ayudarte en este modulo a trabajar estas habilidades y motivarte a involucrarte al amplio mundo del software testing.
 
 ## :dart: Objetivo
 
