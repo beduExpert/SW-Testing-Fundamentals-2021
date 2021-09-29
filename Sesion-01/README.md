@@ -19,10 +19,10 @@ En el testing la forma en como comunicamos defectos y áreas de oportunidad de l
 ## Validación de Prework
 
 1. :dart: ¿Qué es un producto de software?
-a. Un producto que compras por medio de una aplicación de software.
-b. Un producto para fabricar software.
-c. Componentes especializados que usan industrias de tecnologías.
-d. Conjunto de atributos hechos a base de códigos y algoritmos para realizar una tarea determinada por medio de instrucciones.
+    a. Un producto que compras por medio de una aplicación de software.
+    b. Un producto para fabricar software.
+    c. Componentes especializados que usan industrias de tecnologías.
+    d. Conjunto de atributos hechos a base de códigos y algoritmos para realizar una tarea determinada por medio de instrucciones.
 
 2. ¿En qué año se originó la palabra “bug”?
     a. 1945
