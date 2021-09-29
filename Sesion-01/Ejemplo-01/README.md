@@ -1,15 +1,15 @@
-# Ejemplo # - Nombre del ejemplo
+# Ejemplo # - Creación de un Producto de Software
 
 ## Objetivo
 
-* Agregar los objetivos del ejemplo (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* El objetivo es crear las funciones básicas de una calculadora: suma, resta, multiplicación y división, para dos números. 
+Al presionar el botón correspondiente se imprimirá  el resultado con el mensaje: “El resultado de la operación suma es: 4“, modificando la operación y el resultado correspondiente.
+La actividad se hará preferentemente en 4 equipos.
+
 
 ## Desarrollo
 
 >**💡 Nota para experto(a)**
 >
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el ejemplo.
->Si no es necesario, puedes borrar esta nota.
-
-Aquí se debe agregar el desarrollo del ejemplo
+> El ejemplo se desarrolla duarante la
 
