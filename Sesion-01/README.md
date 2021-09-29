@@ -1,5 +1,5 @@
 
-# Sesión #: Fundamentos del soft ware testing.
+# Sesión #: Fundamentos del Software Testing.
 
 ## :dart: Objetivos
 
