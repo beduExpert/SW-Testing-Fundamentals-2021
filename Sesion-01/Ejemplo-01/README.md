@@ -11,7 +11,7 @@ La actividad se hará preferentemente en 4 equipos utilizando la herramienta Blo
 
 >**💡 Nota para experto(a)**
 >
-> El ejemplo se desarrolla durante la sesión ya que lo que se pretende es que los alumnos cometan errores para que entiendan cómo se originan los errores en un producto de software.
+> El ejemplo se desarrolla durante la sesión ya que lo que se pretende es que los alumnos cometan errores para que entiendan cómo se originan los éstos en un producto de software.
 
 ![image](https://user-images.githubusercontent.com/67882289/135353355-5ac1bd92-dfa4-488f-8458-62a7d6326cd0.png)
 
