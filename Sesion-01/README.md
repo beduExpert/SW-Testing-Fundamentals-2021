@@ -48,12 +48,6 @@ En el testing la forma en como comunicamos defectos y áreas de oportunidad de l
     - Aplicación de un dispositivo móvil.
     - Horno de microondas.
 
-## Origenes de los defectos.
-
-Como se mencionó en el prework los defectos en el Software son producidos por las personas al cometer errores debido a factores como el estrés, la complejidad del código que se esté desarrollando o incluso factores difíciles de predecir.//
-
-![image](https://user-images.githubusercontent.com/67882289/135359798-edd0041e-2810-428c-b14c-492f50a9d7f4.png)
-
 ## Ejemplos de Productos de Software
 
 Aplicaciones Móviles\
@@ -68,6 +62,26 @@ Páginas Web\
 Software en Automóviles\
 ![image](https://user-images.githubusercontent.com/67882289/135359204-64ad387b-2f8a-4098-9a0b-434c2b3a7b57.jpeg)
 
+## Origenes de los defectos.
+
+Como se mencionó en el prework los defectos en el Software son producidos por las personas al cometer errores debido a factores como el estrés, la complejidad del código que se esté desarrollando o incluso factores difíciles de predecir.
+
+![image](https://user-images.githubusercontent.com/67882289/135359798-edd0041e-2810-428c-b14c-492f50a9d7f4.png)
+
+## ¿Porqué es importante la calida del software?
+
+Como cualquier otro producto que utilizamos, si un producto de software resulta altamente defectuoso se puede producir lo siguiente:
+
+- Insatisfacción de los clientes.
+- Pérdidas económicas de las empresas.
+- Afectación de la imagen.
+- Daños a la integridad de los usuarios.
+
+## ¿Qué es el Software Testing?
+
+“Es un conjunto de actividades y etapas conducidas a lo largo del desarrollo de un producto de software que si son llevadas a cabo de forma correcta permiten encontrar defectos preferentemente en etapas tempranas del desarrollo del producto para reducir costos de producción, incrementar la calidad y reducir el nivel de riesgo”.
+
+![image](https://user-images.githubusercontent.com/67882289/135360175-a0865669-30ae-42b2-973d-42ffd129ee88.png)
 
 ## 📂 Organización de la clase
 
