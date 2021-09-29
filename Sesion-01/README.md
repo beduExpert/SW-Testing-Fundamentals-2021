@@ -51,16 +51,16 @@ En el testing la forma en como comunicamos defectos y áreas de oportunidad de l
 ## Ejemplos de Productos de Software
 
 Aplicaciones Móviles\
-![image](https://user-images.githubusercontent.com/67882289/135358516-120b8f77-a924-4eaf-8ed1-b29de221f246.jpeg)
+![image](https://user-images.githubusercontent.com/67882289/135359111-c7451d4e-2363-4e69-bc3f-f09926f44702.jpeg)
 
-Videojuegos
-![image](https://user-images.githubusercontent.com/67882289/135358529-07e0cc14-707a-4620-a2de-2731e89b524d.jpeg)
+Videojuegos\
+![image](https://user-images.githubusercontent.com/67882289/135359186-2bd17c34-4769-4b57-9085-12e813697bcd.jpeg)
 
-Páginas Web
-![image](https://user-images.githubusercontent.com/67882289/135358551-a0722e02-ad95-4532-8d33-028cd9e98486.png)
+Páginas Web\
+![image](https://user-images.githubusercontent.com/67882289/135359198-6ff6f408-f4b4-453c-b427-89bb9d129f52.png)
 
-Software en Automóviles
-![image](https://user-images.githubusercontent.com/67882289/135358599-6f8cbbd2-6d6a-4a05-b659-162b7f3d8af7.jpeg)
+Software en Automóviles\
+![image](https://user-images.githubusercontent.com/67882289/135359204-64ad387b-2f8a-4098-9a0b-434c2b3a7b57.jpeg)
 
 
 ## 📂 Organización de la clase
