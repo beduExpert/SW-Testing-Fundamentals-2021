@@ -50,7 +50,7 @@ En el testing la forma en como comunicamos defectos y áreas de oportunidad de l
 
 ## Ejemplos de Productos de Software
 
-Aplicaciones Móviles\n
+Aplicaciones Móviles\
 ![image](https://user-images.githubusercontent.com/67882289/135358516-120b8f77-a924-4eaf-8ed1-b29de221f246.jpeg)
 
 Videojuegos
