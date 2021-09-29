@@ -18,8 +18,6 @@ En el testing la forma en como comunicamos defectos y áreas de oportunidad de l
 
 ## 📂 Organización de la clase
 
-Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea una vez se hay leido)
-
 - [Ejemplo 01:  Creación de un Producto de Software.](./Ejemplo-01/README.md)
     - [Reto 01: Principios del Testing al testear un Producto de Software.](./Reto-01/README.md)
     - [Reto  02: Recordando las Etapas del Proceso Fundamental del  Testing.](./Reto-02/README.md)
