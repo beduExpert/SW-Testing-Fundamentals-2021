@@ -48,6 +48,12 @@ En el testing la forma en como comunicamos defectos y áreas de oportunidad de l
     - Aplicación de un dispositivo móvil.
     - Horno de microondas.
 
+## Origenes de los defectos.
+
+Como se mencionó en el prework los defectos en el Software son producidos por las personas al cometer errores debido a factores como el estrés, la complejidad del código que se esté desarrollando o incluso factores difíciles de predecir.//
+
+![image](https://user-images.githubusercontent.com/67882289/135359798-edd0041e-2810-428c-b14c-492f50a9d7f4.png)
+
 ## Ejemplos de Productos de Software
 
 Aplicaciones Móviles\
