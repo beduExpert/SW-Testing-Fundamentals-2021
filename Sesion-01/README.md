@@ -18,7 +18,7 @@ En el testing la forma en como comunicamos defectos y áreas de oportunidad de l
 
 ## :dart: Validación de Prework
 
-1. ¿Qué es un producto de software?
+1. :dart: ¿Qué es un producto de software?
     a. Un producto que compras por medio de una aplicación de software.
     b. Un producto para fabricar software.
     c. Componentes especializados que usan industrias de tecnologías.
