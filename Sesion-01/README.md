@@ -68,7 +68,7 @@ Como se mencionó en el prework los defectos en el Software son producidos por l
 
 <img width="567" alt="image" src="https://user-images.githubusercontent.com/67882289/135387179-58352757-a7b7-43b9-b165-40e878dfa889.png">
 
-## ¿Porqué es importante la calida del software?
+## ¿Porqué es importante la calidad del software?
 
 Como cualquier otro producto que utilizamos, si un producto de software resulta altamente defectuoso se puede producir lo siguiente:
 
@@ -122,13 +122,19 @@ https://developers.google.com/blockly
 El testing es útil para demostrar que existen defectos en un sistema, mas no se puede garantizar que el sistema es libre de defectos.
 - Principio 2. El testing exhaustivo es imposible.\
 Cualquier sistema por simple que sea puede tener una cantidad infinita de combinaciones y pruebas a realizar. Debido a que la cantidad de recursos y tiempo son limitados no se pueden probar cada una de estas combinaciones.
-- Principio 3. Principio 3. Testing en etapas tempranas del proyecto.
-- Principio 4. Aglomeración de defectos.
-- Principio 5. La paradoja del pesticida.
-- Principio 6. El testing es dependiente del contexto del proyecto.
-- Principio 7. La falacia de ausencia de defectos.
-
-
+- Principio 3. Principio 3. Testing en etapas tempranas del proyecto.\
+El costo de encontrar y remover un defecto se incrementa cuanto más tiempo el defecto permanece en el proceso de desarrollo.\
+Entre más temprano se encuentre el defecto menos costoso será removerlo.
+- Principio 4. Aglomeración de defectos.\
+Los defectos no se encuentran aleatoria ni uniformemente distribuidos en los sistemas, éstos tienden a aglomerarse en funcionalidades más complejas.
+- Principio 5. La paradoja del pesticida.\
+Un mismo conjunto de pruebas que se ejecutan en una misma funcionalidad tienden a perder efectividad cuanto más se ejecutan.\
+La falta de efectividad de las pruebas puede dar un nivel de confianza y optimismo falsos.
+- Principio 6. El testing es dependiente del contexto del proyecto.\
+El contexto del proyecto influencia cuantas pruebas deben de llevarse a cabo y cómo deben de hacerse.
+- Principio 7. La falacia de ausencia de defectos.\
+El testing no puede garantizar que un producto funcione.\
+No importa que tan libre de defectos sea el producto de software si éste no cubre las expectativas del usuario final, el producto no es útil.
 
 
 
