@@ -81,7 +81,42 @@ Como cualquier otro producto que utilizamos, si un producto de software resulta 
 
 “Es un conjunto de actividades y etapas conducidas a lo largo del desarrollo de un producto de software que si son llevadas a cabo de forma correcta permiten encontrar defectos preferentemente en etapas tempranas del desarrollo del producto para reducir costos de producción, incrementar la calidad y reducir el nivel de riesgo”.
 
+Los principales objetivos del softwre testing son:
+
+- Encontrar defectos.
+- Incrementar la confianza en el nivel de calidad de los productos.
+- Aportar información para poder tomar decisiones.
+- Prevenir defectos.
+
+El testing por sí sólo no resuelve los defecto, es hasta que el defecto se reporta y el desarrollador debuggea el código que se remueve.
+
 ![image](https://user-images.githubusercontent.com/67882289/135360175-a0865669-30ae-42b2-973d-42ffd129ee88.png)
+
+## Debuggear
+
+Testing es diferente a debuggear (debugging). Debuggear es una actividad desempeñada por los desarrolladores para que una vez reportado un defecto poder analizar el código en tiempo de ejecución.
+
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/67882289/135387869-8723615b-73cc-47cf-a77a-571ae6a4b527.png">
+
+## Ejemplo 1 Creación de un Producto de Software con Blockly.
+
+En este ejemplo se explica como puedes crear un programa sencillo con la herramienta blockly, una herramienta que usa programación por bloques y es fácil de entender.
+
+## Reto 1 Crea tu propio Producto de Software
+
+El objetivo es crear las funciones básicas de una calculadora: suma, resta, multiplicación y división, para dos números. 
+
+Al presionar el botón correspondiente se imprimirá  el resultado con el mensaje: “El resultado de la operación suma es: 4“, modificando la operación y el resultado correspondiente.
+
+La actividad se hará preferentemente en 4 equipos.
+
+https://developers.google.com/blockly
+![image](https://user-images.githubusercontent.com/67882289/135388231-d3048143-f66a-45ec-bc3b-f444f40d4c60.png)
+
+
+![image](https://user-images.githubusercontent.com/67882289/135388196-aa39ae91-f10e-49df-b912-32d7574ca7c1.png)
+
+
 
 ## 📂 Organización de la clase
 
