@@ -216,6 +216,27 @@ Debido a que el testing por naturaleza es una actividad de análisis y crítica 
 - Un ingeniero de pruebas debe de asumir que cualquier producto que esté probando o analizando es defectuoso.
 - Un desarrollador debe de tener la confianza de que entiende lo que está haciendo y que su trabajo funciona como se espera.
 
+<img width="331" alt="image" src="https://user-images.githubusercontent.com/67882289/135539767-d1922ee2-4808-4281-ba84-b166ed9dae40.png">
+
+## El sesgo del autor.
+
+Este concepto menciona que el autor de cualquier de producto se genera una falsa confianza de que su creación funciona correctamente y como se espera, lo cual le dificulta encontrar defectos en su trabajo.
+
+![image](https://user-images.githubusercontent.com/67882289/135540429-3a180a2b-f148-4127-a9b4-9ac4060eeab1.png)
+
+## Independencia del Testing
+
+La independencia del testing se refiere al nivel de independencia que un equipo de testing tiene en el sistema que se está probando. Osea que tan ajeno es el equipo de testing al producto de software que se esté desarrollando.
+
+Un equipo de testing con alta independencia tiende a encontrar mayores defectos y a estar mejor entrenado.
+
+| Nivel de Independencia | Descripción |
+| --- | --- |
+| Baja | El mismo desarrollador realiza sus pruebas en su código/sistema. |
+| Media-Baja | Un desarrollador realiza pruebas en el código/sistema de alguien más. |
+| Media-Alta | Un equipo de testing de la misma compañía realiza pruebas en el código/sistema de alguien más. |
+| Alta | Un equipo de testing de diferente compañía realiza pruebas en el código/sistema de otra compañía. |
+
 
 ## 📂 Organización de la clase
 
