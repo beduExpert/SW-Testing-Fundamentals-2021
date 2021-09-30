@@ -1,4 +1,4 @@
-# Reto # - Crea tu porpio Producto de Software.
+# Reto 1 - Crea tu porpio Producto de Software.
 
 ## Objetivo
 
