@@ -66,7 +66,7 @@ Software en Automóviles\
 
 Como se mencionó en el prework los defectos en el Software son producidos por las personas al cometer errores debido a factores como el estrés, la complejidad del código que se esté desarrollando o incluso factores difíciles de predecir.
 
-<img width="580" alt="image" src="https://user-images.githubusercontent.com/67882289/135387129-b3d20587-20b0-4437-955a-7a26b5ffd511.png">
+<img width="567" alt="image" src="https://user-images.githubusercontent.com/67882289/135387179-58352757-a7b7-43b9-b165-40e878dfa889.png">
 
 ## ¿Porqué es importante la calida del software?
 
