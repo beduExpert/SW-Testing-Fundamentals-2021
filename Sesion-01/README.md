@@ -169,7 +169,8 @@ Existen un conjunto de actividades que de alguna forma u otra pueden llevarse a 
 <img width="822" alt="image" src="https://user-images.githubusercontent.com/67882289/135497621-6c3498d3-5d5e-4e97-92dd-674c44773449.png">
 - Análisis.
 
-    - En esta etapa se revisan y analizan las bases de pruebas. Estas bases pueden ser requerimientos, especificaciones de diseño, reportes de análisis de riesgo, arquitectura del sistema, etc.
+    - En esta etapa se revisan y analizan las bases de pruebas. 
+    - Las bases de pruebas pueden ser requerimientos, especificaciones de diseño, reportes de análisis de riesgo, arquitectura del sistema, etc.
     - Se priorizan las condiciones de pruebas y se identifican datos que servirán como entradas para las condiciones de pruebas.
 - Diseño.
 
