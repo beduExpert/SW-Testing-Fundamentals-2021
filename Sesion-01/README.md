@@ -102,7 +102,7 @@ Testing es diferente a debuggear (debugging). Debuggear es una actividad desempe
 
 En este ejemplo se explica como puedes crear un programa sencillo con la herramienta blockly, una herramienta que usa programación por bloques y es fácil de entender.
 
-## Reto 1 Crea tu propio Producto de Software
+## Reto 1 Crea tu propio producto de Software.
 
 El objetivo es crear las funciones básicas de una calculadora: suma, resta, multiplicación y división, para dos números. 
 
@@ -111,10 +111,25 @@ Al presionar el botón correspondiente se imprimirá  el resultado con el mensaj
 La actividad se hará preferentemente en 4 equipos.
 
 https://developers.google.com/blockly
-![image](https://user-images.githubusercontent.com/67882289/135388231-d3048143-f66a-45ec-bc3b-f444f40d4c60.png)
+
+![image](https://user-images.githubusercontent.com/67882289/135389652-dccdc330-1a89-4f5e-9ede-4dc40383226a.png)
+
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/67882289/135389682-53f601bc-6860-4025-bd51-6700192778ba.png">
+
+## Los 7 Principios del Testing
+
+- Principio 1. El Testing demuestra la presencia de defectos.\
+El testing es útil para demostrar que existen defectos en un sistema, mas no se puede garantizar que el sistema es libre de defectos.
+- Principio 2. El testing exhaustivo es imposible.\
+Cualquier sistema por simple que sea puede tener una cantidad infinita de combinaciones y pruebas a realizar. Debido a que la cantidad de recursos y tiempo son limitados no se pueden probar cada una de estas combinaciones.
+- Principio 3. Principio 3. Testing en etapas tempranas del proyecto.
+- Principio 4. Aglomeración de defectos.
+- Principio 5. La paradoja del pesticida.
+- Principio 6. El testing es dependiente del contexto del proyecto.
+- Principio 7. La falacia de ausencia de defectos.
 
 
-![image](https://user-images.githubusercontent.com/67882289/135388196-aa39ae91-f10e-49df-b912-32d7574ca7c1.png)
+
 
 
 
