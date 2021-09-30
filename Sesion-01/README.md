@@ -150,7 +150,7 @@ El testing no puede garantizar que un producto funcione.\
 No importa que tan libre de defectos sea el producto de software si éste no cubre las expectativas del usuario final, el producto no es útil.\
 <img width="569" alt="image" src="https://user-images.githubusercontent.com/67882289/135391764-13630a6a-6ff2-41a1-b615-9ef4474e4dcc.png">
 
-## Reto 1 Crea tu propio producto de Software.
+## Reto 2 Principios del Testing al testear un Producto de Software
 
 Utilizando el programa construído en la actividad anterior cómo piensas que podrías aplicar los principios del software testing si tuvieras que revisar el correcto funcionamiento de ese programa.
 
@@ -198,7 +198,20 @@ Existen un conjunto de actividades que de alguna forma u otra pueden llevarse a 
     - Se colecta información de las actividades desempeñadas relacionadas a las pruebas como: experiencia, herramientas usadas y estadísticas.
     - Se analizan las lecciones aprendidas para poder utilizarlas en otros proyectos y mejorar su calidad.
 
+## Reto 3 Recordando las Etapas del Proceso Fundamental del Testing
 
+Vamos a recordar las etapas del proceso fundamental del software testing y qué actividades son llevadas a cabo en cada una.
+
+## La Psicología del Software Testing
+
+En las actividades de testing al igual que en la mayoría de otras actividades, interactuamos con otras personas. Es por eso que una comunicación efectiva se vuelve clave para poder dar a entender nuestro punto de vista.
+
+Debido a que el testing por naturaleza es una actividad de análisis y crítica al trabajo de otras personas, debemos de comunicar nuestras opiniones:
+- De forma impersonal y clara. Es decir evitando resaltar el nombre de alguien más y evitando reproches. Mejor enfatizar los beneficios e importancia de que se cree un producto de buena calidad que dará mejor imagen al equipo y seguramente mayores beneficios a largo plazo. 
+- Basadas en medida de lo posible con hechos. Siempre es mejor tener evidencias sólidas de un defecto o área de oportunidad que una opinión subjetiva. Generalmente los defectos que son difíciles de explicar o no se tienen evidecias, resultan con poca atención o con mucho tiempo dedicado por el tester para poder demostrar su punto de vista. Si se piensa que un defecto puede presentar un problema crítico en el futuro, tal vez valga la pena defenderlo sino es mejor dedicar el esfuerzo y tiempo a encontrar otros defectos más severos y críticos para el sistema.
+- Siempre respetando el punto de vista de las demás personas. Hay que aprender a escuchar las opiniones 
+
+Es importante recordar que el ser humano tiene cierta intoleracia a recibir críticas negativas de su trabajo.
 
 ## 📂 Organización de la clase
 
