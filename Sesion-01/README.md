@@ -98,21 +98,9 @@ Testing es diferente a debuggear (debugging). Debuggear es una actividad desempe
 
 <img width="549" alt="image" src="https://user-images.githubusercontent.com/67882289/135387869-8723615b-73cc-47cf-a77a-571ae6a4b527.png">
 
-## [Ejemplo 01:  Creación de un Producto de Software.](./Ejemplo-01/README.md)
+## [Ejemplo 01: Creación de un Producto de Software.](./Ejemplo-01/README.md)
 
-## Reto 1 Crea tu propio producto de Software.
-
-El objetivo es crear las funciones básicas de una calculadora: suma, resta, multiplicación y división, para dos números. 
-
-Al presionar el botón correspondiente se imprimirá  el resultado con el mensaje: “El resultado de la operación suma es: 4“, modificando la operación y el resultado correspondiente.
-
-La actividad se hará preferentemente en 4 equipos.
-
-https://developers.google.com/blockly
-
-![image](https://user-images.githubusercontent.com/67882289/135541802-a67d1f41-731a-4495-b00d-8592d6c4e3cd.png)
-
-<img width="427" alt="image" src="https://user-images.githubusercontent.com/67882289/135389682-53f601bc-6860-4025-bd51-6700192778ba.png">
+## [Reto 01: Crea tu propio producto de Software.](./Reto-01/README.md)
 
 ## Los 7 Principios del Testing
 
@@ -148,9 +136,7 @@ El testing no puede garantizar que un producto funcione.\
 No importa que tan libre de defectos sea el producto de software si éste no cubre las expectativas del usuario final, el producto no es útil.\
 <img width="569" alt="image" src="https://user-images.githubusercontent.com/67882289/135391764-13630a6a-6ff2-41a1-b615-9ef4474e4dcc.png">
 
-## Reto 2 Principios del Testing al testear un Producto de Software
-
-Utilizando el programa construído en la actividad anterior cómo piensas que podrías aplicar los principios del software testing si tuvieras que revisar el correcto funcionamiento de ese programa.
+## [Reto  02: Principios del Testing al testear un Producto de Software.](./Reto-02/README.md)
 
 ## Proceso Fundamental del Testing
 
@@ -196,10 +182,6 @@ Existen un conjunto de actividades que de alguna forma u otra pueden llevarse a 
     - Se colecta información de las actividades desempeñadas relacionadas a las pruebas como: experiencia, herramientas usadas y estadísticas.
     - Se analizan las lecciones aprendidas para poder utilizarlas en otros proyectos y mejorar su calidad.
 
-## Reto 3 Recordando las Etapas del Proceso Fundamental del Testing
-
-Vamos a recordar las etapas del proceso fundamental del software testing y qué actividades son llevadas a cabo en cada una.
-
 ## La Psicología del Software Testing
 
 En las actividades de testing al igual que en la mayoría de otras actividades, interactuamos con otras personas. Es por eso que una comunicación efectiva se vuelve clave para poder dar a entender nuestro punto de vista.
@@ -235,12 +217,15 @@ Un equipo de testing con alta independencia tiende a encontrar mejores defectos,
 | Media-Alta | Un equipo de testing de la misma compañía realiza pruebas en el código/sistema de alguien más. |
 | Alta | Un equipo de testing de diferente compañía realiza pruebas en el código/sistema de otra compañía. |
 
+## [Ejemplo 02: ¿Cómo probar un Producto de Software?.](./Ejemplo-02/README.md)
+
+## [Reto 03: Prueba un Producto de Software.](./Reto-03/README.md)
 
 ## 📂 Organización de la clase
 
-
-    - [Reto 01: Principios del Testing al testear un Producto de Software.](./Reto-01/README.md)
-    - [Reto  02: Recordando las Etapas del Proceso Fundamental del  Testing.](./Reto-02/README.md)
-- [Ejemplo 02: Testeando el Producto de Software.](./Ejemplo-02/README.md)
-    - [Reto 03: Conclusiones de la Psicología del Testing.](./Reto-03/README.md)
+- [Ejemplo 01: Creación de un Producto de Software.](./Ejemplo-01/README.md) 
+    - [Reto 01: Crea tu propio producto de Software.](./Reto-01/README.md)
+    - [Reto  02: Principios del Testing al testear un Producto de Software.](./Reto-02/README.md)
+- [Ejemplo 02: ¿Cómo probar un Producto de Software?.](./Ejemplo-02/README.md)
+    - [Reto 03: Prueba un Producto de Software.](./Reto-03/README.md)
 - [Postwork: Fundamentos del Software Testing.](./Postwork/README.md)
