@@ -162,7 +162,7 @@ Existen un conjunto de actividades que de alguna forma u otra pueden llevarse a 
 
 - Planeación.
 
-La planeación implica definir los objetivos y las estrategias del proceso de pruebas. En la planeación se identifican las actividades necesarias para satisfacer los objetivos y estrategias definidos.
+    - La planeación implica definir los objetivos y las estrategias del proceso de pruebas. En la planeación se identifican las actividades necesarias para satisfacer los objetivos y estrategias definidos.
 - Control.
 
 Se lleva a cabo durante todo el proceso de pruebas y se trata de continuamente medir y comparar el progreso planeado con el actual. En caso de que existan inconsistencias tomar acciones necesarias para poder regresar a los objetivos planeados.
