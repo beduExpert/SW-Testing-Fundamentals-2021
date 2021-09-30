@@ -150,6 +150,51 @@ El testing no puede garantizar que un producto funcione.\
 No importa que tan libre de defectos sea el producto de software si éste no cubre las expectativas del usuario final, el producto no es útil.\
 <img width="569" alt="image" src="https://user-images.githubusercontent.com/67882289/135391764-13630a6a-6ff2-41a1-b615-9ef4474e4dcc.png">
 
+## Reto 1 Crea tu propio producto de Software.
+
+Utilizando el programa construído en la actividad anterior cómo piensas que podrías aplicar los principios del software testing si tuvieras que revisar el correcto funcionamiento de ese programa.
+
+## Proceso Fundamental del Testing
+
+Existen un conjunto de actividades que de alguna forma u otra pueden llevarse a cabo en un proceso de testing. Estas etapas pueden llevarse de forma paralela o traslaparse.
+
+<img width="749" alt="image" src="https://user-images.githubusercontent.com/67882289/135496440-eedf2b0c-da57-40f0-a2a0-f0eb5b16a6ac.png">
+
+- Planeación.
+
+La planeación implica definir los objetivos y las estrategias del proceso de pruebas. En la planeación se identifican las actividades necesarias para satisfacer los objetivos y estrategias definidos.
+- Control.
+
+Se lleva a cabo durante todo el proceso de pruebas y se trata de continuamente medir y comparar el progreso planeado con el actual. En caso de que existan inconsistencias tomar acciones necesarias para poder regresar a los objetivos planeados.
+<img width="822" alt="image" src="https://user-images.githubusercontent.com/67882289/135497621-6c3498d3-5d5e-4e97-92dd-674c44773449.png">
+- Análisis.
+
+En esta etapa se revisan y analizan las bases de pruebas. Estas bases pueden ser requerimientos, especificaciones de diseño, reportes de análisis de riesgo, arquitectura del sistema, etc.\
+Se priorizan las condiciones de pruebas y se identifican datos que servirán como entradas para las condiciones de pruebas.
+- Diseño.
+
+Se diseñan los casos de prueba a un alto nivel.\
+Se diseña el ambiente de pruebas.\
+Se genera trazabilidad entre las bases de prueba y los casos de prueba.
+- Implementación.
+
+Durante esta etapa se profundiza el diseño de los casos de prueba a un nivel más bajo y se actualiza trazabilidad si es necesario.\
+Se definen y planean los procedimientos de pruebas.\
+Se prepara el ambiente de pruebas y se verifica que funcione correctamente.
+- Ejecución.
+
+Se ejecutan los casos de pruebas ya sea manualmente o de forma automática.\
+Se comparan los resultados actuales con los esperados y éstos se registran.\
+En caso de que el resultado de una prueba sea fallo, se analiza y si se demuestra que es una incidencia ésta se registra.
+- Evaluación de Criterios de Salida y Reporteo.
+
+Durante esta etapa se corrobora el progreso y resultado de las pruebas contra los criterios de salida.\
+Se verifica si más test cases son requeridos.\
+Se genera un resumen de los resultados en un reporte que sea entendible para cualquier interesado del proyecto.
+- Actividades de Conclusión.
+
+Se colecta información de las actividades desempeñadas relacionadas a las pruebas como: experiencia, herramientas usadas y estadísticas.\
+Se analizan las lecciones aprendidas para poder utilizarlas en otros proyectos y mejorar su calidad.
 
 
 
