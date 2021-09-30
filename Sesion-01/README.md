@@ -209,9 +209,13 @@ En las actividades de testing al igual que en la mayoría de otras actividades, 
 Debido a que el testing por naturaleza es una actividad de análisis y crítica al trabajo de otras personas, debemos de comunicar nuestras opiniones:
 - De forma impersonal y clara. Es decir evitando resaltar el nombre de alguien más y evitando reproches. Mejor enfatizar los beneficios e importancia de que se cree un producto de buena calidad que dará mejor imagen al equipo y seguramente mayores beneficios a largo plazo. 
 - Basadas en medida de lo posible con hechos. Siempre es mejor tener evidencias sólidas de un defecto o área de oportunidad que una opinión subjetiva. Generalmente los defectos que son difíciles de explicar o no se tienen evidecias, resultan con poca atención o con mucho tiempo dedicado por el tester para poder demostrar su punto de vista. Si se piensa que un defecto puede presentar un problema crítico en el futuro, tal vez valga la pena defenderlo sino es mejor dedicar el esfuerzo y tiempo a encontrar otros defectos más severos y críticos para el sistema.
-- Siempre respetando el punto de vista de las demás personas. Hay que aprender a escuchar las opiniones 
+- Siempre respetando el punto de vista de las demás personas. Cada persona puede tener distintos puntos de vista sobre algún defecto o detalle. Es recomendable escuchar otras opiniones de otras personas con respeto y con mente abierta.
 
-Es importante recordar que el ser humano tiene cierta intoleracia a recibir críticas negativas de su trabajo.
+## Mentalidad del Tester vs la Mentalidad del Desarrollador.
+
+- Un ingeniero de pruebas debe de asumir que cualquier producto que esté probando o analizando es defectuoso.
+- Un desarrollador debe de tener la confianza de que entiende lo que está haciendo y que su trabajo funciona como se espera.
+
 
 ## 📂 Organización de la clase
 
