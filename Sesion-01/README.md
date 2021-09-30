@@ -121,7 +121,6 @@ https://developers.google.com/blockly
 - Principio 1. El Testing demuestra la presencia de defectos.\
 El testing es útil para demostrar que existen defectos en un sistema, mas no se puede garantizar que el sistema es libre de defectos.\
 ![image](https://user-images.githubusercontent.com/67882289/135391341-4016ce85-fd3f-4fb9-8d2d-d76e78c757f7.png)
-El testing es útil para demostrar que existen defectos en un sistema, mas no se puede garantizar que el sistema es libre de defectos.\
 - Principio 2. El testing exhaustivo es imposible.\
 Cualquier sistema por simple que sea puede tener una cantidad infinita de combinaciones y pruebas a realizar. Debido a que la cantidad de recursos y tiempo son limitados no se pueden probar cada una de estas combinaciones.\
 <img width="553" alt="image" src="https://user-images.githubusercontent.com/67882289/135391493-8db086a6-94e5-4779-b104-f2fb9be36033.png">
