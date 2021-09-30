@@ -167,6 +167,7 @@ Existen un conjunto de actividades que de alguna forma u otra pueden llevarse a 
 
     - Se lleva a cabo durante todo el proceso de pruebas y se trata de continuamente medir y comparar el progreso planeado con el actual. En caso de que existan inconsistencias tomar acciones necesarias para poder regresar a los objetivos planeados.
 <img width="822" alt="image" src="https://user-images.githubusercontent.com/67882289/135497621-6c3498d3-5d5e-4e97-92dd-674c44773449.png">
+
 - Análisis.
 
     - En esta etapa se revisan y analizan las bases de pruebas. 
