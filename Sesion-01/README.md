@@ -98,9 +98,7 @@ Testing es diferente a debuggear (debugging). Debuggear es una actividad desempe
 
 <img width="549" alt="image" src="https://user-images.githubusercontent.com/67882289/135387869-8723615b-73cc-47cf-a77a-571ae6a4b527.png">
 
-## Ejemplo 1 Creación de un Producto de Software con Blockly.
-
-En este ejemplo se explica como puedes crear un programa sencillo con la herramienta blockly, una herramienta que usa programación por bloques y es fácil de entender.
+## [Ejemplo 01:  Creación de un Producto de Software.](./Ejemplo-01/README.md)
 
 ## Reto 1 Crea tu propio producto de Software.
 
@@ -112,7 +110,7 @@ La actividad se hará preferentemente en 4 equipos.
 
 https://developers.google.com/blockly
 
-![image](https://user-images.githubusercontent.com/67882289/135389652-dccdc330-1a89-4f5e-9ede-4dc40383226a.png)
+![image](https://user-images.githubusercontent.com/67882289/135541802-a67d1f41-731a-4495-b00d-8592d6c4e3cd.png)
 
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/67882289/135389682-53f601bc-6860-4025-bd51-6700192778ba.png">
 
@@ -222,13 +220,13 @@ Debido a que el testing por naturaleza es una actividad de análisis y crítica 
 
 Este concepto menciona que el autor de cualquier de producto se genera una falsa confianza de que su creación funciona correctamente y como se espera, lo cual le dificulta encontrar defectos en su trabajo.
 
-![image](https://user-images.githubusercontent.com/67882289/135540429-3a180a2b-f148-4127-a9b4-9ac4060eeab1.png)
+![image](https://user-images.githubusercontent.com/67882289/135541501-bf35faf8-be6d-460d-bcc1-7c35eb8d27f5.png)
 
 ## Independencia del Testing
 
 La independencia del testing se refiere al nivel de independencia que un equipo de testing tiene en el sistema que se está probando. Osea que tan ajeno es el equipo de testing al producto de software que se esté desarrollando.
 
-Un equipo de testing con alta independencia tiende a encontrar mayores defectos y a estar mejor entrenado.
+Un equipo de testing con alta independencia tiende a encontrar mejores defectos, además tiene las habilidades, el entrenamiento y la mentalidad profesional correcta.
 
 | Nivel de Independencia | Descripción |
 | --- | --- |
@@ -240,7 +238,7 @@ Un equipo de testing con alta independencia tiende a encontrar mayores defectos 
 
 ## 📂 Organización de la clase
 
-- [Ejemplo 01:  Creación de un Producto de Software.](./Ejemplo-01/README.md)
+
     - [Reto 01: Principios del Testing al testear un Producto de Software.](./Reto-01/README.md)
     - [Reto  02: Recordando las Etapas del Proceso Fundamental del  Testing.](./Reto-02/README.md)
 - [Ejemplo 02: Testeando el Producto de Software.](./Ejemplo-02/README.md)
