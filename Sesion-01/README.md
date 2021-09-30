@@ -120,34 +120,34 @@ https://developers.google.com/blockly
 
 - Principio 1. El Testing demuestra la presencia de defectos.
 
-El testing es útil para demostrar que existen defectos en un sistema, mas no se puede garantizar que el sistema es libre de defectos.
+El testing es útil para demostrar que existen defectos en un sistema, mas no se puede garantizar que el sistema es libre de defectos.\
 ![image](https://user-images.githubusercontent.com/67882289/135391341-4016ce85-fd3f-4fb9-8d2d-d76e78c757f7.png)
 - Principio 2. El testing exhaustivo es imposible.
 
-Cualquier sistema por simple que sea puede tener una cantidad infinita de combinaciones y pruebas a realizar. Debido a que la cantidad de recursos y tiempo son limitados no se pueden probar cada una de estas combinaciones.
+Cualquier sistema por simple que sea puede tener una cantidad infinita de combinaciones y pruebas a realizar. Debido a que la cantidad de recursos y tiempo son limitados no se pueden probar cada una de estas combinaciones.\
 <img width="553" alt="image" src="https://user-images.githubusercontent.com/67882289/135391493-8db086a6-94e5-4779-b104-f2fb9be36033.png">
 - Principio 3. Principio 3. Testing en etapas tempranas del proyecto.
 
 El costo de encontrar y remover un defecto se incrementa cuanto más tiempo el defecto permanece en el proceso de desarrollo.\
-Entre más temprano se encuentre el defecto menos costoso será removerlo.
+Entre más temprano se encuentre el defecto menos costoso será removerlo.\
 <img width="708" alt="image" src="https://user-images.githubusercontent.com/67882289/135391551-2273f513-9de7-464c-b784-b0e040f194f3.png">
 - Principio 4. Aglomeración de defectos.
 
-Los defectos no se encuentran aleatoria ni uniformemente distribuidos en los sistemas, éstos tienden a aglomerarse en funcionalidades más complejas.
+Los defectos no se encuentran aleatoria ni uniformemente distribuidos en los sistemas, éstos tienden a aglomerarse en funcionalidades más complejas.\
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/67882289/135391625-13a1ed5d-5120-4726-803c-80866387d48d.png">
 - Principio 5. La paradoja del pesticida.
 
 Un mismo conjunto de pruebas que se ejecutan en una misma funcionalidad tienden a perder efectividad cuanto más se ejecutan.\
-La falta de efectividad de las pruebas puede dar un nivel de confianza y optimismo falsos.
+La falta de efectividad de las pruebas puede dar un nivel de confianza y optimismo falsos.\
 <img width="582" alt="image" src="https://user-images.githubusercontent.com/67882289/135391656-80e341c7-5c68-4b93-82c3-081b5adfbff9.png">
 - Principio 6. El testing es dependiente del contexto del proyecto.
 
-El contexto del proyecto influencia cuantas pruebas deben de llevarse a cabo y cómo deben de hacerse.
+El contexto del proyecto influencia cuantas pruebas deben de llevarse a cabo y cómo deben de hacerse.\
 <img width="627" alt="image" src="https://user-images.githubusercontent.com/67882289/135391738-6ef7742f-95e3-44ea-84af-e80a1a2af587.png">
 - Principio 7. La falacia de ausencia de defectos.
 
 El testing no puede garantizar que un producto funcione.\
-No importa que tan libre de defectos sea el producto de software si éste no cubre las expectativas del usuario final, el producto no es útil.
+No importa que tan libre de defectos sea el producto de software si éste no cubre las expectativas del usuario final, el producto no es útil.\
 <img width="569" alt="image" src="https://user-images.githubusercontent.com/67882289/135391764-13630a6a-6ff2-41a1-b615-9ef4474e4dcc.png">
 
 
