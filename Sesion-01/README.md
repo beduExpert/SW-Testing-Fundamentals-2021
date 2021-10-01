@@ -217,7 +217,7 @@ Un equipo de testing con alta independencia tiende a encontrar mejores defectos,
 | Media-Alta | Un equipo de testing de la misma compañía realiza pruebas en el código/sistema de alguien más. |
 | Alta | Un equipo de testing de diferente compañía realiza pruebas en el código/sistema de otra compañía. |
 
-## [Ejemplo 02: ¿Cómo probar un Producto de Software?.](./Ejemplo-02/README.md)
+## [Ejemplo 02: ¿Cómo probar un Producto de Software?](./Ejemplo-02/README.md)
 
 ## [Reto 03: Prueba un Producto de Software.](./Reto-03/README.md)
 
