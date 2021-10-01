@@ -1,4 +1,4 @@
-# Ejemplo # - Creando un programa con la herramienta JDOODLE
+# Ejemplo 1 - Creando un programa con la herramienta JDOODLE
 
 ## Objetivo
 
