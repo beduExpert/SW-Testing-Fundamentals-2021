@@ -27,11 +27,11 @@ Seleccionando la pestaña de Variables puedes crear nuevas variables.
 
 <img width="1032" alt="image" src="https://user-images.githubusercontent.com/67882289/135547190-c6ea950a-967b-49d3-84b8-5c17c20d0a2b.png">
 
-En esa misma pestaña se peude seleccionar la opción para setear una variable. Y en la pestaña de Text se puede agregar un valor de string.
+En esa misma pestaña se puede seleccionar la opción para setear una variable. Y en la pestaña de Text se puede agregar un valor de string.
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/67882289/135547332-10781a59-53ec-43b1-8fcf-7d807220b121.png">
 
-Condiciones pueden agregarse en la pestaña de logic. Si das click en el icono de engrane puedes crear un bloque if más complejo.
+Condiciones pueden agregarse en la pestaña de Logic. Si das click en el icono de engrane puedes crear un bloque if más complejo.
 
 <img width="818" alt="image" src="https://user-images.githubusercontent.com/67882289/135547418-613917e2-a65b-4f9d-b647-35730acbd60a.png">
 
@@ -39,7 +39,7 @@ Arrastrando bloques de la pestaña de Logic, Variables y Math se puede crear una
 
 <img width="645" alt="image" src="https://user-images.githubusercontent.com/67882289/135547611-70c1a205-9b90-4118-b41a-9aa0361c0ef1.png">
 
-En la pestaña de Text se peuden insertar los elementos necesarios para imprimir un texto en pantalla.
+En la pestaña de Text se pueden insertar los elementos necesarios para imprimir un texto en pantalla.
 
 <img width="926" alt="image" src="https://user-images.githubusercontent.com/67882289/135547756-f2c4efb7-95ce-4057-86b5-2fc47a78e2cf.png">
 
