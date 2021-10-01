@@ -1,15 +1,15 @@
-# Reto # - Nombre del reto
+# Reto # - Testeando un Producto de Software.
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+El objetivo de la siguiente actividad es analizar el trabajo de los demás.\
+A grandes rasgos este es el trabajo de un ingeniero de pruebas de software (tester).\
+Nuevamente en equipos de 4 pide a otro equipo el código de su programa y reporta al menos 3 defectos que hayas encontrado.
 
 ## Desarrollo
 
 >**💡 Nota para experto(a)**
 >
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
+> Para esta actividad se recomienda usar la herramienta Miro donde podrás poner tus observaciones sobre los defectos encontrados y pegar imágenes como evidencia.
 
-Aquí se debe agregar eal desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
-
+![image](https://user-images.githubusercontent.com/67882289/135557803-29c9876c-50d9-4c2c-a89d-fec79538d82b.png)
