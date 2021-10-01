@@ -112,7 +112,7 @@ El testing es útil para demostrar que existen defectos en un sistema, mas no se
 
 Cualquier sistema por simple que sea puede tener una cantidad infinita de combinaciones y pruebas a realizar. Debido a que la cantidad de recursos y tiempo son limitados no se pueden probar cada una de estas combinaciones.\
 <img width="553" alt="image" src="https://user-images.githubusercontent.com/67882289/135391493-8db086a6-94e5-4779-b104-f2fb9be36033.png">
-- Principio 3. Principio 3. Testing en etapas tempranas del proyecto.
+- Principio 3. Testing en etapas tempranas del proyecto.
 
 El costo de encontrar y remover un defecto se incrementa cuanto más tiempo el defecto permanece en el proceso de desarrollo.\
 Entre más temprano se encuentre el defecto menos costoso será removerlo.\
