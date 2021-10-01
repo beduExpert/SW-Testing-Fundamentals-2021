@@ -40,6 +40,8 @@ Aqui se demuestra un punto importante, como tester es nuestra responsabilidad pr
   - ¿Cuál es el límite de caracteres que debería de aceptar?
   - ¿Qué tal caracteres especiales como "$", "%", "&" ó "/".
 
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/67882289/135556225-ddb69d11-034a-46e2-b6e8-33708aaccd19.png">
+
 - Por último se sugiere comparar que la especificación realmente concuerde con el resultado esperado.
   - En este caso se imprime el mensaje "La edad es de un mayor de edad." o "La edad es de un menor de edad." dependiendo de la edad que se introduzca, sin embargo si analilizamos corectamente la especificación nos daremos cuenta que el resultado esperado debería ser "Sí" o "No". A pesar de que el mensaje original resulta ser más descriptivo no es lo que el cliente espera y debería de ser evaluado y aprovado por el mismo cliente o representante.
 
@@ -56,9 +58,13 @@ Aqui se demuestra un punto importante, como tester es nuestra responsabilidad pr
 
 - A pesar de ser un programa sencillo fuimos capaces de encontrar 6 defectos, como testers es importante no dar por hecho ningún detalle ya que no será así para el usuario final.
 
-- Tal vez no todos los defectos sean corregidos por tiempo que se tarda en corregirlos o por la severidad que representan. Sin embargo esa es un adecisión que el cliente o el representante deberán tomar.
+- Tal vez no todos los defectos sean corregidos por tiempo que se tarda en corregirlos o por la severidad que representan. Sin embargo esa es una decisión que el cliente o el representante deberán tomar.
 
+## Propuesta de especificación y programa corregido.
 
+Especificación: 
+- Escribir un programa que pregunte al usuario su edad y muestre por pantalla "Mayor de edad." si tiene 18 o es mayor de 18 años o "Menor de edad." si es menor de 18 años. 
+- Sí la edad ingresada es 0 o mayor a 90 se debe de imprimir el mensaje: "Edad invalida".
+- El programa sólo debe de aceptar caracteres númericos.
 
-
-
+<img width="577" alt="image" src="https://user-images.githubusercontent.com/67882289/135557159-0bd9d6ff-5cf4-4de6-8b4d-0df7b0400704.png">
