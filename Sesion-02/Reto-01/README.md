@@ -89,26 +89,25 @@ import java.util.Scanner;
 public class MyClass {
     public static void main(String args[]) {
 
-		Scanner input = new Scanner(System.in);
-		String name   = input.next();
-		String gender = input.next();
+	Scanner input = new Scanner(System.in);
+	String name   = input.next();
+	String gender = input.next();
 		
-		char name_letter = name.charAt(0);
+	char name_letter = name.charAt(0);
 		
         if ((gender.equals("M") && letter_to_number(name_letter) < 13) || 
-				 (gender.equals("H") && letter_to_number(name_letter) > 14)) {
-			System.out.println("¡Perteneces al grupo A!");
-		}
-		else if ((gender.equals("M") && letter_to_number(name_letter) > 14) && 
-				 (gender.equals("H") && letter_to_number(name_letter) <= 13)) {
-			System.out.println("¡Perteneces al grupo B!");			
-		}
-		else {
-			// Do Nothing
-		}
-		
+	   (gender.equals("H") && letter_to_number(name_letter) > 14)) {
+		System.out.println("¡Perteneces al grupo A!");
 	}
-
+	else if ((gender.equals("M") && letter_to_number(name_letter) > 14) && 
+		(gender.equals("H") && letter_to_number(name_letter) <= 13)) {
+		System.out.println("¡Perteneces al grupo B!");			
+	}
+	else {
+		// Do Nothing
+	}
+    }
+        
     public static int letter_to_number(char c) {
         switch(c) {
         case 'A': return 1;
@@ -140,7 +139,6 @@ public class MyClass {
         default:  return 0;
         }
     }
-    
 }
 
 ```
