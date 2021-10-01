@@ -183,7 +183,8 @@ public class MyClass {
 	System.out.println("Item\t\t\tCantidad\t\tPrecio Unitario\t\tPrecio Total");
 	
 	for(int i=0;i<3;i++) {
-		System.out.printf("%s\t\t\t%d\t\t\t\t%5.2f\t\t\t\t%5.2f\n", items[i], quantities[i], map.get(items[i]), totals[i]);
+		System.out.printf("%s\t\t\t%d\t\t\t\t%5.2f\t\t\t\t%5.2f\n", items[i], 
+							quantities[i], map.get(items[i]), totals[i]);
 	}
 	
     }
@@ -192,3 +193,6 @@ public class MyClass {
 
 ```
 Con esto nuestro programa está completo. En este caso sólo se trabajo desde el punto de vista de un desarrollador, sin embargo desde el punto de vista de un tester después de cada incremento se hubieran conducido pruebas.
+
+<img width="1215" alt="image" src="https://user-images.githubusercontent.com/67882289/135673760-5897a9c4-aa35-4d47-8dce-e9390e1a2c90.png">
+
