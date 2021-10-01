@@ -28,22 +28,22 @@ Con esto podemos entender el funcionamiento general del programa.
 
 Aqui se demuestra un punto importante, como tester es nuestra responsabilidad preguntarnos sobre los datos que hacen falta en la especificación. En este ejemplo a pesar de que es una especificación sencilla podemos darnos cuenta que hacen falta los siguientes datos:
 
-  - Un humano no puede tener 0 años, sin embargo el programa admite está cantidad. ¿Es esto correcto, convendría agregar un campo de meses?
-  - En México la mayoría de edad se cumple a los 18 años, sin embargo es necesario cuestionarse. ¿Este programa será usado sólo en México?
-  - Generalmente las especificaciones que usan edades tienden a no indicar edades máximas, sin embargo es importante preguntar a la persona que elabaoro el requerimiento cual es el límite másximo para evitar escenarios no previstos.
-  - Al probar el programa y seleccionar la edad de 18, podemos darnos cuenta de que el programa no responde. Este es un claro ejemplo de un bug donde se paso por alto el límite medio.
+  * Un humano no puede tener 0 años, sin embargo el programa admite está cantidad. ¿Es esto correcto, convendría agregar un campo de meses?
+  * En México la mayoría de edad se cumple a los 18 años, sin embargo es necesario cuestionarse. ¿Este programa será usado sólo en México?
+  * Generalmente las especificaciones que usan edades tienden a no indicar edades máximas, sin embargo es importante preguntar a la persona que elabaoro el requerimiento cual es el límite másximo para evitar escenarios no previstos.
+  * Al probar el programa y seleccionar la edad de 18, podemos darnos cuenta de que el programa no responde. Este es un claro ejemplo de un bug donde se paso por alto el límite medio.
 
 <img width="972" alt="image" src="https://user-images.githubusercontent.com/67882289/135554043-7114ede5-2f37-4a86-84a1-87c4816099c9.png">
 
 - Otro paso sugerido sería experimentar con caracteres no númericos. Ya que por naturaleza el programa debería funcionar con sólo caracteres númericos convendría realizar las siguietnes preguntas:
-  - ¿El programa debería aceptar caracterés alfanúmericos?
-  - ¿Cuál es el límite de caracteres que debería de aceptar?
-  - ¿Qué tal caracteres especiales como "$", "%", "&" ó "/".
+  * ¿El programa debería aceptar caracterés alfanúmericos?
+  * ¿Cuál es el límite de caracteres que debería de aceptar?
+  * ¿Qué tal caracteres especiales como "$", "%", "&" ó "/".
 
 <img width="955" alt="image" src="https://user-images.githubusercontent.com/67882289/135556225-ddb69d11-034a-46e2-b6e8-33708aaccd19.png">
 
 - Por último se sugiere comparar que la especificación realmente concuerde con el resultado esperado.
-  - En este caso se imprime el mensaje "La edad es de un mayor de edad." o "La edad es de un menor de edad." dependiendo de la edad que se introduzca, sin embargo si analilizamos corectamente la especificación nos daremos cuenta que el resultado esperado debería ser "Sí" o "No". A pesar de que el mensaje original resulta ser más descriptivo no es lo que el cliente espera y debería de ser evaluado y aprovado por el mismo cliente o representante.
+  * En este caso se imprime el mensaje "La edad es de un mayor de edad." o "La edad es de un menor de edad." dependiendo de la edad que se introduzca, sin embargo si analilizamos corectamente la especificación nos daremos cuenta que el resultado esperado debería ser "Sí" o "No". A pesar de que el mensaje original resulta ser más descriptivo no es lo que el cliente espera y debería de ser evaluado y aprovado por el mismo cliente o representante.
 
 - Una vez identificados los posibles defectos, estos se deben de documentar. Por el momento sólo propondremos una pequeña descripción para cada uno de ellos.
 
