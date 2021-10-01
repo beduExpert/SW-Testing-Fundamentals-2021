@@ -13,7 +13,7 @@ El testing debe de implementarse desde etapas tempranas del desarrollo para enco
 
 A lo largo de la sesión has podido entender los conceptos fundamentales, los 7 principios, el proceso fundamental y la psicología del software testing para concluir con tu aprendizaje reforzarás lo aprendido en la sesión con la siguiente actividad interactiva.
 
-## 🎩 Instrucciones
+## 🗒️ Instrucciones
 
 - Los siguientes ejercicios serán parte de los entregables del Checkpoint. No dudes en contactar al Experto (a) por Slack si tienes dudas o necesitas retroalimentación. 
 - Lee detenidamente las preguntas planteadas y elige la respuesta correcta.
@@ -60,7 +60,8 @@ Pregunta con los demás integrantes del curso quién hizo el ejercicio diferente
 | 2) |
 | 3) |
 
-## Checklist
+
+## ✅ Checklist
 
 Considera que tu proyecto debe cumplir con lo siguiente:
 
