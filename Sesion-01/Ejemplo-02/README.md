@@ -41,4 +41,24 @@ Aqui se demuestra un punto importante, como tester es nuestra responsabilidad pr
   - ¿Qué tal caracteres especiales como "$", "%", "&" ó "/".
 
 - Por último se sugiere comparar que la especificación realmente concuerde con el resultado esperado.
-  - En este caso se imprime el mensaje "La edad es de un mayor de edad." o "La edad es de un menor de edad." dependiendo de la edad que se introduzca, sin embargo si analilizamos corectamente
+  - En este caso se imprime el mensaje "La edad es de un mayor de edad." o "La edad es de un menor de edad." dependiendo de la edad que se introduzca, sin embargo si analilizamos corectamente la especificación nos daremos cuenta que el resultado esperado debería ser "Sí" o "No". A pesar de que el mensaje original resulta ser más descriptivo no es lo que el cliente espera y debería de ser evaluado y aprovado por el mismo cliente o representante.
+
+- Una vez identificados los posibles defectos, estos se deben de documentar. Por el momento sólo propondremos una pequeña descripción para cada uno de ellos.
+
+| Defecto | Descripción | Posible Causa Raiz |
+| --- | --- | --- |
+| #1 | Edad de 0 años es permitida por la aplicación. | Error de Software al no condicionar edades invalidas.\Error de especificación. |
+| #2 | La aplicación no limita edades máximas invalidas. | Error de Software al no condicionar edades invalidas.\Error de especificación. |
+| #3 | La aplicación no responde cuando se ingresa el valor de 18. | Error de Software al no agregar simbolo de mayor o igual. |
+| #4 | Edad límite de mayoría de edad no especificada. | Error de especificación. |
+| #5 | Aplicación acepta caracteres no alfanuméricos. | Error de Software al no condicionar caracteres invalidos. |
+| #6 | Texto resultante es diferente a "Sí" o "No". | Error de Software al colocar algo no escrito en la especificación. |
+
+- A pesar de ser un programa sencillo fuimos capaces de encontrar 6 defectos, como testers es importante no dar por hecho ningún detalle ya que no será así para el usuario final.
+
+- Tal vez no todos los defectos sean corregidos por tiempo que se tarda en corregirlos o por la severidad que representan. Sin embargo esa es un adecisión que el cliente o el representante deberán tomar.
+
+
+
+
+
