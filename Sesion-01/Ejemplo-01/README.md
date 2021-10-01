@@ -7,9 +7,9 @@ Utilizando la herramienta blockly, crearemos un programa sencillo para entender 
 El programa a construir debe cumplir con el siguiente requisito:\
 "Escribir un programa que pregunte al usuario su edad y muestre por pantalla si es mayor de edad o no."
 
-## ¿Qué es Blockly?
+## Desarrollo
 
-Blockly es una herramienta de programación por bloques que se peude usar en la web. También se puede usar una versión local para que sea más fácil de utilizar.
+Blockly es una herramienta de programación por bloques que se puede usar en la web. También se puede usar una versión local para que sea más fácil de manipular los bloques.
 
 Para poder usar la versión web sólo ingresa a la siguiente liga:\
 https://developers.google.com/blockly
@@ -17,31 +17,36 @@ https://developers.google.com/blockly
 Para descargar la versión local visita la siguiente liga para iniciar la descarga:\
 https://developers.google.com/blockly/guides/get-started/web
 
-![image](https://user-images.githubusercontent.com/67882289/135546429-ec087cbe-96bc-48b1-a00c-4a6c8e8ecee4.png)
+<img width="1226" alt="image" src="https://user-images.githubusercontent.com/67882289/135546986-9a24338a-a19b-47ab-8915-236f5956a105.png">
 
 Una vez descargada abre el archivo "index.html", navegando al folder en la ruta: google-blockly-aXXXXXX/demos/code
 
 <img width="685" alt="image" src="https://user-images.githubusercontent.com/67882289/135546681-b79b8681-601f-4a82-8d07-b9189f871132.png">
 
+Seleccionando la pestaña de Variables puedes crear nuevas variables.
 
+<img width="1032" alt="image" src="https://user-images.githubusercontent.com/67882289/135547190-c6ea950a-967b-49d3-84b8-5c17c20d0a2b.png">
 
+En esa misma pestaña se peude seleccionar la opción para setear una variable. Y en la pestaña de Text se puede agregar un valor de string.
 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/67882289/135547332-10781a59-53ec-43b1-8fcf-7d807220b121.png">
 
+Condiciones pueden agregarse en la pestaña de logic. Si das click en el icono de engrane puedes crear un bloque if más complejo.
 
-## Desarrollo
+<img width="818" alt="image" src="https://user-images.githubusercontent.com/67882289/135547418-613917e2-a65b-4f9d-b647-35730acbd60a.png">
 
->**💡 Nota para experto(a)**
->
-> El ejemplo se desarrolla durante la sesión ya que lo que se pretende es que los alumnos cometan errores para que entiendan cómo se originan los éstos en un producto de software.
+Arrastrando bloques de la pestaña de Logic, Variables y Math se puede crear una condición.
 
-![image](https://user-images.githubusercontent.com/67882289/135353355-5ac1bd92-dfa4-488f-8458-62a7d6326cd0.png)
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/67882289/135547611-70c1a205-9b90-4118-b41a-9aa0361c0ef1.png">
 
-![image](https://user-images.githubusercontent.com/67882289/135353414-e569c7aa-079b-437b-b59e-eb563fdcb44a.png)
+En la pestaña de Text se peuden insertar los elementos necesarios para imprimir un texto en pantalla.
 
-![image](https://user-images.githubusercontent.com/67882289/135353446-1aa6e98e-0543-48c4-b683-5bc7eae8c4ff.png)
+<img width="926" alt="image" src="https://user-images.githubusercontent.com/67882289/135547756-f2c4efb7-95ce-4057-86b5-2fc47a78e2cf.png">
 
-![image](https://user-images.githubusercontent.com/67882289/135353496-354c6d1e-5035-48ce-984b-485bc4972a9a.png)
+Una vez terminado el proyecto, al presionar el triángulo en la esquina superior derecha el mensaje se imprimirá correctamente.
 
-![image](https://user-images.githubusercontent.com/67882289/135353523-ac4f95d2-35e3-4ece-b68d-6e5f0778f2db.png)
+<img width="1311" alt="image" src="https://user-images.githubusercontent.com/67882289/135547974-4567929b-3a6b-4777-ab14-7095acbb37f2.png">
 
-![image](https://user-images.githubusercontent.com/67882289/135353572-9e062ae2-347c-4fae-8785-12452b5ba4b0.png)
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/67882289/135548053-feab6eda-765f-427f-a6ea-f684e3f88b19.png">
+
+<img width="732" alt="image" src="https://user-images.githubusercontent.com/67882289/135548085-db2b3cc1-3459-4e2c-abd4-182b3af20a3c.png">
