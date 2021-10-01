@@ -4,6 +4,10 @@
 
 Construir un programa simulando un modelo incremental e identificar la mayor cantidad de defectos para que el alumno distinga las ventajas y desventajas de usar un modelo incremental contra uno secuencial.
 
+>**💡 Nota para experto(a)**
+>
+> Si el reto demora más de 25 minutos, entregar el código propuesto a los alumnos.
+
 ## Desarrollo
 
 Para este ejercicio se debe construir un programa con las historias de usuario que se mencionan a continuación:
@@ -33,8 +37,6 @@ Historia 3
 > - Implementar interfaz que despliegue la siguiente información al usuario por cada año que se desea invertir:
 >   - Capital original.
 >   - Capital más intereses.
->   - Intereses por año.
->   - Intereses totales.
 >   - Tasa de Interés.
 
 Historia 4
@@ -47,3 +49,20 @@ Historia 4
 > Si el usuario está de acuerdo se debe desplegar el mensaje "Gracias por invertir con nosotros".
 > Si el usuario no está de acuerdo se debe desplegar el mensaje "Gracias por su preferencia, esperamos verlo pronto".
 > - Almacenar la decisión del usuario.
+
+## Encontrando Defectos
+
+Reunanse en equipos e intenten encontrar y documentar la mayor cantidad de defectos.
+
+| Defecto | Descripción | Posible Causa Raiz |
+| --- | --- | --- |
+| #1 |  |  |
+| #2 |  |  |
+| #3 |  |  |
+| #N |  |  |
+
+## Código propuesto
+
+El código propuesto tiene defectos para que el alumno pueda trabajar en la segunda parte de esta actividad.
+
+
