@@ -19,9 +19,9 @@ Por lo tanto, en esta etapa final resolverás una prueba técnica siguiendo los 
 
 ## 📃 Instrucciones
 
-1. Los siguientes ejercicios serán parte de los entregables del Checkpoint. No dudes en contactar al Experto (a) por Slack si tienes dudas o necesitas retroalimentación.\
-2. Lee detenidamente las preguntas planteadas y elige la respuesta correcta.\
-3. Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.\
+1. Los siguientes ejercicios serán parte de los entregables del Checkpoint. No dudes en contactar al Experto (a) por Slack si tienes dudas o necesitas retroalimentación.
+2. Lee detenidamente las preguntas planteadas y elige la respuesta correcta.
+3. Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.
 4. Se requiere un entregable. 
 
 ## Ejercicio 1
@@ -81,4 +81,12 @@ Del ejercicio anterior:
 
 Considera que tu proyecto debe cumplir con lo siguiente:
 
-
+| Requisito | Sí lo cumple | No lo cumple |
+| --- | --- | --- |
+| A. Tabla con 3 ambigüedades y/o defectos encontrados en el requerimiento del ejercicio 1a o 1b. Además un comentario u observación de cómo se podría mejorar por cada defecto o ambigüedad. |  |  |
+| B. Código del programa en java del ejercicio 1. |  |  |
+| C. Video menor a 1 min  que compruebe el funcionamiento del programa del punto anterior. |  |  |
+| D. Tabla con al menos 5 historias de usuario del requerimiento del ejercicio 1.  |  |  |
+| E. Código del programa en java del ejercicio 2. |  |  |
+| F. Video menor a 1 min  que compruebe el funcionamiento del programa del punto anterior. |  |  |
+| G. Tabla con respuestas del ejercicio 4. |  |  |
