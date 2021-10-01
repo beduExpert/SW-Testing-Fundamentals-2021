@@ -1,13 +1,10 @@
 
-# Sesión #: Nombre de la sesión
+# Sesión 3: Niveles del software testing.
 
 ## :dart: Objetivos
 
-Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
-
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
+- El alumno será capaz de analizar los niveles del software testing y en qué momento del desarrollo de software aplica cada uno.
+- El alumno aprenderá a diseñar pruebas utilizando el desarrollo conducido por pruebas.
 
 ## ⚙ Requisitos
 
