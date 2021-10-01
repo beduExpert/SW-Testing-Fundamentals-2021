@@ -1,10 +1,31 @@
-# Ejemplo # - Creación de un Producto de Software
+# Ejemplo 1 - Creación de un Producto de Software
 
 ## Objetivo
 
-* El objetivo es crear las funciones básicas de una calculadora: suma, resta, multiplicación y división, para dos números. 
-Al presionar el botón correspondiente se imprimirá  el resultado con el mensaje: “El resultado de la operación suma es: 4“, modificando la operación y el resultado correspondiente.
-La actividad se hará preferentemente en 4 equipos utilizando la herramienta Bloclky en la siguiente liga: https://developers.google.com/blockly
+Utilizando la herramienta blockly, crearemos un programa sencillo para entender como utilizar la herramienta.
+
+El programa a construir debe cumplir con el siguiente requisito:\
+"Escribir un programa que pregunte al usuario su edad y muestre por pantalla si es mayor de edad o no."
+
+## ¿Qué es Blockly?
+
+Blockly es una herramienta de programación por bloques que se peude usar en la web. También se puede usar una versión local para que sea más fácil de utilizar.
+
+Para poder usar la versión web sólo ingresa a la siguiente liga:\
+https://developers.google.com/blockly
+
+Para descargar la versión local visita la siguiente liga para iniciar la descarga:\
+https://developers.google.com/blockly/guides/get-started/web
+
+![image](https://user-images.githubusercontent.com/67882289/135546429-ec087cbe-96bc-48b1-a00c-4a6c8e8ecee4.png)
+
+Una vez descargada abre el archivo "index.html", navegando al folder en la ruta: google-blockly-aXXXXXX/demos/code
+
+<img width="685" alt="image" src="https://user-images.githubusercontent.com/67882289/135546681-b79b8681-601f-4a82-8d07-b9189f871132.png">
+
+
+
+
 
 
 ## Desarrollo
