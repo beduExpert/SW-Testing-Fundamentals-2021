@@ -47,7 +47,18 @@ Historia 2.
 >Como desarrollador de la aplicación panadería, quiero implementar una base de datos que indique la relación de los productos y su precios, para poder obtener el >precio de acuerdo al nombre de cada producto.
 
 >Criterios de Aceptación
->- El sistema debe de implementar una base de datos en forma de tabla con la relación de productos de acuerdo a la tabla mostrada anteiormente.
+>- El sistema debe de implementar una base de datos en forma de tabla con la relación de productos de acuerdo a la tabla que se muestra a continuación.
+>| Producto | Precio |
+>| --- | --- |
+>| Bolillo | $1.20 |
+>| Telera | $1.00 |
+>| Baguete | $11.00 |
+>| Concha | $6.00 |
+>| Dona | $8.00 |
+>| Cuerno | $6.00 |
+>| Churro | $3.40 |
+>| Oreja | $6.00 |
+>| Panque | $6.00 |
 
 Antes de poder mostrar información en la pantalla necesitamos implementar el mecanismo que alamacene la relación entre los productos disponibles. En este ejemplo se propone el uso de un "map" para poder llevar esta relación.
 
@@ -84,7 +95,12 @@ public class MyClass {
 }
 
 ```
+Historia 3.
 
+> Como desarrollador de la aplicación panadería, quiero implementar la lógica que regresé el precio total de cada articulo, para después msotrarlo por pantalla.
+
+> Criterios de Aceptación.
+> - Implementar la lógica para poder obtener el precio total de cada articulo.
 
 
 
