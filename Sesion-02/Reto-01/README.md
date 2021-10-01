@@ -75,10 +75,17 @@ Al ejecutar el programa el resultado esperado debe ser:
 
 <img width="1222" alt="image" src="https://user-images.githubusercontent.com/67882289/135567888-272d9068-a7ec-42d5-8881-72db1fcaff34.png">
 
-<img width="1224" alt="image" src="https://user-images.githubusercontent.com/67882289/135567925-07c81d06-e269-49fc-8e7f-3c404e52538a.png">
 
-<img width="1216" alt="image" src="https://user-images.githubusercontent.com/67882289/135567958-aef79768-e80c-4e08-b8da-eb494b8b9889.png">
+## Encontrando Defectos
 
+Reunanse en equipos e intenten encontrar y documentar la mayor cantidad de defectos.
+
+| Defecto | Descripción | Posible Causa Raiz |
+| --- | --- | --- |
+| #1 |  |  |
+| #2 |  |  |
+| #3 |  |  |
+| #N |  |  |
 
 
 ## Código Propuesto
