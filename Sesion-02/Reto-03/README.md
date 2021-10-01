@@ -75,8 +75,8 @@ Historia 4
 > Criterios de Aceptación
 
 > - Implementar interfaz para preguntar al usuario si está de acuerdo con la operación.
-> Si el usuario está de acuerdo se debe desplegar el mensaje "Gracias por invertir con nosotros".
-> Si el usuario no está de acuerdo se debe desplegar el mensaje "Gracias por su preferencia, esperamos verlo pronto".
+> - Si el usuario está de acuerdo se debe desplegar el mensaje "Gracias por invertir con nosotros".
+> - Si el usuario no está de acuerdo se debe desplegar el mensaje "Gracias por su preferencia, esperamos verlo pronto".
 > - Almacenar la decisión del usuario.
 
 Encontrando Defectos Historia 4
@@ -100,12 +100,12 @@ import java.util.Scanner;
 
 public class MyClass {
 
-  public static void main(String args[]) {
+    public static void main(String args[]) {
 
-		float cantidad = input.nextFloat();
-		int plazo = input.nextInt();
+	float cantidad = input.nextFloat();
+	int plazo = input.nextInt();
 		
-  }
+    }
   
 }
 
@@ -113,7 +113,78 @@ public class MyClass {
 
 ## Código propuesto Historia 2
 
+```
+import java.util.Scanner;
+
+public class MyClass {
+
+    public static void main(String args[]) {
+
+	float cantidad = input.nextFloat();
+	int plazo = input.nextInt();
+		
+    }
+  
+    public static float calcular_intereses(float cantidad, int plazo) {
+		
+	float interes = 0;
+		
+	if (plazo == 1) {
+		interes = cantidad * 0.05f;
+	} else if (plazo == 2) {
+		interes = cantidad * 0.07f;
+	} else if (plazo >= 3) {
+		interes = cantidad * 0.10f;
+	} else {
+		// Do Nothing
+	}	
+	return interes;
+    }
+}
+
+```
+
 ## Código propuesto Historia 3
+
+```
+import java.util.Scanner;
+
+public class MyClass {
+
+    public static void main(String args[]) {
+
+	float cantidad = input.nextFloat();
+	int plazo = input.nextInt();
+	float interes = 0;
+	
+	System.out.println("Resumen de la inversión: ");
+	System.out.println("Año\t\tCantidad Original\t\tCantidad más Intereses\t\tTasa de Interés");
+		
+	for(int i=1;i<=plazo;i++) {
+		interes = calcular_intereses(cantidad, i);
+		System.out.printf("%d\t\t%8.2f\t\t%8.2f\t\t%8.2f\n", (i+1), cantidad, cantidad+interes, interes);
+	}
+		
+    }
+  
+    public static float calcular_intereses(float cantidad, int plazo) {
+		
+	float interes = 0;
+		
+	if (plazo == 1) {
+		interes = cantidad * 0.05f;
+	} else if (plazo == 2) {
+		interes = cantidad * 0.07f;
+	} else if (plazo >= 3) {
+		interes = cantidad * 0.10f;
+	} else {
+		// Do Nothing
+	}	
+	return interes;
+    }
+}
+
+```
 
 ## Código propuesto Historia 4
 
