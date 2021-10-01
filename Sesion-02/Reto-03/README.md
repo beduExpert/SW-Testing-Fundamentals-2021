@@ -125,7 +125,7 @@ public class MyClass {
 		
     }
   
-    public static float calcular_intereses(float cantidad, int plazo) {
+    public static float calcularIntereses(float cantidad, int plazo) {
 		
 	float interes = 0;
 		
@@ -161,13 +161,13 @@ public class MyClass {
 	System.out.println("Año\t\tCantidad Original\t\tCantidad más Intereses\t\tTasa de Interés");
 		
 	for(int i=1;i<=plazo;i++) {
-		interes = calcular_intereses(cantidad, i);
+		interes = calcularIntereses(cantidad, i);
 		System.out.printf("%d\t\t%8.2f\t\t%8.2f\t\t%8.2f\n", (i+1), cantidad, cantidad+interes, interes);
 	}
 		
     }
   
-    public static float calcular_intereses(float cantidad, int plazo) {
+    public static float calcularIntereses(float cantidad, int plazo) {
 		
 	float interes = 0;
 		
@@ -188,6 +188,58 @@ public class MyClass {
 
 ## Código propuesto Historia 4
 
+```
+import java.util.Scanner;
 
+public class MyClass {
+
+    public static void main(String args[]) {
+
+	float cantidad = input.nextFloat();
+	int plazo = input.nextInt();
+	float interes = 0;
+	
+	System.out.println("Resumen de la inversión: ");
+	System.out.println("Año\t\tCantidad Original\t\tCantidad más Intereses\t\tTasa de Interés");
+		
+	for(int i=1;i<=plazo;i++) {
+		interes = calcularIntereses(cantidad, i);
+		System.out.printf("%d\t\t%8.2f\t\t%8.2f\t\t%8.2f\n", (i+1), cantidad, cantidad+interes, interes);
+	}
+		
+	System.out.println("¿Estás de acuerdo con la inversión? (Y/N): ");
+	String decisionUsuario = input.next();
+	mensajeDecisionUsuario(decisionUsuario);
+		
+    }
+  
+    public static float calcularIntereses(float cantidad, int plazo) {
+		
+	float interes = 0;
+		
+	if (plazo == 1) {
+		interes = cantidad * 0.05f;
+	} else if (plazo == 2) {
+		interes = cantidad * 0.07f;
+	} else if (plazo >= 3) {
+		interes = cantidad * 0.10f;
+	} else {
+		// Do Nothing
+	}	
+	return interes;
+    }
+    
+    public static void mensajeDecisionUsuario(String decisionUsuario) {
+	    
+        if (decisionUsuario == "Y") {
+	        System.out.println("Gracias por invertir con nosotros.");
+	} else {
+	        System.out.println("Gracias por su preferencia, esperamos verlo pronto.");
+	}	    
+    }    
+    
+}
+
+```
 
 
