@@ -12,4 +12,4 @@ Nuevamente en equipos de 4 pide a otro equipo el código de su programa y report
 >
 > Para esta actividad se recomienda usar la herramienta Miro donde podrás poner tus observaciones sobre los defectos encontrados y pegar imágenes como evidencia.
 
-![image](https://user-images.githubusercontent.com/67882289/135557803-29c9876c-50d9-4c2c-a89d-fec79538d82b.png)
+![image](https://user-images.githubusercontent.com/67882289/135557848-caf6afe3-ffa6-4a9a-a04a-e8c1cda225d7.png)
