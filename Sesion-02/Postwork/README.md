@@ -54,7 +54,7 @@ Del requerimiento anterior descomponlo en historias de usuario. Para este ejerci
 
 | Historia de Usuario | Criterios de Aceptación |
 | --- | --- |
-| Ejemplo: 1) Como usuario de la aplicación de la pizzera, quiero que el sistema despliegue un método que pregunte si el cliente desea una pizza vegetariana, para saber y almacenar la preferencia del cliente. | 1) - El sistema debe preguntar en pantalla si el cliente desea una pizza vegetariana.\
+| Ejemplo: 1) Como usuario de la aplicación de la pizzera, quiero que el sistema despliegue un método que pregunte si el cliente desea una pizza vegetariana, para saber y almacenar la preferencia del cliente. | - El sistema debe preguntar en pantalla si el cliente desea una pizza vegetariana.\
 - El sistema debe de almacenar la respuesta del cliente. |
 | 2) | 2) |
 | 3) | 3) |
