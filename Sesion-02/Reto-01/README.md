@@ -80,7 +80,8 @@ Al ejecutar el programa el resultado esperado debe ser:
 <img width="1216" alt="image" src="https://user-images.githubusercontent.com/67882289/135567958-aef79768-e80c-4e08-b8da-eb494b8b9889.png">
 
 
-## Programa Propuesto
+
+## Código Propuesto
 
 ```
 import java.util.Scanner;
