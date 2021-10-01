@@ -41,6 +41,7 @@ Como podemos comprobar la ventaja de utilizar un compilador web es que es muy se
 
 ## Código propuesto.
 
+```
 import java.util.Scanner;
 
 public class MyClass {
@@ -60,5 +61,6 @@ public class MyClass {
 
     }
 }
+```
 
 
