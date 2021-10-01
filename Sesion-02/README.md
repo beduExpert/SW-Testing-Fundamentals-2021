@@ -1,33 +1,27 @@
 
-# Sesión #: Nombre de la sesión
+# Sesión 2: Software Testing y su Relación con el SDLC
 
 ## :dart: Objetivos
 
-Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
-
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
+- Describir los modelos de cliclo de vida de desarrollo del software más utilizados en la industria del software.
+- Realizar actividades que permitan al alumno reforzar los conocimientos adquiridos entender que papel desempeña el testing en cada uno de estos modelos.
 
 ## ⚙ Requisitos
 
-+ Agregar los requisitos de la sesión 
-+ Agregar el link de descarga en caso de ser necesario para la sesión (Borrar estás lineas una vez se hayan leido)
++ Comprobar acceso a la siguiente liga: https://www.jdoodle.com/online-java-compiler/
 
 ## 🎩 Buenas prácticas
 
-Agregar buenas prácticas en caso de que la sesión lo requierea, de no ser así borrar está intrucción una vez se haya leido.
+Cuando testeamos un programa es importante poner especial atención en las combinaciones negativas que no son tomadas en cuenta por el desarrollador. Por ejemplo muchas veces las condiciones default en el "else" no son implementadas en el código lo cual lleva a comportamientos inesperados en la aplicación cuando ésta no puede manejar alguna entrada inesperada.
 
 ## 📂 Organización de la clase
 
-Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea una vez se hay leido)
-
 - [Ejemplo 01: Creando un programa con la herramienta JDOODLE.](./Ejemplo-01/README.md)
     - [Reto 01: Proyecto con modelo secuencial.](./Reto-01/README.md)
-    - [Reto  02: Nombre del reto 02](./Reto-02/README.md)
-- [Ejemplo 02: Nombre del ejemplo 02](./Ejemplo-02/README.md)
-    - [Reto 03: Nombre del reto 03](./Reto-03/README.md)
-- [Postwork: Nombre del postwork](./Postwork/README.md)
+    - [Reto 02: Creando Historias de Usuario.](./Reto-02/README.md)
+- [Ejemplo 02: Creando un programa usando un modelo incremental.](./Ejemplo-02/README.md)
+    - [Reto 03: Crea tu propio programa con un modelo incremental.](./Reto-03/README.md)
+- [Postwork: Software Testing y su Relación con el SDLC](./Postwork/README.md)
 
 
 
