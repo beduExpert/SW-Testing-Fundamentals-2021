@@ -226,6 +226,6 @@ Un equipo de testing con alta independencia tiende a encontrar mejores defectos,
 - [Ejemplo 01: Creación de un Producto de Software.](./Ejemplo-01/README.md) 
     - [Reto 01: Crea tu propio producto de Software.](./Reto-01/README.md)
     - [Reto  02: Principios del Testing al testear un Producto de Software.](./Reto-02/README.md)
-- [Ejemplo 02: ¿Cómo probar un Producto de Software?.](./Ejemplo-02/README.md)
+- [Ejemplo 02: ¿Cómo probar un Producto de Software?](./Ejemplo-02/README.md)
     - [Reto 03: Prueba un Producto de Software.](./Reto-03/README.md)
 - [Postwork: Fundamentos del Software Testing.](./Postwork/README.md)
