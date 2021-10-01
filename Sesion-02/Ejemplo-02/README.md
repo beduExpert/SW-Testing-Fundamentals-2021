@@ -48,17 +48,18 @@ Historia 2.
 
 >Criterios de Aceptación
 >- El sistema debe de implementar una base de datos en forma de tabla con la relación de productos de acuerdo a la tabla que se muestra a continuación.
->| Producto | Precio |
->| --- | --- |
->| Bolillo | $1.20 |
->| Telera | $1.00 |
->| Baguete | $11.00 |
->| Concha | $6.00 |
->| Dona | $8.00 |
->| Cuerno | $6.00 |
->| Churro | $3.40 |
->| Oreja | $6.00 |
->| Panque | $6.00 |
+
+| Producto | Precio |
+| --- | --- |
+| Bolillo | $1.20 |
+| Telera | $1.00 |
+| Baguete | $11.00 |
+| Concha | $6.00 |
+| Dona | $8.00 |
+| Cuerno | $6.00 |
+| Churro | $3.40 |
+| Oreja | $6.00 |
+| Panque | $6.00 |
 
 Antes de poder mostrar información en la pantalla necesitamos implementar el mecanismo que alamacene la relación entre los productos disponibles. En este ejemplo se propone el uso de un "map" para poder llevar esta relación.
 
