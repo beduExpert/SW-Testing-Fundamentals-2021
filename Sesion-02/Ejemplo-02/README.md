@@ -103,5 +103,43 @@ Historia 3.
 > Criterios de Aceptación.
 > - Implementar la lógica para poder obtener el precio total de cada articulo.
 
+Para implementar este funcionalidad simplemente se propone multiplicar el valor obtenido del "map" y multiplicarlo por la cantidad brindada. El resultado se almacena en otro array conteniendo los totales.
+
+```
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+
+public class MyClass {
+
+    public static void main(String args[]) {
+
+	Map<String, Float> map = new HashMap<String, Float>();
+	map.put("Bolillo",			 1.20f);
+	map.put("Telera",			 1.00f);
+	map.put("Baguete",			11.00f);
+	map.put("Concha",			 6.00f);
+	map.put("Dona",				 8.00f);
+	map.put("Cuerno",			 6.00f);
+	map.put("Churro",			 3.40f);
+	map.put("Oreja",			 6.00f);
+	map.put("Panque",			 6.00f);
+
+	String[] items = new String[3];
+	int[] quantities = new int[3];
+	float[] totals = new float[3];	
+
+	for(int i=0;i<3;i++) {
+		items[i] = input.next();
+		quantities[i] = input.nextInt();
+		totals[i] = map.get(items[i]) * quantities[i];		
+	}
+		
+    }
+  
+}
+
+```
+
 
 
