@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Desarrollar un programa simulando un desarrollo en modelo secuencial y familiarizarse con la herramienta JDOODLE.
+Desarrollar un programa simulando un desarrollo en modelo secuencial, familiarizarse con la herramienta JDOODLE y tratar de econtrar la mayor cantidad de defectos en el programa hecho.
 
 ## Desarrollo
 
@@ -95,14 +95,11 @@ public class MyClass {
 		
 		char name_letter = name.charAt(0);
 		
-		if (letter_to_number(name_letter) == 0 || (!gender.equals("M") && !gender.equals("H"))) {
-			System.out.println("Nombre o genero invalido.");
-		}
-		else if ((gender.equals("M") && letter_to_number(name_letter) <= 13) || 
+        if ((gender.equals("M") && letter_to_number(name_letter) < 13) || 
 				 (gender.equals("H") && letter_to_number(name_letter) > 14)) {
 			System.out.println("¡Perteneces al grupo A!");
 		}
-		else if ((gender.equals("M") && letter_to_number(name_letter) > 14) || 
+		else if ((gender.equals("M") && letter_to_number(name_letter) > 14) && 
 				 (gender.equals("H") && letter_to_number(name_letter) <= 13)) {
 			System.out.println("¡Perteneces al grupo B!");			
 		}
