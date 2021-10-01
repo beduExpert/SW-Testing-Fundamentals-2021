@@ -1,4 +1,4 @@
-# Reto 2 - Proyecto con modelo secuencial.
+# Reto 1 - Proyecto con modelo secuencial.
 
 ## Objetivo
 
