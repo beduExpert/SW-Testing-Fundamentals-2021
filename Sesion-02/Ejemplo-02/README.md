@@ -20,30 +20,70 @@ En nuestro caso al usar la herramienta JDOODLE, ésta ya implementa una interfaz
 
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/67882289/135670511-55955bbc-c365-4614-83fa-cf5fad15c32f.png">
 
-Sólo restaría agregar el código para poder almacenar la información. En este caso se propone usar dos arreglos de 3 posiciones y ciclo for para guardar la información.
+Sólo restaría agregar el código para poder almacenar la información. En este caso se propone usar dos arreglos de 3 posiciones y un ciclo "for" para guardar la información.
 
 ```
 import java.util.Scanner;
 
 public class MyClass {
 
-  public static void main(String args[]) {
+    public static void main(String args[]) {
 
-		String[] items = new String[3];
-		int[] quantities = new int[3];
+	String[] items = new String[3];
+	int[] quantities = new int[3];
 
-		for(int i=0;i<3;i++) {
-			items[i] = input.next();
-			quantities[i] = input.nextInt();
-		}
-		
+	for(int i=0;i<3;i++) {
+		items[i] = input.next();
+		quantities[i] = input.nextInt();
 	}
+		
+    }
   
 }
 
 ```
+Historia 2.
 
+>Como desarrollador de la aplicación panadería, quiero implementar una base de datos que indique la relación de los productos y su precios, para poder obtener el >precio de acuerdo al nombre de cada producto.
 
+>Criterios de Aceptación
+>- El sistema debe de implementar una base de datos en forma de tabla con la relación de productos de acuerdo a la tabla mostrada anteiormente.
+
+Antes de poder mostrar información en la pantalla necesitamos implementar el mecanismo que alamacene la relación entre los productos disponibles. En este ejemplo se propone el uso de un "map" para poder llevar esta relación.
+
+```
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+
+public class MyClass {
+
+    public static void main(String args[]) {
+
+	Map<String, Float> map = new HashMap<String, Float>();
+	map.put("Bolillo",			 1.20f);
+	map.put("Telera",			 1.00f);
+	map.put("Baguete",			11.00f);
+	map.put("Concha",			 6.00f);
+	map.put("Dona",				 8.00f);
+	map.put("Cuerno",			 6.00f);
+	map.put("Churro",			 3.40f);
+	map.put("Oreja",			 6.00f);
+	map.put("Panque",			 6.00f);
+
+	String[] items = new String[3];
+	int[] quantities = new int[3];
+
+	for(int i=0;i<3;i++) {
+		items[i] = input.next();
+		quantities[i] = input.nextInt();
+	}
+		
+    }
+  
+}
+
+```
 
 
 
