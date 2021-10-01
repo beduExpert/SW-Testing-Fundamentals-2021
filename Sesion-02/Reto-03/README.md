@@ -31,7 +31,7 @@ Historia 2
 
 Historia 3
 
-> Como desarrollador de la aplicación para invertir dinero, quiero implementar una forma de desplegar al usuario el capital original, el capital más intereses, los intereses por año, los intereses totales generados y la tasa de interés, para mostrar la información de interés al usuario. 
+> Como desarrollador de la aplicación para invertir dinero, quiero implementar una forma de desplegar al usuario el capital original, el capital más intereses y la tasa de interés, para mostrar la información de interés al usuario. 
 
 > Criterios de Aceptación
 > - Implementar interfaz que despliegue la siguiente información al usuario por cada año que se desea invertir:
