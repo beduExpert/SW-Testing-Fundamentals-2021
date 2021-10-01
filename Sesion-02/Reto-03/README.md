@@ -19,6 +19,16 @@ Historia 1
 > - Mostrar una interfaz donde se pregunte al usuario: cantidad a invertir y número de años.
 > - Guardar la información proporcionada por el usuario.
 
+Encontrando Defectos Historia 1
+> Reunanse en equipos e intenten encontrar y documentar la mayor cantidad de defectos.
+
+| Defecto | Descripción | Posible Causa Raiz |
+| --- | --- | --- |
+| #1 |  |  |
+| #2 |  |  |
+| #3 |  |  |
+| #N |  |  |
+
 Historia 2
 > Como desarrollador de la aplicación para invertir dinero, quiero implementar una funcionalidad para poder calcular el rendimiento de la cantidad invertida dependiendo del número de años a invertir, para poder obtener el cálculo de capital e intereses generados.
 
@@ -29,8 +39,17 @@ Historia 2
 >   - En el tercer año en adelante se genera un rendimiento del 10%
 > - El código debe de regresar la cantidad de intereses que se generan.
 
-Historia 3
+Encontrando Defectos Historia 2
+> Reunanse en equipos e intenten encontrar y documentar la mayor cantidad de defectos.
 
+| Defecto | Descripción | Posible Causa Raiz |
+| --- | --- | --- |
+| #1 |  |  |
+| #2 |  |  |
+| #3 |  |  |
+| #N |  |  |
+
+Historia 3
 > Como desarrollador de la aplicación para invertir dinero, quiero implementar una forma de desplegar al usuario el capital original, el capital más intereses y la tasa de interés, para mostrar la información de interés al usuario. 
 
 > Criterios de Aceptación
@@ -38,6 +57,16 @@ Historia 3
 >   - Capital original.
 >   - Capital más intereses.
 >   - Tasa de Interés.
+
+Encontrando Defectos Historia 3
+> Reunanse en equipos e intenten encontrar y documentar la mayor cantidad de defectos.
+
+| Defecto | Descripción | Posible Causa Raiz |
+| --- | --- | --- |
+| #1 |  |  |
+| #2 |  |  |
+| #3 |  |  |
+| #N |  |  |
 
 Historia 4
 
@@ -50,9 +79,8 @@ Historia 4
 > Si el usuario no está de acuerdo se debe desplegar el mensaje "Gracias por su preferencia, esperamos verlo pronto".
 > - Almacenar la decisión del usuario.
 
-## Encontrando Defectos
-
-Reunanse en equipos e intenten encontrar y documentar la mayor cantidad de defectos.
+Encontrando Defectos Historia 4
+> Reunanse en equipos e intenten encontrar y documentar la mayor cantidad de defectos.
 
 | Defecto | Descripción | Posible Causa Raiz |
 | --- | --- | --- |
@@ -61,8 +89,34 @@ Reunanse en equipos e intenten encontrar y documentar la mayor cantidad de defec
 | #3 |  |  |
 | #N |  |  |
 
-## Código propuesto
+Para está actividad el código propuesto tiene defectos para poder trabajar la actividad de econtrar defectos.
 
-El código propuesto tiene defectos para que el alumno pueda trabajar en la segunda parte de esta actividad.
+## Código propuesto Historia 1
+
+<img width="606" alt="image" src="https://user-images.githubusercontent.com/67882289/135689201-9d7d7c17-fc4d-42bd-b6d4-b64478e0a85e.png">
+
+```
+import java.util.Scanner;
+
+public class MyClass {
+
+  public static void main(String args[]) {
+
+		float cantidad = input.nextFloat();
+		int plazo = input.nextInt();
+		
+  }
+  
+}
+
+```
+
+## Código propuesto Historia 2
+
+## Código propuesto Historia 3
+
+## Código propuesto Historia 4
+
+
 
 
