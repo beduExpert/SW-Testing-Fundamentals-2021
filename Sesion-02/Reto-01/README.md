@@ -88,7 +88,11 @@ Reunanse en equipos e intenten encontrar y documentar la mayor cantidad de defec
 | #N |  |  |
 
 
+
+
 ## Código Propuesto
+
+El código propuesto tiene defectos para que el alumno pueda trabajar en la segunda parte de esta actividad.
 
 ```
 import java.util.Scanner;
