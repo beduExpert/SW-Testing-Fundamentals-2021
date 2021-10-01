@@ -1,5 +1,5 @@
 
-# Sesión #: Fundamentos del Software Testing.
+# Sesión 1: Fundamentos del Software Testing.
 
 ## :dart: Objetivos
 
