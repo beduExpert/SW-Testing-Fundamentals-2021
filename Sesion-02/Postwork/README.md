@@ -54,9 +54,31 @@ Del requerimiento anterior descomponlo en historias de usuario. Para este ejerci
 
 | Historia de Usuario | Criterios de Aceptación |
 | --- | --- |
-| Ejemplo: 1) Como usuario de la aplicación de la pizzera, quiero que el sistema despliegue un método que pregunte si el cliente desea una pizza vegetariana, para saber y almacenar la preferencia del cliente. | - El sistema debe preguntar en pantalla si el cliente desea una pizza vegetariana.<br\>- El sistema debe de almacenar la respuesta del cliente. |
+| Ejemplo: 1) Como usuario de la aplicación de la pizzera, quiero que el sistema despliegue un método que pregunte si el cliente desea una pizza vegetariana, para saber y almacenar la preferencia del cliente. | - El sistema debe preguntar en pantalla si el cliente desea una pizza vegetariana.\- El sistema debe de almacenar la respuesta del cliente. |
 | 2) | 2) |
 | 3) | 3) |
 | 4) | 4) |
 | 5) | 5) |
+
+## Ejercicio 3
+
+Del ejercicio anterior:
+
+- Implementa nuevamente el código utilizando una historia de usuario a la vez (preferentemente una función por historia de usuario). 
+- Graba un video de 1 minuto demostrando su funcionamiento.
+
+## Ejercicio 4
+
+| Pregunta | Respuesta |
+| --- | --- |
+| 1) ¿En cuál de los primeros 2 ejercicios fue más fácil identificar ambigüedades en las especificaciones? ¿Y por qué? |  |
+| 2) ¿En cuál de los primeros 2 ejercicios tuviste más claro cómo elaborar tu código y que actividades desempeñar? ¿Y por qué? |  |
+| 3) ¿Por qué concluir que la comunicación es esencial en las actividades de testing y desarrollo? |  |
+| 4) ¿Qué etapas del ciclo de vida de desarrollo del software identificas durante la elaboración de esta actividad? |  |
+| 5) ¿Dónde piensas que se involucraría el proceso fundamental del testing de acuerdo a la actividad que se realizó? |  |
+
+## ✅ Checklist
+
+Considera que tu proyecto debe cumplir con lo siguiente:
+
 
