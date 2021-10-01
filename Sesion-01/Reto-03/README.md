@@ -1,4 +1,4 @@
-# Reto # - Testeando un Producto de Software.
+# Reto 3 - Testeando un Producto de Software.
 
 ## Objetivo
 
