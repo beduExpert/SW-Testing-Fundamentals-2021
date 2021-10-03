@@ -56,7 +56,7 @@ El principio de TDD es diseñar primero los casos de pruebas, para lo cual no ne
 - Verificar descuento aplicado cuando el alumno selecciona 4 cursos.
 - Verificar precio total con descuento con IVA cuando el alumno selecciona 4 cursos.
 
-Para este ejemplo vamos a diseñar las primero 5 pruebas y desarrollaremos el código necesario para poder cubrirlas. Primero hay que crear una clase TestNG y vaciar los casos de prueba propuestos con el código necesario para que pasen.
+Para este ejemplo vamos a diseñar las primeras 5 pruebas y desarrollaremos el código necesario para poder cubrirlas. Primero hay que crear una clase TestNG y vaciar los casos de prueba propuestos con el código necesario para que pasen.
 
 ```
 import org.testng.Assert;
@@ -149,7 +149,18 @@ Si corremos nuevamente los casos de prueba, comprobaremos que el primer caso de 
 
 <img width="976" alt="image" src="https://user-images.githubusercontent.com/67882289/135771341-3f40cf31-482a-42f2-804c-e7ab37651c77.png">
 
-Necesitamos una forma de poder leer el archivo de texto 
+Necesitamos una forma de poder leer el archivo de texto adjunto donde viene cómo debe mostrarse el catálogo de cursos. (Copia y pega el texto más abajo y guardalo en un archivo de texto llamado "Catalogo_Cursos.txt", asegurate de que éste guardado en el mismo folder del proyecto).
+
+> Bienvenido a la Escuela Online.
+>
+> Estos son los cursos que ofrecemos:
+>
+> [a] Software Testing
+> [b] Ciberseguridad
+> [c] Programación con Java
+> [d] Machine Learning
+>
+> Puedes registrarte a 1, 2, 3 o los 4 cursos. Inserta el número del curso que desees incribirte, seguido de la letra "Enter". Para terminar tu registro inserta el caracter 'x' seguido de enter.
 
 
 
