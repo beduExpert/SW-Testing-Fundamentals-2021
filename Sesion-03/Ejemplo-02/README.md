@@ -90,7 +90,6 @@ public class TestEscuelaOnline {
   }
   
 }
-
 ```
 Si ejecutamos los casos de prueba podemos darnos cuenta que pasan.
 
@@ -140,7 +139,6 @@ A propósito dejamos un argumento de retorno para poder verificar el contenido d
 	  EscuelaOnline cursos = new EscuelaOnline();
 	  Assert.assertEquals(cursos.mostrarCatalogoDeCursos(), true);
   }
-
 ```
 Si corremos nuevamente los casos de prueba, comprobaremos que el primer caso de prueba falla debido al código que insertamos.
 
