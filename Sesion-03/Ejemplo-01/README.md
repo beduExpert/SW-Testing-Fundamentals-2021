@@ -182,10 +182,18 @@ En el ejemplo vamos a crear 4 pruebas unitarias y ejecutarlas para analizar los 
 El primer paso será agregar el framework TestNG y una clase de este tipo.
 
 ![image](https://user-images.githubusercontent.com/67882289/135738752-b121fe31-4394-448d-b734-a7b71b0c4209.png)
-![image](https://user-images.githubusercontent.com/67882289/135738755-b8be7cf4-1c66-4f9a-9b4f-33dfd19b464f.png)
 
+![image](https://user-images.githubusercontent.com/67882289/135738784-ae2c86d7-d5ce-485b-aa11-a852b04cc5fc.png)
 
-<img width="585" alt="image" src="https://user-images.githubusercontent.com/67882289/135736200-f42089a2-46a1-4cac-8dcc-b364e2eefc39.png">
+![image](https://user-images.githubusercontent.com/67882289/135738799-b92ce825-453c-42e2-a1da-781c050f1af1.png)
+
+Una vez creada la clase, posicionamos el mouse como se muestra la imagen y damos click.
+
+![image](https://user-images.githubusercontent.com/67882289/135738829-41e833a3-5e54-4369-b420-b97d6b22b0ae.png)
+
+Con esto la librearía de TestNG será agregada al proyecto.
+
+![image](https://user-images.githubusercontent.com/67882289/135738838-c308f380-1b9c-464b-b0c1-b2fb24da6f9a.png)
 
 Cuando hacemos pruebas unitarias debemos analizar nuestro código para entender cómo vamos a inyectar entradas a la unidad de interés y que salidas vamos a poder utilizar para poder monitorear el comportamiento esperado.
 
