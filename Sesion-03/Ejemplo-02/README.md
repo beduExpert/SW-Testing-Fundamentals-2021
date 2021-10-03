@@ -294,7 +294,7 @@ Ahora vamos a implementar el código para las 4 pruebas faltantes:
 	  Assert.assertEquals(true, true);
   }
 ```
-Vamos a crear un atributo dentro de la clase EscuelaOnline que guarde cuántos cursos se inscribió el alumno y los el setter y getter para poder acceder y modificar este atributo.
+Vamos a crear un atributo dentro de la clase EscuelaOnline que guarde cuántos cursos se inscribió el alumno y el setter y getter para poder acceder y modificar este atributo.
 
 ```
 public class EscuelaOnline {
