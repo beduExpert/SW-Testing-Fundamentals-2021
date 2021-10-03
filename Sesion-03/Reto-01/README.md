@@ -132,7 +132,7 @@ public class TestInversion {
     
     @Test
     public void verificarMesajeInversionNoAceptada() {
-      inv.setDecisionUsuario("N");
+      	inv.setDecisionUsuario("N");
     	String mensaje = inv.obtenerMensajeDecisionUsuario();
     	
     	Assert.assertEquals(mensaje, "Gracias por su preferencia, esperamos verlo pronto.");
