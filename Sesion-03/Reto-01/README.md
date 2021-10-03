@@ -1,4 +1,4 @@
-# Reto 1 - Crea tus propias prubas unitarias.
+# Reto 1 - Crea tus propias pruebas unitarias.
 
 ## Objetivo
 
