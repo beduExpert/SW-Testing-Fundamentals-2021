@@ -179,25 +179,13 @@ En el ejemplo vamos a crear 4 pruebas unitarias y ejecutarlas para analizar los 
 3. Verificar que la tasa calculada para el plazo de 3 año sea igual al 10%.
 4. Verificar que la tasa calculada para el plazo de 10 año sea igual al 10%.
 
-El primer paso será agregar el framework de pruebas a las librerías de nuestro proyecto.
+El primer paso será agregar el framework TestNG y una clase de este tipo.
 
-<img width="365" alt="image" src="https://user-images.githubusercontent.com/67882289/135736173-df8e8fc1-0657-4b9c-a3f4-963eee32cabe.png">
+![image](https://user-images.githubusercontent.com/67882289/135738752-b121fe31-4394-448d-b734-a7b71b0c4209.png)
+![image](https://user-images.githubusercontent.com/67882289/135738755-b8be7cf4-1c66-4f9a-9b4f-33dfd19b464f.png)
 
-<img width="992" alt="image" src="https://user-images.githubusercontent.com/67882289/135736194-06dcc969-2b5e-4fd8-8557-5cc334aa334a.png">
 
 <img width="585" alt="image" src="https://user-images.githubusercontent.com/67882289/135736200-f42089a2-46a1-4cac-8dcc-b364e2eefc39.png">
-
-<img width="588" alt="image" src="https://user-images.githubusercontent.com/67882289/135736205-aeb188da-0a70-483c-8858-6efb9e2dec6c.png">
-
-Damos click en "Apply and Close" y el folder de TestNG ya debe estar incluido en nuestro proyecto.
-
-<img width="335" alt="image" src="https://user-images.githubusercontent.com/67882289/135736224-34a433b8-3547-4e8e-892b-b0e51bff333e.png">
-
-Una vez añadida la librería TestNG, procederemos a crear otra nueva clase y nombrarla "TestInversion".
-
-<img width="585" alt="image" src="https://user-images.githubusercontent.com/67882289/135736297-823d9655-d95b-49b2-8ea3-df2bf2551195.png">
-
-<img width="596" alt="image" src="https://user-images.githubusercontent.com/67882289/135736302-9b426ffa-adcd-4037-b9fc-b7ca9d36fd09.png">
 
 Cuando hacemos pruebas unitarias debemos analizar nuestro código para entender cómo vamos a inyectar entradas a la unidad de interés y que salidas vamos a poder utilizar para poder monitorear el comportamiento esperado.
 
