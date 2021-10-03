@@ -117,9 +117,9 @@ class Inversion {
 	String decisionUsuario = getDecisionUsuario();
 		
         if (decisionUsuario.equals("Y")) {
-        	mensaje = "Gracias por invertir con nosotros.";
+        	mensaje = "Gracias por invertir con nosotros";
         } else {
-	    	mensaje = "Gracias por su preferencia, esperamos verlo pronto.";
+	    	mensaje = "Gracias por su prefrencia, esperamos verlo pronto.";
         }
         return mensaje;
     }
