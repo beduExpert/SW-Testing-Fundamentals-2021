@@ -39,6 +39,8 @@ De acuerdo a la especificación del cliente estos son los valores que deberíamo
 | $7743.73 | 19 | 10% | $8518.10 |
 | $8518.10 | 20 | 10% | $9369.91 |
 
+## Código propuesto
+
 La solución propuesta para este ejercicio es la siguiente:
 
 ```
