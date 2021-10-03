@@ -91,7 +91,7 @@ class Inversion {
 		tasa = 0.05;
 	} else if (plazo == 2) {
 		tasa = 0.08;
-	} else if (plazo >= 3) {
+	} else if (plazo == 3) {
 		tasa = 0.10;
 	} else {
 		tasa = 0.0;
@@ -172,6 +172,13 @@ De acuerdo a la especificación del cliente estos son los valores que deberíamo
 
 En este ejemplo nos enfocaremos a probar que el programa nos esté regresando la tasa correcta dependiendo del plazo seleccionado. Por lo tanto nos enfocaremos a probar la función "imprimirResumenInversion()", la cual podemos considerar como una unidad.
 
+En el ejemplo vamos a crear 4 pruebas unitarias y ejecutarlas para analizar los resultados. Las pruebas serán las siguientes:
+
+1. Verificar que la tasa calculada para el plazo de 1 año sea igual al 5%.
+2. Verificar que la tasa calculada para el plazo de 2 año sea igual al 5%.
+3. Verificar que la tasa calculada para el plazo de 3 año sea igual al 10%.
+4. Verificar que la tasa calculada para el plazo de 10 año sea igual al 10%.
+
 El primer paso será agregar el framework de pruebas a las librerías de nuestro proyecto.
 
 <img width="365" alt="image" src="https://user-images.githubusercontent.com/67882289/135736173-df8e8fc1-0657-4b9c-a3f4-963eee32cabe.png">
@@ -185,6 +192,59 @@ El primer paso será agregar el framework de pruebas a las librerías de nuestro
 Damos click en "Apply and Close" y el folder de TestNG ya debe estar incluido en nuestro proyecto.
 
 <img width="335" alt="image" src="https://user-images.githubusercontent.com/67882289/135736224-34a433b8-3547-4e8e-892b-b0e51bff333e.png">
+
+Una vez añadida la librería TestNG, procederemos a crear otra nueva clase y nombrarla "TestInversion".
+
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/67882289/135736297-823d9655-d95b-49b2-8ea3-df2bf2551195.png">
+
+<img width="596" alt="image" src="https://user-images.githubusercontent.com/67882289/135736302-9b426ffa-adcd-4037-b9fc-b7ca9d36fd09.png">
+
+TestNG nos va a permitir agrupar nuestras pruebas unitarias en archivos y cada prueba será representada como una función. Para que el TestNG reconozca la función como una prueba, debe de colocarse la notación @Test antes de cada función. Primero comenzaremos con la primer prueba para verificar que la tasa sea correcta con un plazo de 1 año.
+
+Cuando hacemos pruebas unitarias debemos analizar nuestro código para entender cómo vamos a inyectar entradas a la unidad de interés y que salidas vamos a poder utilizar para poder monitorear el comportamiento esperado.
+
+Si observamos el código podemos apreciar que modificando las variables de cantidadOriginal y plazo en la clase Inversion podremos ejercitar las entradas y leyendo las variables de cantidadCompuesta y tasa podemos monitorear las salidas. 
+
+<img width="648" alt="image" src="https://user-images.githubusercontent.com/67882289/135736913-748f3c28-5af6-4710-9c10-0f01d1090989.png">
+
+Para poder acceder a las entradas y leer de las salidas utilizaremos las siguientes funciones dentro de la clase:
+
+
+
+
+```
+import org.testng.annotations.Test;
+
+public class TestInversion {
+
+   @Test
+   public void verificarTasaConPlazoUno() {
+
+   }
+	
+}
+
+```
+Vamos a instanciar un objeto de la clase Inversion y setear los valores que deseamos a las variables de instancia que require el objeto.
+
+```
+import org.testng.annotations.Test;
+
+public class TestInversion {
+
+   @Test
+   public void verificarTasaConPlazoUno() {
+	Inversion inv = new Inversion();
+	inv.setCantidadOriginal(1500);
+	inv.setPlazo(1);
+   }
+	
+}
+
+
+
+
+
 
 
 
