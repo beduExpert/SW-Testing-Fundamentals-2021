@@ -131,6 +131,19 @@ class Inversion {
 }
 
 ```
+Para poder comenzar hay que crear un nuevo proyecto en Eclipse.
+
+<img width="806" alt="image" src="https://user-images.githubusercontent.com/67882289/135735996-b870f863-90b2-49c7-9ad5-6b4866346a72.png">
+
+Enseguida hay que crear una nueva clase, la cual llamaremos "Inversion".
+
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/67882289/135736011-1d7ea847-f900-473c-bb5f-1c7a1acf06fa.png">
+
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/67882289/135736022-47be44e5-4929-465e-985a-6b9277478da5.png">
+
+Después hay que copiar pegar el código del programa propuesto más arriba.
+
+<img width="891" alt="image" src="https://user-images.githubusercontent.com/67882289/135736125-b74c1761-b937-4397-9160-fd8b6b7ba3c1.png">
 
 De aceurdo a la especificación del cliente estos son los valores que deberíamos de esperar que el programa calcule con un ejemplo de inversión inicial de $1500.
 
@@ -156,6 +169,25 @@ De aceurdo a la especificación del cliente estos son los valores que deberíamo
 | $7039.75 | 18 | 10% | $7743.73 |
 | $7743.73 | 19 | 10% | $8518.10 |
 | $8518.10 | 20 | 10% | $9369.91 |
+
+En este ejemplo nos enfocaremos a probar que el programa nos esté regresando la tasa correcta dependiendo del plazo seleccionado. Por lo tanto nos enfocaremos a probar la función "imprimirResumenInversion()", la cual podemos considerar como una unidad.
+
+El primer paso será agregar el framework de pruebas a las librerías de nuestro proyecto.
+
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/67882289/135736173-df8e8fc1-0657-4b9c-a3f4-963eee32cabe.png">
+
+<img width="992" alt="image" src="https://user-images.githubusercontent.com/67882289/135736194-06dcc969-2b5e-4fd8-8557-5cc334aa334a.png">
+
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/67882289/135736200-f42089a2-46a1-4cac-8dcc-b364e2eefc39.png">
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/67882289/135736205-aeb188da-0a70-483c-8858-6efb9e2dec6c.png">
+
+Damos click en "Apply and Close" y el folder de TestNG ya debe estar incluido en nuestro proyecto.
+
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/67882289/135736224-34a433b8-3547-4e8e-892b-b0e51bff333e.png">
+
+
+
 
 
 
