@@ -270,8 +270,7 @@ public class TestEscuelaOnline {
 	return file_content.substring(0, file_content.length() - 1);
     }
 }  
-
-
+```
 Ahora vamos a implementar el código para las 4 pruebas faltantes:
 
 ```
