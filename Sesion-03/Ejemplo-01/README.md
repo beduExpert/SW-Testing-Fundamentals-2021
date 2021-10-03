@@ -227,6 +227,7 @@ public class TestInversion {
 Vamos a instanciar un objeto de la clase Inversion y setear los valores que deseamos a las variables de instancia que require el objeto.
 
 ```
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TestInversion {
@@ -246,6 +247,7 @@ public class TestInversion {
 Al igual que otros frameworks y lenguajes de programación, TestNG y java usan los assertions para poder comparar un comportamiento actual contra un comportamiento esperado. Existen varias formas de hacer un assertion, sin embargo el más usado y recomendado es el Assert.assertEquals().
 
 ```
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TestInversion {
@@ -276,6 +278,7 @@ Al terminar se puede observar en consola un resumen de las pruebas ejecutadas y 
 Para crear las pruebas faltantes simplemente hay que copiar y pegar el código, modificando los valores necesarios.
 
 ```
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TestInversion {
@@ -333,20 +336,90 @@ Vamos a ejecutar las pruebas nuevamente, en esta ocasión podemos ver que 2 de l
 
 <img width="890" alt="image" src="https://user-images.githubusercontent.com/67882289/135738153-029f6ddf-36cf-4935-b9d2-66d55fe363ff.png">
 
+Al observar el detalle de los resultados podemos observar:
 
+- La prueba que verifica la tasa con plazo dos falla porque esperaba una tasa de 0.07 pero el programa entrego 0.08.
+- La prueba que verrifica la tasa con plazo diez falla porque esperaba una tasa de 0.1 pero el programa entrego 0.0.
 
+Vamos al código original, para ver que es lo que está pasando... Al observar la función de calcularTasa() que se manda a llamar desde la función imprimirResumenInversion() podemos ver los siguientes detalles:
 
+<img width="644" alt="image" src="https://user-images.githubusercontent.com/67882289/135738338-3821e7b9-985c-4c82-84ee-fa5cb4f956a5.png">
 
+Así se mostraría la función correctamente.
 
+```
+    private double calcularTasa(int plazo) {
+		
+    	double tasa = 0;
+		
+    	if (plazo == 1) {
+    		tasa = 0.05;
+    	} else if (plazo == 2) {
+    		tasa = 0.07;
+    	} else if (plazo >= 3) {
+    		tasa = 0.10;
+    	} else {
+    		tasa = 0.0;
+    	}
+		
+    	return tasa;
+    }
 
+```
+Si volvemos a ejecutar las pruebas podemos observar que no se encontraron fallas.
 
+![image](https://user-images.githubusercontent.com/67882289/135738435-df4ceff8-7ca3-4e00-a5d9-6389cf935fdb.png)
 
+![image](https://user-images.githubusercontent.com/67882289/135738444-159345a5-c59c-412a-9cb3-d9df7ff32efa.png)
 
+Para finalizar se propone una versión mejorada de la clase TestInversion. Observese que se está utilizando la anotación @BeforeTest, al usar está anotación está función se ejecutara antes de cada prueba.
 
+```
+import org.testng.Assert;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
 
+public class TestInversion {
 
+    Inversion inv;
+	
+    @BeforeTest
+    public void preConditions() {
+	inv = new Inversion();
+	inv.setCantidadOriginal(1500);
+    }
+	
+    @Test
+    public void verificarTasaConPlazoUno() {
+	inv.setPlazo(1);
+	inv.imprimirResumenInversion();
+		
+	Assert.assertEquals(inv.getTasa(), 0.05);
+    }
+	
+    @Test
+    public void verificarTasaConPlazoDos() {
+	inv.setPlazo(2);
+	inv.imprimirResumenInversion();
+		
+	Assert.assertEquals(inv.getTasa(), 0.07);
+    }
+	
+    @Test
+    public void verificarTasaConPlazoTres() {
+	inv.setPlazo(3);
+	inv.imprimirResumenInversion();
+		
+	Assert.assertEquals(inv.getTasa(), 0.1);
+    }
+	
+    @Test
+    public void verificarTasaConPlazoDiez() {
+	inv.setPlazo(10);
+	inv.imprimirResumenInversion();
+		
+	Assert.assertEquals(inv.getTasa(), 0.1);
+    }
+}
 
-
-
-
-
+```
