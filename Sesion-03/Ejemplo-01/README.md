@@ -141,11 +141,11 @@ Enseguida hay que crear una nueva clase, la cual llamaremos "Inversion".
 
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/67882289/135736022-47be44e5-4929-465e-985a-6b9277478da5.png">
 
-Después hay que copiar pegar el código del programa propuesto más arriba.
+Después hay que copiar pegar el código del programa propuesto más arriba. Para este ejemplo no necesitaremos el código del main, ya que sólo vamos a enfoncarnos a probar el componente inversión.
 
 <img width="891" alt="image" src="https://user-images.githubusercontent.com/67882289/135736125-b74c1761-b937-4397-9160-fd8b6b7ba3c1.png">
 
-De aceurdo a la especificación del cliente estos son los valores que deberíamos de esperar que el programa calcule con un ejemplo de inversión inicial de $1500.
+De acuerdo a la especificación del cliente estos son los valores que deberíamos de esperar que el programa calcule con un ejemplo de inversión inicial de $1500.
 
 | Cantidad Original | Plazo | Tasa | Cantidad Compuesta |
 | --- | --- | --- | --- |
