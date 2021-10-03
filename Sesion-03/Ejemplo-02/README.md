@@ -222,9 +222,9 @@ public class TestEscuelaOnline {
 ```
 Aunque si volvemos a correr la prueba notamos que ésta falla. Si observamos el resultado esperado contra el actual que nos reporta TestNG podremos darnos cuenta que hace falta un caracter de retorno de línea después de "Ciberseguridad" y después de "Machine Learning" en nuestro código.
 
-<img width="503" alt="image" src="https://user-images.githubusercontent.com/67882289/135772481-ad06e97b-dc3b-4348-af80-9f576105d107.png">
+<img width="709" alt="image" src="https://user-images.githubusercontent.com/67882289/135772762-537236dd-015a-49a5-98e0-8955848be3f9.png">
 
-<img width="418" alt="image" src="https://user-images.githubusercontent.com/67882289/135772485-26a2ccc2-32e0-40c1-b011-143a030fb1d5.png">
+<img width="709" alt="image" src="https://user-images.githubusercontent.com/67882289/135772765-f8279c72-b0b0-41de-81c2-b5f0d7030261.png">
 
 Corrigiendo estos detalles y nuevamente volviendo a correr las pruebas.
 
