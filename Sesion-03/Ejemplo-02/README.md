@@ -143,7 +143,7 @@ Si corremos nuevamente los casos de prueba, comprobaremos que el primer caso de 
 
 <img width="951" alt="image" src="https://user-images.githubusercontent.com/67882289/135771311-93b4f556-fd21-40cc-9ec5-0f875cd17f18.png">
 
-<img width="976" alt="image" src="https://user-images.githubusercontent.com/67882289/135771341-3f40cf31-482a-42f2-804c-e7ab37651c77.png">
+<img width="971" alt="image" src="https://user-images.githubusercontent.com/67882289/135773794-99c65964-9a5a-48f8-b301-003ded230d7e.png">
 
 Necesitamos una forma de poder leer el archivo de texto adjunto donde viene cómo debe mostrarse el catálogo de cursos (archivo adjunto en la misma carpeta donde se encuentra este Ejemplo). Se recominda copiar y pegar este archivo en la carpeta "src" del proyecto "TDD".
 
@@ -219,11 +219,11 @@ public class TestEscuelaOnline {
   
 }  
 ```
-Aunque si volvemos a correr la prueba notamos que ésta falla. Si observamos el resultado esperado contra el actual que nos reporta TestNG podremos darnos cuenta que hace falta un caracter de retorno de línea después de "Ciberseguridad" y después de "Machine Learning" en nuestro código.
+Aunque si volvemos a correr la prueba notamos que ésta falla. Si observamos el resultado esperado contra el actual que nos reporta TestNG podremos darnos cuenta que hace falta un caracter de retorno de línea después de "Ciberseguridad".
 
-<img width="709" alt="image" src="https://user-images.githubusercontent.com/67882289/135772762-537236dd-015a-49a5-98e0-8955848be3f9.png">
+<img width="946" alt="image" src="https://user-images.githubusercontent.com/67882289/135773850-35ea5964-c1a3-43f0-b664-2f210f8969f2.png">
 
-<img width="709" alt="image" src="https://user-images.githubusercontent.com/67882289/135772765-f8279c72-b0b0-41de-81c2-b5f0d7030261.png">
+<img width="528" alt="image" src="https://user-images.githubusercontent.com/67882289/135773861-c39d314f-8cb2-4d8b-8e37-e2b2f64663e6.png">
 
 Corrigiendo estos detalles y nuevamente volviendo a correr las pruebas.
 
