@@ -231,6 +231,47 @@ Corrigiendo estos detalles y nuevamente volviendo a correr las pruebas.
 
 Con esto podemos comprobar la ventaja de usar TDD, en este momento tenemos una muy alta confiabilidad de que lo que nos pide la especificación es lo que implementamos y no tendremos que resolver algún defecto posteriormente.
 
+El último paso para este caso de prueba es refactorizar el código de ella, para lo cual instansearemos el objeto por medio de una función que se ejecute antes de cada prueba.
+
+```
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+public class TestEscuelaOnline {
+	
+    EscuelaOnline cursos;
+	
+    @BeforeTest
+    public void preConditions() {
+	cursos = new EscuelaOnline();
+    }
+
+    @Test
+	public void verificarQueSeMuestreCatalogoConCursosDisponibles() throws FileNotFoundException {
+	String resultado_esperado = leerArchivoDeTexto("src/Catalogo_Cursos.txt");
+	
+	Assert.assertEquals(cursos.mostrarCatalogoDeCursos(), resultado_esperado);
+    }
+
+    private String leerArchivoDeTexto(String file_path) throws FileNotFoundException {
+		
+	File file = new File(file_path);
+	Scanner scan = new Scanner(file);
+	String file_content = "";
+		
+	while(scan.hasNextLine()) {
+		file_content = file_content.concat(scan.nextLine() + "\n");
+	}	
+	  
+	return file_content.substring(0, file_content.length() - 1);
+    }
+}  
+
+
 Ahora vamos a implementar el código para las 4 pruebas faltantes:
 
 ```
@@ -291,4 +332,112 @@ public class EscuelaOnline {
     }
 }
 
+```
+Con esto ya podemos modificar el valor de este atributo y podemos colocal este código en nuestros casos de preuba.
 
+```
+    @Test
+    public void verificarQueAlumnoPuedaSeleccionar1Curso() {
+	cursos.setNumeroDeCursosInscritos(1);
+	Assert.assertEquals(cursos.getNumeroDeCursosInscritos(), true);
+    }
+
+    @Test
+    public void verificarQueAlumnoPuedaSeleccionar4Cursos() {
+	cursos.setNumeroDeCursosInscritos(4);
+	Assert.assertEquals(cursos.getNumeroDeCursosInscritos(), true);
+    }
+  
+    @Test
+    public void verificarQueAlumnoNoPuedaSeleccionar0Cursos() {
+	cursos.setNumeroDeCursosInscritos(0);
+	Assert.assertEquals(cursos.getNumeroDeCursosInscritos(), true);
+    }  
+  
+    @Test
+    public void verificarQueAlumnoNoPuedaSeleccionar5Cursos() {
+	cursos.setNumeroDeCursosInscritos(5);
+	Assert.assertEquals(cursos.getNumeroDeCursosInscritos(), true);
+    }
+```
+Si corremos la pruebas podemos ver que éstas fallan.
+
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/67882289/135774473-47b1b9f7-c33a-4538-9199-3e77b2033f6c.png">
+
+Para los casos de prueba con 1 y 4 cursos sólo agregando como resultado esperado 1 y 4 las preubas pasarían, así que no habría que hacer más. Sin embargo para los casos de 0 y 5 cursos deberíamos de implementar alguna medida para saber que esta es una opción invalida. 
+
+En un proyecto real este caso negativo deberíamos platicarlo con un representante del cliente para saber que valor debería de devolver en estos casos. Para el ejemplo vamos a suponer que si el alumno ingresa 0 o un número mayor 4, debemos esperar un entero igual a 99.
+
+En la clase EscuelaOnline vamos a añadir esta lógica en el setter del atributo "numeroDeCursosInscritos".
+
+```
+public class EscuelaOnline {
+
+    private int numeroDeCursosInscritos;
+	
+    public int getNumeroDeCursosInscritos() {
+	return numeroDeCursosInscritos;
+    }
+
+    public void setNumeroDeCursosInscritos(int numeroDeCursosInscritos) {
+	if (numeroDeCursosInscritos == 0 || numeroDeCursosInscritos > 4) {
+		this.numeroDeCursosInscritos = 99;
+	} else {
+		this.numeroDeCursosInscritos = numeroDeCursosInscritos;
+	}
+    }
+
+    public String mostrarCatalogoDeCursos() {
+		
+	String mensaje = "";
+		
+	mensaje = "Bienvenido a la Escuela Online.\n" + 
+			"\n" +
+			"Estos son los cursos que ofrecemos:\n" +
+			"\n" +
+			"[1] Programación con Java\n" +
+			"[2] Software Testing\n" +
+			"[3] Ciberseguridad\n" +
+			"[4] Machine Learning\n" +
+			"\n" +
+			"¿Cuántos deseas tomar? (1,2,3 ó 4).";
+				
+	System.out.println(mensaje);
+		
+	return mensaje;
+		
+    }
+		
+}
+```
+
+Corrigiendo el código a nuestros casos de pruebas, éstos ya deberían de pasar.
+```
+    @Test
+    public void verificarQueAlumnoPuedaSeleccionar1Curso() {
+	cursos.setNumeroDeCursosInscritos(1);
+	Assert.assertEquals(cursos.getNumeroDeCursosInscritos(), 1);
+    }
+
+    @Test
+    public void verificarQueAlumnoPuedaSeleccionar4Cursos() {
+	cursos.setNumeroDeCursosInscritos(4);
+	Assert.assertEquals(cursos.getNumeroDeCursosInscritos(), 4);
+    }
+  
+    @Test
+    public void verificarQueAlumnoNoPuedaSeleccionar0Cursos() {
+	cursos.setNumeroDeCursosInscritos(0);
+	Assert.assertEquals(cursos.getNumeroDeCursosInscritos(), 99);
+    }  
+  
+    @Test
+    public void verificarQueAlumnoNoPuedaSeleccionar5Cursos() {
+	cursos.setNumeroDeCursosInscritos(5);
+	Assert.assertEquals(cursos.getNumeroDeCursosInscritos(), 99);
+    }
+```
+
+<img width="962" alt="image" src="https://user-images.githubusercontent.com/67882289/135775229-fff19efc-0a81-46e0-a677-b7b6a300d8ff.png">
+
+Con esto concluimos este ejemplo.
