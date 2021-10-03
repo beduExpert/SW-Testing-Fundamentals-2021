@@ -109,28 +109,27 @@ Para poder mostrar el catalogo de cursos necesitamos crear un método que muestr
 ```
 public class EscuelaOnline {
 
-	public String mostrarCatalogoDeCursos() {
+    public String mostrarCatalogoDeCursos() {
 		
-		String mensaje = "";
+	String mensaje = "";
 		
-		mensaje = "Bienvenido a la Escuela Online.\n" + 
-					"\n" +
-					"Estos son los cursos que ofrecemos:\n" +
-					"\n" +
-					"[a] Software Testing\n" +
-					"[b] Ciberseguridad" +
-					"[c] Programación con Java\n" +
-					"[d] Machine Learning\n" +
-					"Puedes registrarte a 1, 2, 3 o los 4 cursos. Inserta el número del curso que desees " +
-					"incribirte, seguido de la letra \"Enter\". Para terminar tu registro inserta el caracter " +
-					"\'x\' seguido de enter.";
+	mensaje = "Bienvenido a la Escuela Online.\n" + 
+			"\n" +
+			"Estos son los cursos que ofrecemos:\n" +
+			"\n" +
+			"[a] Software Testing\n" +
+			"[b] Ciberseguridad" +
+			"[c] Programación con Java\n" +
+			"[d] Machine Learning\n" +
+			"Puedes registrarte a 1, 2, 3 o los 4 cursos. Inserta el número del curso que desees " +
+			"incribirte, seguido de la letra \"Enter\". Para terminar tu registro inserta el caracter " +
+			"\'x\' seguido de enter.";
 				
-		System.out.println(mensaje);
+	System.out.println(mensaje);
 		
-		return mensaje;
+	return mensaje;
 		
-	}
-	
+    }	
 }
 ```
 A propósito dejamos un argumento de retorno para poder verificar el contenido del mensaje en nuestro caso de prueba. Regresando a la prueba agregaremos el código para poder leer este mensaje.
@@ -149,23 +148,91 @@ Si corremos nuevamente los casos de prueba, comprobaremos que el primer caso de 
 
 <img width="976" alt="image" src="https://user-images.githubusercontent.com/67882289/135771341-3f40cf31-482a-42f2-804c-e7ab37651c77.png">
 
-Necesitamos una forma de poder leer el archivo de texto adjunto donde viene cómo debe mostrarse el catálogo de cursos. (Copia y pega el texto más abajo y guardalo en un archivo de texto llamado "Catalogo_Cursos.txt", asegurate de que éste guardado en el mismo folder del proyecto).
+Necesitamos una forma de poder leer el archivo de texto adjunto donde viene cómo debe mostrarse el catálogo de cursos (archivo adjunto en la misma carpeta donde se encuentra este Ejemplo). Se recominda copiar y pegar este archivo en la carpeta "src" del proyecto "TDD".
 
-> Bienvenido a la Escuela Online.
->
-> Estos son los cursos que ofrecemos:
->
-> [a] Software Testing
-> [b] Ciberseguridad
-> [c] Programación con Java
-> [d] Machine Learning
->
-> Puedes registrarte a 1, 2, 3 o los 4 cursos. Inserta el número del curso que desees incribirte, seguido de la letra "Enter". Para terminar tu registro inserta el caracter 'x' seguido de enter.
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/67882289/135772096-a1a8a543-0b03-454e-9b4d-e48f6a0aae0c.png">
 
+Para leer el contenido del archivo de texto proponemos el siguiente código.
 
+```
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
 
+import org.testng.Assert;
+import org.testng.annotations.Test;
 
+public class TestEscuelaOnline {
+	
+  @Test
+  public void verificarQueSeMuestreCatalogoConCursosDisponibles() {
+	  EscuelaOnline cursos = new EscuelaOnline();
+	  Assert.assertEquals(cursos.mostrarCatalogoDeCursos(), true);
+  }
 
+  private String leerArchivoDeTexto(String file_path) throws FileNotFoundException {
+		
+	  File file = new File(file_path);
+	  Scanner scan = new Scanner(file);
+	  String file_content = "";
+		
+	  while(scan.hasNextLine()) {
+		file_content = file_content.concat(scan.nextLine() + "\n");
+	  }		
+	  
+	  return file_content.substring(0, file_content.length() - 1);
+  }
+  
+}  
+```
+Cómo funciona el método "leerArchivoDeTexto()" está fuera del alcance de este curso, sin embargo es importante notar que dentro de la clase donde estamos colocando nuestros casos de prueba creamos este método. De esto podemos enfatizar que mientras no coloquemos ningún tipo de anotación antes de un método este no será considerado para ejecutarse con TestNG.
+
+Con esto ya podremos leer el contenido del archivo de texto "Catalogo_Cursos.txt", guardarlo en una variable y completar nuestro caso de prueba.
+
+```
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+public class TestEscuelaOnline {
+	
+  @Test
+  public void verificarQueSeMuestreCatalogoConCursosDisponibles() throws FileNotFoundException {
+	  EscuelaOnline cursos = new EscuelaOnline();
+	  String resultado_esperado = leerArchivoDeTexto("src/Catalogo_Cursos.txt");
+	  
+	  Assert.assertEquals(cursos.mostrarCatalogoDeCursos(), resultado_esperado);
+  }
+
+  private String leerArchivoDeTexto(String file_path) throws FileNotFoundException {
+		
+	  File file = new File(file_path);
+	  Scanner scan = new Scanner(file);
+	  String file_content = "";
+		
+	  while(scan.hasNextLine()) {
+		file_content = file_content.concat(scan.nextLine() + "\n");
+	  }		
+	  
+	  return file_content.substring(0, file_content.length() - 1);
+  }
+  
+}  
+```
+Aunque si volvemos a correr la prueba notamos que ésta falla. Si observamos el resultado esperado contra el actual que nos reporta TestNG podremos darnos cuenta que hace falta un caracter de retorno de línea después de "Ciberseguridad" y después de "Machine Learning" en nuestro código.
+
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/67882289/135772481-ad06e97b-dc3b-4348-af80-9f576105d107.png">
+
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/67882289/135772485-26a2ccc2-32e0-40c1-b011-143a030fb1d5.png">
+
+Corrigiendo estos detalles y nuevamente volviendo a correr las pruebas.
+
+<img width="976" alt="image" src="https://user-images.githubusercontent.com/67882289/135772677-cc7eb2d1-b513-4bed-9974-c6bb5abd5b57.png">
+
+Con esto podemos comprobar la importancia del TDD, en este momento tenemos una alta confiabilidad de que lo que nos pide la especificación es lo que implementamos y no tendremos que resolver algún defecto posteriormente.
 
 
 
