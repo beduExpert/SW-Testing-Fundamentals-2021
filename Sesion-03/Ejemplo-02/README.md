@@ -9,7 +9,7 @@ Ejemplificar como se construye un programa al utilizar desarrollo conducido por 
 En este ejemplo vamos a desarrollar el siguiente programa utilizando TDD.
 
 Especificación:
-> Una escuela online a abierto sus puertas y por lanzamiento está ofreciendo una promoción. La escuela por el momento sólo ofrece cuatro cursos: "Software Testing", "Ciberseguridad", "Programación con Java" y "Machine Learning".
+> Una escuela online a abierto sus puertas y por lanzamiento está ofreciendo una promoción. La escuela por el momento sólo ofrece cuatro cursos: "Programación con Java", "Software Testing", "Ciberseguridad" y "Machine Learning".
 > El alumno interesado puede escoger uno de los tres cursos o los cuatro, el alumno puede recibir los siguientes descuentos al escoger más de uno:
 > - Si el alumno escoge 1 no se la hará ningún descuento.
 > - Si el alumno escoge 2 se le hará el 10% de precio total.
@@ -18,11 +18,11 @@ Especificación:
 > 
 > Cada curso sin descuento tiene un precio de $4000 pesos sin IVA.
 > 
-> Escribir un programa que muestre al usuario el catalogo de cursos y cuales de ellos desea tomar. Dependiendo de la decisión del alumno el programa debe regresar el precio total con descuento sin IVA, el descuento aplicado y el precio total con descuento con IVA, considerando un impuesto IVA del 16%.
+> Escribir un programa que muestre al usuario el catalogo de cursos y pregunté cuántos desea tomar. Dependiendo de la decisión del alumno el programa debe regresar el precio total con descuento sin IVA, el descuento aplicado y el precio total con descuento con IVA, considerando un impuesto IVA del 16%.
 >
 > El siguiente archivo texto adjunto representa como debe mostrarse la interfaz con el catálogo de cursos. 
 
-<img width="570" alt="image" src="https://user-images.githubusercontent.com/67882289/135770726-77b60d35-de15-4dc7-a83b-0742ce0b1b7d.png">
+![image](https://user-images.githubusercontent.com/67882289/135773698-3dc8315d-1691-49cb-9eff-9423e0e9a495.png)
 
 El principio de TDD es diseñar primero los casos de pruebas, para lo cual no necesitamos una interfaz de programación. Los casos de prueba que propondremos pueden ser hechos en un bloc de notas si así se desea. De la especificación anterior proponemos los siguientes casos de prueba.
 
@@ -112,17 +112,16 @@ public class EscuelaOnline {
 		
 	String mensaje = "";
 		
-	mensaje = "Bienvenido a la Escuela Online.\n" + 
-			"\n" +
-			"Estos son los cursos que ofrecemos:\n" +
-			"\n" +
-			"[a] Software Testing\n" +
-			"[b] Ciberseguridad" +
-			"[c] Programación con Java\n" +
-			"[d] Machine Learning\n" +
-			"Puedes registrarte a 1, 2, 3 o los 4 cursos. Inserta el número del curso que desees " +
-			"incribirte, seguido de la letra \"Enter\". Para terminar tu registro inserta el caracter " +
-			"\'x\' seguido de enter.";
+		mensaje = "Bienvenido a la Escuela Online.\n" + 
+				"\n" +
+				"Estos son los cursos que ofrecemos:\n" +
+				"\n" +
+				"[1] Programación con Java\n" +
+				"[2] Software Testing\n" +
+				"[3] Ciberseguridad" +
+				"[4] Machine Learning\n" +
+				"\n" +
+				"¿Cuántos deseas tomar? (1,2,3 ó 4).";
 				
 	System.out.println(mensaje);
 		
@@ -230,7 +229,39 @@ Corrigiendo estos detalles y nuevamente volviendo a correr las pruebas.
 
 <img width="976" alt="image" src="https://user-images.githubusercontent.com/67882289/135772677-cc7eb2d1-b513-4bed-9974-c6bb5abd5b57.png">
 
-Con esto podemos comprobar la importancia del TDD, en este momento tenemos una alta confiabilidad de que lo que nos pide la especificación es lo que implementamos y no tendremos que resolver algún defecto posteriormente.
+Con esto podemos comprobar la ventaja de usar TDD, en este momento tenemos una muy alta confiabilidad de que lo que nos pide la especificación es lo que implementamos y no tendremos que resolver algún defecto posteriormente.
+
+Ahora vamos a implementar el código para las 4 pruebas faltantes:
+
+```
+  @Test
+  public void verificarQueAlumnoPuedaSeleccionar1Curso() {
+	  Assert.assertEquals(true, true);
+  }
+
+  @Test
+  public void verificarQueAlumnoPuedaSeleccionar4Cursos() {
+	  Assert.assertEquals(true, true);
+  }
+  
+  @Test
+  public void verificarQueAlumnoNoPuedaSeleccionar0Cursos() {
+	  Assert.assertEquals(true, true);
+  }  
+  
+  @Test
+  public void verificarQueAlumnoNoPuedaSeleccionar5Cursos() {
+	  Assert.assertEquals(true, true);
+  }
+```
+Vamos a crear un atributo dentro de la clase EscuelaOnline que guarde cuántos cursos se inscribió el alumno.
+
+
+
+
+
+
+
 
 
 
