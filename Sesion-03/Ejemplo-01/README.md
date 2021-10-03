@@ -329,11 +329,11 @@ Vamos a ejecutar las pruebas nuevamente, en esta ocasión podemos ver que 2 de l
 
 ![image](https://user-images.githubusercontent.com/67882289/135738040-903be90f-2a65-48ff-98dc-3cde02a671a8.png)
 
-![image](https://user-images.githubusercontent.com/67882289/135738047-442f2fef-eb8e-4ec1-958b-7bb041caf06c.png)
+<img width="890" alt="image" src="https://user-images.githubusercontent.com/67882289/135738149-17ba03bd-b900-4596-a154-2cb8896c2d44.png">
 
-<img width="686" alt="image" src="https://user-images.githubusercontent.com/67882289/135738120-6714503b-a1a2-4bcd-80c0-6eba20e0d5e2.png">
+<img width="890" alt="image" src="https://user-images.githubusercontent.com/67882289/135738153-029f6ddf-36cf-4935-b9d2-66d55fe363ff.png">
 
-<img width="686" alt="image" src="https://user-images.githubusercontent.com/67882289/135738136-6a2c76ae-8faa-46eb-b168-923626b317ed.png">
+
 
 
 
