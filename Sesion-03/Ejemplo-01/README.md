@@ -199,8 +199,6 @@ Una vez añadida la librería TestNG, procederemos a crear otra nueva clase y no
 
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/67882289/135736302-9b426ffa-adcd-4037-b9fc-b7ca9d36fd09.png">
 
-TestNG nos va a permitir agrupar nuestras pruebas unitarias en archivos y cada prueba será representada como una función. Para que el TestNG reconozca la función como una prueba, debe de colocarse la notación @Test antes de cada función. Primero comenzaremos con la primer prueba para verificar que la tasa sea correcta con un plazo de 1 año.
-
 Cuando hacemos pruebas unitarias debemos analizar nuestro código para entender cómo vamos a inyectar entradas a la unidad de interés y que salidas vamos a poder utilizar para poder monitorear el comportamiento esperado.
 
 Si observamos el código podemos apreciar que modificando las variables de cantidadOriginal y plazo en la clase Inversion podremos ejercitar las entradas y leyendo las variables de cantidadCompuesta y tasa podemos monitorear las salidas. 
@@ -209,8 +207,9 @@ Si observamos el código podemos apreciar que modificando las variables de canti
 
 Para poder acceder a las entradas y leer de las salidas utilizaremos las siguientes funciones dentro de la clase:
 
+<img width="421" alt="image" src="https://user-images.githubusercontent.com/67882289/135737188-32ec0046-f7e4-45bf-badd-2894aeee0171.png">
 
-
+TestNG nos va a permitir agrupar nuestras pruebas unitarias en archivos y cada prueba será representada como una función. Para que el TestNG reconozca la función como una prueba, debe de colocarse la notación @Test antes de cada función. Primero comenzaremos con la primer prueba para verificar que la tasa sea correcta con un plazo de 1 año.
 
 ```
 import org.testng.annotations.Test;
@@ -237,9 +236,109 @@ public class TestInversion {
 	Inversion inv = new Inversion();
 	inv.setCantidadOriginal(1500);
 	inv.setPlazo(1);
+	inv.imprimirResumenInversion();
+	
    }
 	
 }
+
+```
+Al igual que otros frameworks y lenguajes de programación, TestNG y java usan los assertions para poder comparar un comportamiento actual contra un comportamiento esperado. Existen varias formas de hacer un assertion, sin embargo el más usado y recomendado es el Assert.assertEquals().
+
+```
+import org.testng.annotations.Test;
+
+public class TestInversion {
+
+   @Test
+   public void verificarTasaConPlazoUno() {
+	Inversion inv = new Inversion();
+	inv.setCantidadOriginal(1500);
+	inv.setPlazo(1);
+	inv.imprimirResumenInversion();
+	
+	Assert.assertEquals(inv.getTasa(), 0.05);
+   }
+
+}
+
+```
+Para poder ejecutar la prueba sólo hay que dar click derecho y selecciona la opción de Run TestNG test.
+
+![image](https://user-images.githubusercontent.com/67882289/135737912-6ab27a9e-a5cc-45f6-9da9-01e82d4aa547.png)
+
+Al terminar se puede observar en consola un resumen de las pruebas ejecutadas y un tab con los resultados detallados de TestNG.
+
+![image](https://user-images.githubusercontent.com/67882289/135737944-8f0377c7-769d-420f-bd96-09d44822e4d3.png)
+
+![image](https://user-images.githubusercontent.com/67882289/135737950-b78bb518-cf17-4085-a08f-db3813391870.png)
+
+Para crear las pruebas faltantes simplemente hay que copiar y pegar el código, modificando los valores necesarios.
+
+```
+import org.testng.annotations.Test;
+
+public class TestInversion {
+
+    @Test
+    public void verificarTasaConPlazoUno() {
+	Inversion inv = new Inversion();
+	inv.setCantidadOriginal(1500);
+	inv.setPlazo(1);
+	inv.imprimirResumenInversion();
+	
+	Assert.assertEquals(inv.getTasa(), 0.05);
+    }
+   
+    @Test
+    public void verificarTasaConPlazoDos() {
+
+	Inversion inv = new Inversion();
+	inv.setCantidadOriginal(1500);
+	inv.setPlazo(2);
+	inv.imprimirResumenInversion();
+		
+	Assert.assertEquals(inv.getTasa(), 0.07);
+    }
+	
+    @Test
+    public void verificarTasaConPlazoTres() {
+
+	Inversion inv = new Inversion();
+	inv.setCantidadOriginal(1500);
+	inv.setPlazo(3);
+	inv.imprimirResumenInversion();
+		
+	Assert.assertEquals(inv.getTasa(), 0.1);
+    }
+	
+    @Test
+    public void verificarTasaConPlazoDiez() {
+
+	Inversion inv = new Inversion();
+	inv.setCantidadOriginal(1500);
+	inv.setPlazo(10);
+	inv.imprimirResumenInversion();
+		
+	Assert.assertEquals(inv.getTasa(), 0.1);
+    }
+}
+
+```
+Vamos a ejecutar las pruebas nuevamente, en esta ocasión podemos ver que 2 de las pruebas fallaron.
+
+![image](https://user-images.githubusercontent.com/67882289/135738040-903be90f-2a65-48ff-98dc-3cde02a671a8.png)
+
+![image](https://user-images.githubusercontent.com/67882289/135738047-442f2fef-eb8e-4ec1-958b-7bb041caf06c.png)
+
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/67882289/135738120-6714503b-a1a2-4bcd-80c0-6eba20e0d5e2.png">
+
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/67882289/135738136-6a2c76ae-8faa-46eb-b168-923626b317ed.png">
+
+
+
+
+
 
 
 
