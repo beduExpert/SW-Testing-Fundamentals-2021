@@ -332,7 +332,7 @@ public class EscuelaOnline {
 }
 
 ```
-Con esto ya podemos modificar el valor de este atributo y podemos colocal este código en nuestros casos de preuba.
+Con esto ya podemos modificar el valor de este atributo y podemos colocal este código en nuestros casos de prueba.
 
 ```
     @Test
@@ -363,7 +363,7 @@ Si corremos la pruebas podemos ver que éstas fallan.
 
 <img width="961" alt="image" src="https://user-images.githubusercontent.com/67882289/135774473-47b1b9f7-c33a-4538-9199-3e77b2033f6c.png">
 
-Para los casos de prueba con 1 y 4 cursos sólo agregando como resultado esperado 1 y 4 las preubas pasarían, así que no habría que hacer más. Sin embargo para los casos de 0 y 5 cursos deberíamos de implementar alguna medida para saber que esta es una opción invalida. 
+Para los casos de prueba con 1 y 4 cursos sólo agregando como resultado esperado 1 y 4 las pruebas pasarían, así que no habría que hacer más. Sin embargo para los casos de 0 y 5 cursos deberíamos de implementar alguna medida para saber que esta es una opción invalida. 
 
 En un proyecto real este caso negativo deberíamos platicarlo con un representante del cliente para saber que valor debería de devolver en estos casos. Para el ejemplo vamos a suponer que si el alumno ingresa 0 o un número mayor 4, debemos esperar un entero igual a 99.
 
