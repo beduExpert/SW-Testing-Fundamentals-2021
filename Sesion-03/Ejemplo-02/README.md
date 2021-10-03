@@ -254,18 +254,41 @@ Ahora vamos a implementar el código para las 4 pruebas faltantes:
 	  Assert.assertEquals(true, true);
   }
 ```
-Vamos a crear un atributo dentro de la clase EscuelaOnline que guarde cuántos cursos se inscribió el alumno.
+Vamos a crear un atributo dentro de la clase EscuelaOnline que guarde cuántos cursos se inscribió el alumno y los el setter y getter para poder acceder y modificar este atributo.
 
+```
+public class EscuelaOnline {
 
+    private int numeroDeCursosInscritos;
+	
+    public int getNumeroDeCursosInscritos() {
+	return numeroDeCursosInscritos;
+    }
 
+    public void setNumeroDeCursosInscritos(int numeroDeCursosInscritos) {
+	this.numeroDeCursosInscritos = numeroDeCursosInscritos;
+    }
 
-
-
-
-
-
-
-
-
+    public String mostrarCatalogoDeCursos() {
+		
+	String mensaje = "";
+		
+	mensaje = "Bienvenido a la Escuela Online.\n" + 
+			"\n" +
+			"Estos son los cursos que ofrecemos:\n" +
+			"\n" +
+			"[1] Programación con Java\n" +
+			"[2] Software Testing\n" +
+			"[3] Ciberseguridad" +
+			"[4] Machine Learning\n" +
+			"\n" +
+			"¿Cuántos deseas tomar? (1,2,3 ó 4).";
+				
+	System.out.println(mensaje);
+		
+	return mensaje;
+		
+    }
+}
 
 
