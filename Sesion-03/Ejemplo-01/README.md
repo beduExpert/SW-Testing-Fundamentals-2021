@@ -18,8 +18,6 @@ En las sesiones anteriores estuvimos utilizando un enfoque de pogramación estru
 Este es el programa propuesto que utilizaremos:
 
 ```
-package proyecto_junit;
-
 import java.util.Scanner;
 
 public class MyClass {
@@ -37,102 +35,99 @@ public class MyClass {
     }
 }
 
-public class Inversion {
+class Inversion {
 
-	private double cantidadOriginal;
-	private double cantidadCompuesta;
+    private double cantidadOriginal;
+    private double cantidadCompuesta;
     private int plazo;
     private double tasa;
     private String decisionUsuario;
 	
     public double getCantidadOriginal() {
-		return (Math.round(this.cantidadOriginal * 100.0) / 100.0);
-	}
+	return (Math.round(this.cantidadOriginal * 100.0) / 100.0);
+    }
 
-	public void setCantidadOriginal(double cantidadOriginal) {
-		this.cantidadOriginal = cantidadOriginal;
-	}
+    public void setCantidadOriginal(double cantidadOriginal) {
+	this.cantidadOriginal = cantidadOriginal;
+    }
 
     public double getCantidadCompuesta() {
-		return (Math.round(this.cantidadCompuesta * 100.0) / 100.0);
-	}
+	return (Math.round(this.cantidadCompuesta * 100.0) / 100.0);
+    }
 
-	public void setCantidadCompuesta(double cantidadCompuesta) {
-		this.cantidadCompuesta = cantidadCompuesta;
-	}	
+    public void setCantidadCompuesta(double cantidadCompuesta) {
+	this.cantidadCompuesta = cantidadCompuesta;
+    }	
 	
-	public int getPlazo() {
-		return this.plazo;
-	}
+    public int getPlazo() {
+	return this.plazo;
+    }
 
-	public void setPlazo(int plazo) {
-		this.plazo = plazo;
-	}
+    public void setPlazo(int plazo) {
+	this.plazo = plazo;
+    }
 
-	public void setTasa(double tasa) {
-		this.tasa = tasa;
-	}
+    public void setTasa(double tasa) {
+	this.tasa = tasa;
+    }
 	
-	public double getTasa() {
-		return this.tasa;
-	}
+    public double getTasa() {
+	return this.tasa;
+    }
 	
-	public String getDecisionUsuario() {
-		return decisionUsuario;
-	}
+    public String getDecisionUsuario() {
+	return decisionUsuario;
+    }
 
-	public void setDecisionUsuario(String decisionUsuario) {
-		this.decisionUsuario = decisionUsuario;
-	}    
+    public void setDecisionUsuario(String decisionUsuario) {
+	this.decisionUsuario = decisionUsuario;
+    }    
     
-	private double calcularTasa(int plazo) {
+    private double calcularTasa(int plazo) {
 		
-		double tasa = 0;
+	double tasa = 0;
 		
-		if (plazo == 1) {
-			tasa = 0.05;
-		} else if (plazo == 2) {
-			tasa = 0.08;
-		} else if (plazo >= 3) {
-			tasa = 0.10;
-		} else {
-			tasa = 0.0;
-		}
-		
-		return tasa;
+	if (plazo == 1) {
+		tasa = 0.05;
+	} else if (plazo == 2) {
+		tasa = 0.08;
+	} else if (plazo >= 3) {
+		tasa = 0.10;
+	} else {
+		tasa = 0.0;
 	}
+		
+	return tasa;
+    }
 	
-	public void imprimirResumenInversion() {
+    public void imprimirResumenInversion() {
 		
-		setCantidadCompuesta(this.cantidadOriginal);
+	setCantidadCompuesta(this.cantidadOriginal);
 		
-		System.out.println("Resumen de la inversión: ");
-		System.out.println("Año\t\tCantidad Original\tCantidad más Intereses\tTasa de Interés");
+	System.out.println("Resumen de la inversión: ");
+	System.out.println("Año\t\tCantidad Original\tCantidad más Intereses\tTasa de Interés");
 			
-		for(int i=1;i<=this.plazo;i++) {
-			setTasa(calcularTasa(i));
-			System.out.printf("%d\t\t%8.2f\t\t%8.2f\t\t%8.2f\n", (i+1), this.cantidadCompuesta, 
-								this.cantidadCompuesta * (1 * this.tasa), this.tasa);
-			setCantidadCompuesta(this.cantidadCompuesta * (1 * this.tasa));
-		}
-		
-		System.out.println("¿Estás de acuerdo con la inversión? (Y/N): ");
+	for(int i=1;i<=this.plazo;i++) {
+        	setTasa(calcularTasa(i));
+		System.out.printf("%d\t\t%8.2f\t\t%8.2f\t\t%8.2f\n", (i+1), this.cantidadCompuesta, this.cantidadCompuesta * (1 * this.tasa), this.tasa);
+		setCantidadCompuesta(this.cantidadCompuesta * (1 * this.tasa));
 	}
+		
+	System.out.println("¿Estás de acuerdo con la inversión? (Y/N): ");
+    }
 	
-	public String obtenerMensajeDecisionUsuario() {
+    public String obtenerMensajeDecisionUsuario() {
 				
-		String mensaje = "";
-		String decisionUsuario = getDecisionUsuario();
+	String mensaje = "";
+	String decisionUsuario = getDecisionUsuario();
 		
-	    if (decisionUsuario.equals("Y")) {
-	    	mensaje = "Gracias por invertir con nosotros.";
-	    } else {
+        if (decisionUsuario.equals("Y")) {
+        	mensaje = "Gracias por invertir con nosotros.";
+        } else {
 	    	mensaje = "Gracias por su preferencia, esperamos verlo pronto.";
-	    }
-	    
-	    return mensaje;
-	}
-	
+        }
+        return mensaje;
+    }
 }
 
 ```
