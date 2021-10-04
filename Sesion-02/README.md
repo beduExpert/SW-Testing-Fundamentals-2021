@@ -157,7 +157,7 @@ La validación se enfoca a evaluar un producto de trabajo, componente o sistema 
 
 ## [Ejemplo 01: Creando un programa con la herramienta JDOODLE.](./Ejemplo-01/README.md)
 
-## [Reto 01: Proyecto con modelo secuencial.](./Reto-01/README.md)
+## [Reto 01: Proyecto con modelo secuencial.](./Reto-01/README.md)
 
 ## Agile y el Software Testing
 
@@ -240,7 +240,7 @@ El ciclo de vida de pruebas de software es desempeñado en cada una de las etapa
 
 ## [Ejemplo 02: Creando un programa usando un modelo incremental.](./Ejemplo-02/README.md)
 
-## [Reto 03: Crea tu propio programa con un modelo incremental.](./Reto-03/README.md)
+## [Reto 03: Crea tu propio programa con un modelo incremental.](./Reto-03/README.md)
 
 
 ## 📂 Organización de la clase
