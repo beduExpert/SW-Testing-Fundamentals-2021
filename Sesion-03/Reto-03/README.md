@@ -1,4 +1,4 @@
-# Reto 2 - Creando código con TDD.
+# Reto 2 - Desarrollando un programa con TDD.
 
 ## Objetivo
 
