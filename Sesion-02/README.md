@@ -99,6 +99,60 @@ En general las etapas más comunes de cualquier Ciclo de Vida de Desarrollo del 
 
 <img width="655" alt="image" src="https://user-images.githubusercontent.com/67882289/135786005-251579d4-32ff-4fe3-b57e-f6ddde841bdd.png">
 
+## Modelos del SDLC
+
+Existen diferentes modelos de SDLC. El modelo a elegir depende de varios factores como: necesidades del proyecto, nivel de madurez de la empresa, requerimientos del cliente, etc.
+
+Los modelos a revisar son:
+
+- Modelo Cascada.
+- Modelo en V.
+- Modelo Iterativo.
+- Modelo Incremental.
+
+## Modelo Cascada
+
+- Es un modelo secuencial.
+- La siguiente etapa sólo comienza hasta que la anterior termina.
+- Es difícil implementar cambios.
+- El testing es conducido hasta el final.
+- Funciona para Proyecto pequeños.
+
+<img width="839" alt="image" src="https://user-images.githubusercontent.com/67882289/135786228-66f5c205-8364-4eb7-a06c-c8191077326d.png">
+
+## Modelo en V
+
+- Es un modelo secuencial.
+- Las actividades de testing se llevan a cabo en paralelo.
+- Defectos se encuentran en etapas tempranas ya que el testing ocurre desde el inicio.
+- Funciona bien con proyectos donde el nivel de seguridad es importante y con poca flexibilidad a los cambios.
+
+<img width="990" alt="image" src="https://user-images.githubusercontent.com/67882289/135786259-5722cc06-42d2-4c3b-b28a-78bb19b24cb4.png">
+
+## Verificación vs Validación
+
+La verificación se enfoca a con evaluar un producto de trabajo, componente o sistema para medir si cumple con los requisitos.
+
+La validación se enfoca a evaluar un producto de trabajo, componente o sistema para medir si cumple con las expectativas del cliente.
+
+<img width="745" alt="image" src="https://user-images.githubusercontent.com/67882289/135786284-3681beb1-5e6a-484a-a0d3-43aecbce6471.png">
+
+## Modelo Iterativo
+
+- Promueve retroalimentación continua al cliente.
+- Flexible a los cambios.
+- Los defectos se arreglan de forma temprana después de cada iteración.
+- Las iteraciones son llevadas a cabo en Sprints que duran de 2 a 3 semanas.
+
+<img width="538" alt="image" src="https://user-images.githubusercontent.com/67882289/135786416-fc731a0c-d456-4d81-98ce-278f3539583b.png">
+
+
+
+<img width="843" alt="image" src="https://user-images.githubusercontent.com/67882289/135786306-a5df0e65-bb98-4dd2-9508-5c0d36f9bf69.png">
+
+<img width="820" alt="image" src="https://user-images.githubusercontent.com/67882289/135786318-48876040-a184-4a15-af4d-78d1a6581ce0.png">
+
+
 
 
 
