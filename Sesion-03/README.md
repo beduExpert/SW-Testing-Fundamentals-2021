@@ -203,7 +203,7 @@ La mayoría de frameworks usan del concepto de anotación. Las cuales se colocan
 
 ## Nivel Sistema
 
-El nivel sistema de interesa en el comportamiento de todo el sistema como uno solo. Las bases de la prueba suelen basarse en especificaciones del sistema o requerimientos.
+El nivel sistema se interesa en el comportamiento de todo el sistema como uno solo. Las bases de la prueba suelen basarse en especificaciones del sistema o requerimientos.
 
 El objetivo es encontrar la mayor cantidad de defectos antes de que el producto se vaya a producción. En su mayoría se ejecutan pruebas de caja negra ya que no se tiene acceso al código.
 
