@@ -125,7 +125,7 @@ Los subtipos de pruebas no funcionales están especificados en la norma ISO/IEC 
 
 <img width="608" alt="image" src="https://user-images.githubusercontent.com/67882289/135796366-ae5b9f92-bd8b-4090-a12c-d5d0ed75fba9.png">
 
-<img width="696" alt="image" src="https://user-images.githubusercontent.com/67882289/135796392-fffcbe4a-91ab-4746-91f1-9655dbab1a91.png">
+<img width="1057" alt="image" src="https://user-images.githubusercontent.com/67882289/135796874-a003c79c-fb60-4a13-a271-fbe85b754bc4.png">
 
 ## Pruebas de Rendimiento (Performance Testing)
 
@@ -157,6 +157,21 @@ El interés de las pruebas de robustez es analizar los siguientes aspectos:
 - Si el sistema falla, observar como se recupera al regresar a valores permitidos.
 
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/67882289/135796787-f078c3ee-9eb6-4374-ada4-f54449c21042.png">
+
+## Pruebas de Usabilidad (Usability Testing)
+
+Un sistema puede ser muy estable y con pocos errores de código, sin embargo si este no es útil, comprensible y fácil de utilizar para los usuarios, es muy probable que no tenga éxito.
+
+Las pruebas de usabilidad comprueban que un sistema cumpla con las expectativas del usuario.
+
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/67882289/135796930-a4ed0dad-6938-4565-92a3-e92282b0d18c.png">
+
+## Pruebas de Fiabilidad (Reliability Testing)
+
+La fiabilidad comprueba que un producto de software cumpla sus funciones por un ciclo de operaciones y periodo de tiempo predeterminados.
+
+Por ejemplo que no se pierda información y que siga operando correctamente el software después de apagar y prender un dispositivo 100 veces.
+
 
 
 ## 📂 Organización de la clase
