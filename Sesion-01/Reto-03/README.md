@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-El objetivo de la siguiente actividad es testear el trabajo de los demás.\
+El objetivo de la siguiente actividad es testear el trabajo de los demás.
 
 
 ## Desarrollo
