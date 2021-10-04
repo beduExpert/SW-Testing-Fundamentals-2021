@@ -155,9 +155,9 @@ La validación se enfoca a evaluar un producto de trabajo, componente o sistema 
 
 <img width="820" alt="image" src="https://user-images.githubusercontent.com/67882289/135786318-48876040-a184-4a15-af4d-78d1a6581ce0.png">
 
-[Ejemplo 01: Creando un programa con la herramienta JDOODLE.](./Ejemplo-01/README.md)
+## [Ejemplo 01: Creando un programa con la herramienta JDOODLE.](./Ejemplo-01/README.md)
 
-[Reto 01: Proyecto con modelo secuencial.](./Reto-01/README.md)
+## [Reto 01: Proyecto con modelo secuencial.](./Reto-01/README.md)
 
 ## Agile y el Software Testing
 
@@ -220,12 +220,27 @@ En Agile generalmente los requerimientos o especificaciones se descomponen en pa
 
 Una historia de usuario debe procurar únicamente describir una sola parte de la funcionalidad de una especificación.
 
-<img width="836" alt="image" src="https://user-images.githubusercontent.com/67882289/135787189-9857a116-066c-438e-b242-9c1365847edc.png">
-
-
 <img width="683" alt="image" src="https://user-images.githubusercontent.com/67882289/135787096-611a95df-e6dd-47ca-90f8-b10609dcf011.png">
 
+## [Reto 02: Creando Historias de Usuario.](./Reto-02/README.md)
+
+## ¿Porqué usar un modelo secuencial en vez de Agile?
+
+A pesar de que Agile ofrece diversos beneficios para el testing, hay algunos proyectos que por su naturaleza no pueden aceptar una alta flexibilidad a los cambios. 
+
+Industrias como la aeronáutica, automotriz y de medicina no implementan por completo este tipo de metodologías.
+
 <img width="747" alt="image" src="https://user-images.githubusercontent.com/67882289/135787121-a656b8e6-6f43-49b8-a73a-538f4a97ef45.png">
+
+## Ciclo de Vida de Desarrollo del Testing
+
+El ciclo de vida de pruebas de software es desempeñado en cada una de las etapas del desarrollo de software. Dependiendo del modelo a usar el proceso fundamental del testing se va usar de una u otra forma.
+
+<img width="783" alt="image" src="https://user-images.githubusercontent.com/67882289/135787364-0441a098-5340-4db2-b5ca-aaa80440e1ec.png">
+
+## [Ejemplo 02: Creando un programa usando un modelo incremental.](./Ejemplo-02/README.md)
+
+## [Reto 03: Crea tu propio programa con un modelo incremental.](./Reto-03/README.md)
 
 
 ## 📂 Organización de la clase
