@@ -236,17 +236,98 @@ En este nivel se intenta responder las preguntas:
 - ¿Cuáles son los posibles riesgos al negocio?
 
 Encontrar defectos no debería ser el objetivo principal de este nivel de pruebas. Sino buscar retroalimentación de usuarios reales.
-<img width="1053" alt="image" src="https://user-images.githubusercontent.com/67882289/135790482-1c88aab7-6f4e-4905-ae43-1303efd57152.png">
-
 
 <img width="659" alt="image" src="https://user-images.githubusercontent.com/67882289/135790246-4d0e0146-c2d4-490d-9bdd-af5f08271a5f.png">
 
+## Pruebas de Aceptación Alpha
+
+Este nivel toma lugar en las oficinas de los desarrolladores utilizando usuarios potenciales dentro de la organización. Los desarrolladores observan a los usuarios y anotan los problemas.
+
 <img width="693" alt="image" src="https://user-images.githubusercontent.com/67882289/135790295-7a92e472-89d1-424b-be61-1379be009f72.png">
+
+## Pruebas de Aceptación Beta
+
+Para esta etapa se envía el sistema a un conjunto de usuarios que lo utilizan bajo condiciones reales de trabajo. Los usuarios envían anotaciones de las incidencias o sus comentarios. 
 
 <img width="611" alt="image" src="https://user-images.githubusercontent.com/67882289/135790313-f1bae4b0-74e1-4c2a-bac9-c76536375618.png">
 
+## Desarrollo Conducido por Pruebas
 
+En este enfoque de desarrollo de software se plantea que las pruebas sean escritas antes de que el código se desarrolle.
 
+Algunas ventajas al usar estas prácticas:
+
+- Se obtiene colaboración de otros stakeholders para diseñar las pruebas.
+- Se clarifican dudas de como probar el código.
+- Se incrementa la  cobertura de pruebas.
+
+<img width="753" alt="image" src="https://user-images.githubusercontent.com/67882289/135790739-34c5089e-cd8f-4443-891b-082245fd5dfe.png">
+
+## TDD
+
+TDD es utilizado comúnmente por los desarrolladores para conducir pruebas unitarias. Permite a los desarrolladores verificar si el código se comporta de acuerdo con el diseño.
+
+Conforme el número de pruebas se incrementa es conveniente refactorizar el código.
+
+Normalmente su utiliza un framework de pruebas como jUnit o TestNG para automatizar las pruebas.
+
+<img width="689" alt="image" src="https://user-images.githubusercontent.com/67882289/135790834-eb2fe8ce-9520-4282-b055-168ee1193ae9.png">
+
+## Refactorizar
+
+Se refiere a mejorar el código sin cambiar el comportamiento de éste. El objetivo es obtener un código que sea fácil de entender y de mantener.
+
+<img width="684" alt="image" src="https://user-images.githubusercontent.com/67882289/135790888-27860a2e-b316-44bf-84e4-a925d78ac6b7.png">
+
+## BDD
+
+La idea principal es: Uso de lenguaje que puede ser entendido por cualquier persona involucrada en el proyecto puedan entender el comportamiento del sistema y de las pruebas.
+
+Herramientas como Cucumber suelen ser utilizadas para la creación de pruebas.
+
+Las pruebas se construyen usando el formato Given-When-Then o también conocida como la Sintaxis Gherkins.
+
+<img width="729" alt="image" src="https://user-images.githubusercontent.com/67882289/135791009-32a8aa33-f725-48e7-9315-556b48b2db2f.png">
+
+## ATDD
+
+El propósito de este enfoque es crear casos de prueba basados en los criterios de aceptación de las historias de usuario. Es usado en proyectos que usan metodologías Agile.
+
+Se encuentran defectos de más alto nivel en forma más temprana al comprobar que los criterios de aceptación de cada historia son alcanzados.
+
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/67882289/135791058-175946ac-3f5c-42c3-825a-53f16c94e389.png">
+
+## [Ejemplo 02: Desarrollo Conducido por Pruebas - TDD.](./Ejemplo-02/README.md)
+
+## [Reto 02: Desarrollando un programa con TDD.](./Reto-02/README.md)
+
+## Testing y CI/CD
+
+CI/CD significa Integración Continua/Liberación Continua (Continuous Integration/Continuous Delivery).
+
+Algunas empresas utilizan este enfoque para desarrollar software el cual plantea el proceso de integrar, probar y liberar de forma automática o semiautomática, incrementos de software usando un modelo iterativo o incremental.
+
+El objetivo del testing en este enfoque es continuamente probar el código cada vez que un nuevo cambio se agregue.
+
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/67882289/135791164-a887c049-0603-4ecf-9695-2ae1839b815b.png">
+
+## Integración Continua
+
+En la integración continua cuando se sube un nuevo cambio, antes de que este se incluya en el código una suite de pruebas automatizadas es ejecutada.
+
+Solamente si todas las pruebas pasan el nuevo cambio se integra con el demás código. Si algún error es detectado el desarrollador debe corregir el código antes de poder subirlo.
+
+<img width="675" alt="image" src="https://user-images.githubusercontent.com/67882289/135791221-5694e613-3fb1-462d-b01f-8a6dd683b3bf.png">
+
+## Distribución Continua (Continuous Delivery)
+
+La etapa de distribución continua plantea el automatizar todo el proceso de integración y pruebas con una ligera intervención manual por parte de una persona que certifique que el código se puede liberar.
+
+## Implementación Continua (Continuous Deployment) 
+
+Esta etapa sustituye a la distribución continua, removiendo la necesidad de certificar manualmente que el código se puede integrar y liberar.
+
+<img width="696" alt="image" src="https://user-images.githubusercontent.com/67882289/135791331-6b040ab4-4fb1-41f7-bc3f-e1506b4d032b.png">
 
 
 ## 📂 Organización de la clase
