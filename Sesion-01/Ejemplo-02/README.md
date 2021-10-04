@@ -30,7 +30,7 @@ Aqui se demuestra un punto importante, como tester es nuestra responsabilidad pr
 
   * Un humano no puede tener 0 años, sin embargo el programa admite está cantidad. ¿Es esto correcto, convendría agregar un campo de meses?
   * En México la mayoría de edad se cumple a los 18 años, sin embargo es necesario cuestionarse. ¿Este programa será usado sólo en México?
-  * Generalmente las especificaciones que usan edades tienden a no indicar edades máximas, sin embargo es importante preguntar a la persona que elabaoro el requerimiento cual es el límite másximo para evitar escenarios no previstos.
+  * Generalmente las especificaciones que usan edades tienden a no indicar edades máximas, sin embargo es importante preguntar a la persona que elaboro el requerimiento cual es el límite máximo para evitar escenarios no previstos.
   * Al probar el programa y seleccionar la edad de 18, podemos darnos cuenta de que el programa no responde. Este es un claro ejemplo de un bug donde se paso por alto el límite medio.
 
 <img width="972" alt="image" src="https://user-images.githubusercontent.com/67882289/135554043-7114ede5-2f37-4a86-84a1-87c4816099c9.png">
