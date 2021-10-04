@@ -88,7 +88,7 @@ Algunas empresas utilizan este enfoque para desarrollar software el cual plantea
 
 El objetivo del testing en este enfoque es continuamente probar el código cada vez que un nuevo cambio se agregue.
 
-<img width="777" alt="image" src="https://user-images.githubusercontent.com/67882289/135795988-64c41a07-a1cd-483f-8e16-04ef5b8c85ff.png">
+<img width="843" alt="image" src="https://user-images.githubusercontent.com/67882289/135867936-9016fa3d-2301-4ba5-9eac-71635d18ad3f.png">
 
 ## Objetivos de Tipos de Testing
 
@@ -287,7 +287,4 @@ Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea un
 - [Ejemplo 02: Nombre del ejemplo 02](./Ejemplo-02/README.md)
     - [Reto 03: Nombre del reto 03](./Reto-03/README.md)
 - [Postwork: Nombre del postwork](./Postwork/README.md)
-
-
-
 
