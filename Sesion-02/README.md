@@ -144,17 +144,88 @@ La validación se enfoca a evaluar un producto de trabajo, componente o sistema 
 - Los defectos se arreglan de forma temprana después de cada iteración.
 - Las iteraciones son llevadas a cabo en Sprints que duran de 2 a 3 semanas.
 
-<img width="538" alt="image" src="https://user-images.githubusercontent.com/67882289/135786416-fc731a0c-d456-4d81-98ce-278f3539583b.png">
-
-
-
 <img width="843" alt="image" src="https://user-images.githubusercontent.com/67882289/135786306-a5df0e65-bb98-4dd2-9508-5c0d36f9bf69.png">
+
+## Modelo Incremental
+
+- Retroalimentación al cliente de forma rápida.
+- Cambios son añadidos después de cada incremento.
+- Defectos son encontrados tempranamente.
+- El desarrollo se lleva de forma secuencial en cada incremento.
 
 <img width="820" alt="image" src="https://user-images.githubusercontent.com/67882289/135786318-48876040-a184-4a15-af4d-78d1a6581ce0.png">
 
+[Ejemplo 01: Creando un programa con la herramienta JDOODLE.](./Ejemplo-01/README.md)
+
+[Reto 01: Proyecto con modelo secuencial.](./Reto-01/README.md)
+
+## Agile y el Software Testing
+
+Agile es un conjunto de prácticas, principios y metodologías basadas en modelos incrementales o iterativos.
+
+Agile busca cambiar la cultura de un equipo u organización al fomentar la colaboración y mejorar la comunicación entre áreas involucradas en el desarrollo de software.
+
+<img width="760" alt="image" src="https://user-images.githubusercontent.com/67882289/135786693-8bf07027-0be7-4ba7-ac69-152baedbe722.png">
+
+## Agile Manifesto
+
+Agile presenta 4 valores que tienen gran importancia en el testing.
+
+Agile propone dar mayor importancia a los valores en letras grandes de la figura que se muestra y en medida a los que tienen letras pequeñas.
+
+<img width="663" alt="image" src="https://user-images.githubusercontent.com/67882289/135786712-8ea992ff-4ec0-49ea-bc75-6301d2f250a9.png">
+
+## Beneficios de Agile para el Testing.
+
+Debido a la cultura de calidad compartida por todo el equipo, el testing tiene algunos beneficios.
+
+- Todo el equipo es responsable de la calidad.
+- El testing tiene más autonomía.
+- Accesibilidad para poderse comunicar con el cliente o representantes del negocio.
+- Tiende a implementar paradigmas de diseño como el TDD y BDD donde el testing es el punto de partida.
+
+## Retos de Agile para el Testing.
+
+A pesar de los beneficios que aporta Agile al testing también existen algunos retos a sobrellevar.
+
+- Bases de prueba son menos formales y frecuentemente cambian.
+- Existen tiempos de entrega más cortos por lo cual también menor tiempo para probar y planear.
+- Automatización de pruebas toma mayor relevancia por lo que se puede exigir mayores habilidades técnicas.
+
+## El Poder de los tres.
+
+“El poder de los tres” es un termino conocido en Agile, que recalca la importancia que desempeña la constante comunicación de los testers, desarrolladores y representantes del negocio para éxito del proyecto.
+
+<img width="841" alt="image" src="https://user-images.githubusercontent.com/67882289/135786961-55921aca-6f91-4b3c-adff-4553e3f3e0de.png">
+
+## Frameworks de Agile
+
+Un framework de Agile es un conjunto de reglas y prácticas que sirven como guía a los equipos para desempeñar sus actividades.
+
+A continuación se muestran los frameworks frecuentemente más utilizados en Agile.
+
+<img width="804" alt="image" src="https://user-images.githubusercontent.com/67882289/135787048-63d4c5b9-cb1d-4a93-beed-5c703a7e4614.png">
+
+## Las ceremonias de Agile SCRUM
+
+Las ceremonias de scrum son frecuentemente utilizadas en varios proyectos de software a pesar de que no implementen metodologías Agiles completamente.
+
+Su comprensión de ellas es importante para muchos proyectos.
+
+<img width="877" alt="image" src="https://user-images.githubusercontent.com/67882289/135787077-b454fd4b-06f3-48a9-a7cf-882cb7a9257a.png">
+
+## Historias de Usuario
+
+En Agile generalmente los requerimientos o especificaciones se descomponen en partes más pequeñas. Estas pequeñas partes son conocidas como historias de usuario.
+
+Una historia de usuario debe procurar únicamente describir una sola parte de la funcionalidad de una especificación.
+
+<img width="836" alt="image" src="https://user-images.githubusercontent.com/67882289/135787189-9857a116-066c-438e-b242-9c1365847edc.png">
 
 
+<img width="683" alt="image" src="https://user-images.githubusercontent.com/67882289/135787096-611a95df-e6dd-47ca-90f8-b10609dcf011.png">
 
+<img width="747" alt="image" src="https://user-images.githubusercontent.com/67882289/135787121-a656b8e6-6f43-49b8-a73a-538f4a97ef45.png">
 
 
 ## 📂 Organización de la clase
