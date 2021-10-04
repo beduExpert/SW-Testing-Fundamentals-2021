@@ -405,8 +405,7 @@ public class EscuelaOnline {
 		
 	return mensaje;
 		
-    }
-		
+    }	
 }
 ```
 
