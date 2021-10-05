@@ -23,12 +23,11 @@ De igual forma se considera una sentencia, a varias sentencias que se pueden agr
    
 La cobertura consiste en medir :
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/cobertura_sentencias.png
-">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/cobertura_sentencias.png">
 
-Ejemplo 2.1:
+Ejemplo 2:
 
-Algoritmo
+<b>Algoritmo</b>
 
 1) Leer A
 2) Leer B
@@ -38,8 +37,7 @@ Algoritmo
 
 Si tomamos como valores A= 12 y B = 10 solo necesitariamos un caso de prueba para lograr la cobertura completa.
 
-
-Cobertura de sentencia = # Sentencias ejecutadas (5) / # sentencias ejecutables (5) = 1 = 100 % 
+<b>Cobertura de sentencia = # Sentencias ejecutadas (5) / # sentencias ejecutables (5) = 1 = 100 % </b>
 
 >**💡 Nota para experto(a)**
 
