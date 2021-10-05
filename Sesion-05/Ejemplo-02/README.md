@@ -7,7 +7,6 @@
 
 ## Desarrollo
 
-{img- pruebas dinamicas}
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/pruebas_dinamicas.png">
 
 Cada linea es una sentencia del sistema
@@ -24,7 +23,8 @@ De igual forma se considera una sentencia, a varias sentencias que se pueden agr
    
 La cobertura consiste en medir :
 
-{img- cobertura sentencias}
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/cobertura_sentencias.png
+">
 
 Ejemplo 2.1:
 
