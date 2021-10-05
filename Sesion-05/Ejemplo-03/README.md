@@ -12,12 +12,22 @@
 
 <b>Algoritmo</b>
 
-1)Leer A 
-2)Leer B
-3)C = A+ B
-4)Si C > 10 Entonces
-5)   Imprimir C 
-6)Fin Si
+
+<ol>
+
+<li> Leer A </li>
+
+<li>)Leer B. </li>
+
+<li> C = A+ B  </li>
+
+<li>Si C > 10 Entonces </li>
+
+<li>  Imprimir C  </li>
+  
+  <li> Fin Si </li>
+  
+</ol>
 
 Caso de prueba 1: A= 5, B = 7
 Cobertura de sentencia= 6/6 =1 = 100%
