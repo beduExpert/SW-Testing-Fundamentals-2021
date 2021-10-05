@@ -8,6 +8,7 @@
 ## Desarrollo
 
 {img- pruebas dinamicas}
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/pruebas_dinamicas.png">
 
 Cada linea es una sentencia del sistema
 
