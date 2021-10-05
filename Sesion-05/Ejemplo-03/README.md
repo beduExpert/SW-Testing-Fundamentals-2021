@@ -1,16 +1,35 @@
-# Ejemplo # - Nombre del ejemplo
+# Ejemplo #3 - Cobertura de desicion
 
 ## Objetivo
 
-* Agregar los objetivos del ejemplo (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Comprender la importancia de las pruebas de desicion 
+* Identificar la cobertura usando ejemplos practicos
+
 
 ## Desarrollo
 
-prueba exploratoria
-ghkekin opcional
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/pruebas_dinamicas.png">
 
-https://www.youtube.com/watch?v=B9yxc9P-vg8
+<b>Algoritmo</b>
 
+1)Leer A 
+2)Leer B
+3)C = A+ B
+4)Si C > 10 Entonces
+5)   Imprimir C 
+6)Fin Si
+
+Caso de prueba 1: A= 5, B = 7
+Cobertura de sentencia= 6/6 =1 = 100%
+
+
+Pero no se logro una cobertura de decisión del 100 % por que falta probar cuando el condicional es negativo, por ende es necesario otro caso de prueba. 
+
+Caso de prueba 2: A= 5, B = 5
+
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/cobertura_decision.png">
+
+Cobertura de decisión= 2/2 = 1 = 100%
 >**💡 Nota para experto(a)**
 >
 > Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el ejemplo.
