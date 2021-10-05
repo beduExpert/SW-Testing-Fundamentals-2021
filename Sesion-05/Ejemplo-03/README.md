@@ -8,7 +8,7 @@
 
 ## Desarrollo
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/pruebas_dinamicas.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-03/assets/pruebas_dinamicas.png">
 
 <b>Algoritmo</b>
 
@@ -27,7 +27,7 @@ Pero no se logro una cobertura de decisión del 100 % por que falta probar cuand
 
 Caso de prueba 2: A= 5, B = 5
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/cobertura_decision.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-03/assets/cobertura_decision.png">
 
 Cobertura de decisión= 2/2 = 1 = 100%
 >**💡 Nota para experto(a)**
