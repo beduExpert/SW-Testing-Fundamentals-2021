@@ -1,15 +1,46 @@
-# Ejemplo # - Nombre del ejemplo
+# Ejemplo #2 - Nombre del ejemplo
 
 ## Objetivo
 
-* Agregar los objetivos del ejemplo (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Poner en practica el concepto de cobertura
+* Comprender que es un sentencia de codigo
 
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el ejemplo.
->Si no es necesario, puedes borrar esta nota.
+{img- pruebas dinamicas}
 
-Aquí se debe agregar el desarrollo del ejemplo
+Cada linea es una sentencia del sistema
+
+1)Leer A
+2)Sumar = A + 1
+3)Imprimir Suma 
+
+De igual forma se considera una sentencia, a varias sentencias que se pueden agrupar, por que siempre se ejecutaran juntas.
+
+1) Si (A>10) Entonces
+	Imprimir A
+   Fin Si
+   
+La cobertura consiste en medir :
+
+{img- cobertura sentencias}
+
+Ejemplo 2.1:
+
+Algoritmo
+
+1) Leer A
+2) Leer B
+3) Si A > B Entonces
+4)    C =0
+5) Fin Si 
+
+Si tomamos como valores A= 12 y B = 10 solo necesitariamos un caso de prueba para lograr la cobertura completa.
+
+
+Cobertura de sentencia = # Sentencias ejecutadas (5) / # sentencias ejecutables (5) = 1 = 100 % 
+
+>**💡 Nota para experto(a)**
+
+> Las pruebas de caja negra por lo general logran una cobertura del 60 -70 % sobre el numero total de las sentencias del sistema, por ello es importante complementarla para lograr mas cobertura, usando tecnicas de caja blanca.
 

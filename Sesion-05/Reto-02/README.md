@@ -6,6 +6,11 @@
 
 ## Desarrollo
 
+caja negra
+tabla decision
+analsiside de valores llimite
+
+
 >**💡 Nota para experto(a)**
 >
 > Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.

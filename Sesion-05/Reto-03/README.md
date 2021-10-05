@@ -6,6 +6,9 @@
 
 ## Desarrollo
 
+pruebas exploratorias.
+Casos de prueba.
+
 >**💡 Nota para experto(a)**
 >
 > Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.

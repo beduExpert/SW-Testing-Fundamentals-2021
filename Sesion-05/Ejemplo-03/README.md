@@ -1,4 +1,4 @@
-# Ejemplo #1 - Nombre del ejemplo
+# Ejemplo # - Nombre del ejemplo
 
 ## Objetivo
 
@@ -6,12 +6,15 @@
 
 ## Desarrollo
 
-ejemplo de la tabla de decisiones
+prueba exploratoria
+ghkekin opcional
 
-https://www.youtube.com/watch?v=Ir3rQFaIkrM&ab_channel=Quality-Stream
+https://www.youtube.com/watch?v=B9yxc9P-vg8
+
 >**💡 Nota para experto(a)**
 >
 > Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el ejemplo.
 >Si no es necesario, puedes borrar esta nota.
 
 Aquí se debe agregar el desarrollo del ejemplo
+

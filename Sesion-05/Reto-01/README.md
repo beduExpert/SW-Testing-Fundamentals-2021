@@ -2,14 +2,19 @@
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Aplicar tecnicas de caja blanca
+* Analizar un algoritmo de codigo basico
 
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
+Cobertura de decision:
 
-Aquí se debe agregar el desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
+1) Leer A 
+2) Leer B
+3) C = A - 2 * B
+4) Si (C<0) Entonces
+5)  Imprimir "C es negativo"
+6) Fin Si
 
+Solucion:
+Casos de prueba necesario para tener una cobertura del 100 %
