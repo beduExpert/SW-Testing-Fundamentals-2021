@@ -1,6 +1,6 @@
 # Ejemplo #2 - Cobertura de sentencias
 
-## Objetivo
+## 🎯Objetivo
 
 * Poner en practica el concepto de cobertura
 * Comprender que es un sentencia de codigo
@@ -11,9 +11,15 @@
 
 Cada linea es una sentencia del sistema
 
-1)Leer A
-2)Sumar = A + 1
-3)Imprimir Suma 
+<ol>
+
+<li> Leer A </li>
+
+<li>Sumar = A + 1 </li>
+	
+	<li> Imprimir Suma  </li>
+
+</ol>
 
 De igual forma se considera una sentencia, a varias sentencias que se pueden agrupar, por que siempre se ejecutaran juntas.
 
@@ -25,7 +31,7 @@ La cobertura consiste en medir :
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/cobertura_sentencias.png">
 
-Ejemplo 2:
+## Ejemplo:
 
 <b>Algoritmo</b>
 
