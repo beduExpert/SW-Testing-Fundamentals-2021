@@ -1,4 +1,4 @@
-# Reto # - Nombre del reto
+# Reto #1  -Cobertura de decision:
 
 ## Objetivo
 
@@ -7,7 +7,7 @@
 
 ## Desarrollo
 
-Cobertura de decision:
+Algoritmo:
 
 1) Leer A 
 2) Leer B
@@ -17,4 +17,4 @@ Cobertura de decision:
 6) Fin Si
 
 Solucion:
-Casos de prueba necesario para tener una cobertura del 100 %
+Escribir los casos de prueba necesario para tener una cobertura del 100 % en un archivo .txt en el carpeta solucion

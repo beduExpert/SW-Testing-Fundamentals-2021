@@ -1,19 +1,25 @@
-# Ejemplo #2 - Nombre del ejemplo
+# Ejemplo #2 - Cobertura de sentencias
 
-## Objetivo
+## 🎯Objetivo
 
 * Poner en practica el concepto de cobertura
 * Comprender que es un sentencia de codigo
 
 ## Desarrollo
 
-{img- pruebas dinamicas}
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/pruebas_dinamicas.png">
 
 Cada linea es una sentencia del sistema
 
-1)Leer A
-2)Sumar = A + 1
-3)Imprimir Suma 
+<ol>
+
+<li> Leer A </li>
+
+<li>Sumar = A + 1 </li>
+	
+<li> Imprimir Suma  </li>
+
+</ol>
 
 De igual forma se considera una sentencia, a varias sentencias que se pueden agrupar, por que siempre se ejecutaran juntas.
 
@@ -23,11 +29,11 @@ De igual forma se considera una sentencia, a varias sentencias que se pueden agr
    
 La cobertura consiste en medir :
 
-{img- cobertura sentencias}
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/cobertura_sentencias.png">
 
-Ejemplo 2.1:
+## Ejemplo:
 
-Algoritmo
+<b>Algoritmo</b>
 
 1) Leer A
 2) Leer B
@@ -37,8 +43,7 @@ Algoritmo
 
 Si tomamos como valores A= 12 y B = 10 solo necesitariamos un caso de prueba para lograr la cobertura completa.
 
-
-Cobertura de sentencia = # Sentencias ejecutadas (5) / # sentencias ejecutables (5) = 1 = 100 % 
+<b>Cobertura de sentencia = # Sentencias ejecutadas (5) / # sentencias ejecutables (5) = 1 = 100 % </b>
 
 >**💡 Nota para experto(a)**
 

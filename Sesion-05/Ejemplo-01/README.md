@@ -8,7 +8,7 @@
 
 ejemplo de la tabla de decisiones
 
-https://www.youtube.com/watch?v=Ir3rQFaIkrM&ab_channel=Quality-Stream
+
 >**💡 Nota para experto(a)**
 >
 > Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el ejemplo.
