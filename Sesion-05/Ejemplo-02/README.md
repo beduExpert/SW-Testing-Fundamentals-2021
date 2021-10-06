@@ -17,7 +17,7 @@ Cada linea es una sentencia del sistema
 
 <li>Sumar = A + 1 </li>
 	
-	<li> Imprimir Suma  </li>
+<li> Imprimir Suma  </li>
 
 </ol>
 
