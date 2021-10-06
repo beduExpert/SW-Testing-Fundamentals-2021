@@ -1,8 +1,9 @@
-# Ejemplo #1 - Nombre del ejemplo
+# Ejemplo #1 - Tabla de decisiones
 
 ## Objetivo
 
-* Agregar los objetivos del ejemplo (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Aplicar correctamente el metodo de la tabla decisiones en algun caso de uso real
+* Elegir correctamente las condiciones y acciones, valores que se usaran en la toma de decision del metodo.
 
 ## Desarrollo
 
