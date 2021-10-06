@@ -43,41 +43,78 @@ Condiciones:
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Estudiantes</th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Condiciones</span></th>
+    <th class="tg-0pky">1</th>
+    <th class="tg-0pky">2</th>
+    <th class="tg-0pky">3</th>
+    <th class="tg-0pky">4</th>
+    <th class="tg-0pky">5</th>
+    <th class="tg-0pky">6</th>
+    <th class="tg-0pky">7</th>
+    <th class="tg-0pky">8</th>
+    <th class="tg-0lax"><span style="font-weight:bold">Formula</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Retirado</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Cliente nuevo 15%</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0lax">8/2=4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Trabajador</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Cliente con poliza activa 10 %</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0lax">4/2=2</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Deudas Sin pagar</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Cliente entrega vehiculo 20%</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0pky">V</td>
+    <td class="tg-0pky">F</td>
+    <td class="tg-0lax">2/2=1</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Deudas por pagar</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0lax">Acciones / salidas</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Porcentaje Aplicado</td>
+    <td class="tg-0lax">x</td>
+    <td class="tg-0lax">x</td>
+    <td class="tg-0lax">20 %</td>
+    <td class="tg-0lax">15%</td>
+    <td class="tg-0lax">30 %</td>
+    <td class="tg-0lax">10 %</td>
+    <td class="tg-0lax">20 %</td>
+    <td class="tg-0lax">0</td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
