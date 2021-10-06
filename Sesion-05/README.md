@@ -18,7 +18,7 @@
 - [Ejemplo 02: Cobertura de sentencias](./Ejemplo-02/README.md)
 - [Ejemplo 03: Cobertura de decisión](./Ejemplo-02/README.md)
     - [Reto 01: Tecnicas de caja blacna](./Reto-03/README.md)
-- [Postwork: Nombre del postwork](./Postwork/README.md)
+- [Postwork: Tecnicas de pruebas](./Postwork/README.md)
 
 
 
