@@ -6,10 +6,8 @@
 
 ## Desarrollo
 
-caja negra
-tabla decision
-analsiside de valores llimite
-
+pruebas exploratorias.
+Casos de prueba.
 
 >**💡 Nota para experto(a)**
 >
