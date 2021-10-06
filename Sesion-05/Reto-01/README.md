@@ -1,4 +1,4 @@
-# Reto #1  -Cobertura de decision:
+# Reto #1  - Tecnias de Caja Blanca
 
 ## Objetivo
 
@@ -16,5 +16,7 @@ Algoritmo:
 5)  Imprimir "C es negativo"
 6) Fin Si
 
-Solucion:
-Escribir los casos de prueba necesario para tener una cobertura del 100 % en un archivo .txt en el carpeta solucion
+<h3>Solucion: </h3>
+Usando las tecnicas de cobertura de sentencia y cobertura de decisión, listar los casos de prueba necesario para tener una cobertura del 100%.
+
+Para el entregable puede usar en un archivo .txt y subirlos en el carpeta <a href="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/tree/main/Sesion-05/Reto-01/Solucion">solucion </a>
