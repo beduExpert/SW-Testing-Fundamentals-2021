@@ -1,32 +1,23 @@
 
-# Sesión #: Nombre de la sesión
+# Sesión # 5: Tecnicas dinamicas de pruebas
 
 ## :dart: Objetivos
 
-Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
+- Conocer y aplicar correctamente las tecnicas de pruebas en un producto digital
+- Establecer una estrategia de pruebas, segun las condiciones del negocio.
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
 
 ## ⚙ Requisitos
 
-+ Agregar los requisitos de la sesión 
-+ Agregar el link de descarga en caso de ser necesario para la sesión (Borrar estás lineas una vez se hayan leido)
-
-## 🎩 Buenas prácticas
-
-Agregar buenas prácticas en caso de que la sesión lo requierea, de no ser así borrar está intrucción una vez se haya leido.
++ Programa de editor de texto como Word o NotePad ++ 
 
 ## 📂 Organización de la clase
 
-Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea una vez se hay leido)
-
-- [Ejemplo 01:  Nombre del ejemplo](./Ejemplo-01/README.md)
-    - [Reto 01: Nombre del reto 01](./Reto-01/README.md)
+- [Ejemplo 01:  Tabla de decisioón](./Ejemplo-01/README.md)
     - [Reto  02: Nombre del reto 02](./Reto-02/README.md)
-- [Ejemplo 02: Nombre del ejemplo 02](./Ejemplo-02/README.md)
-    - [Reto 03: Nombre del reto 03](./Reto-03/README.md)
+- [Ejemplo 02: Cobertura de sentencias](./Ejemplo-02/README.md)
+- [Ejemplo 03: Cobertura de decisión](./Ejemplo-02/README.md)
+    - [Reto 01: Tecnicas de caja blacna](./Reto-03/README.md)
 - [Postwork: Nombre del postwork](./Postwork/README.md)
 
 
