@@ -22,7 +22,7 @@ Los factores de eleccion de un tecnica de prueba que se van a utilizar dependen 
 - Los siguientes ejercicios serán parte de los entregables del Checkpoint. No dudes en contactar al Experto (a) por Slack si tienes dudas o necesitas retroalimentación. 
 - Lee detenidamente las preguntas planteadas y practica tu ituicion de tester.
 - Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.
-- Los archivos de texto con las soluciones las deben de subir - [aqui](./PostWork/Solucion)
+- Los archivos de texto con las soluciones las deben de subir - [aqui](./PostWork)
 
 ## Ejercicio 1
 
@@ -79,7 +79,7 @@ Se requiere entrega en archivo de texto.
 Describa los casos de uso que probaria, si le pidieran una prueba exploratoria de la siguiente pantalla.
 
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Postwork/assets/simulador_credito.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Postwork/simulador_credito.png">
 
 Se requiere entrega en archivo de texto.
 ## ✅ Checklist
