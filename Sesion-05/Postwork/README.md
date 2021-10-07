@@ -22,7 +22,7 @@ Los factores de eleccion de un tecnica de prueba que se van a utilizar dependen 
 - Los siguientes ejercicios serán parte de los entregables del Checkpoint. No dudes en contactar al Experto (a) por Slack si tienes dudas o necesitas retroalimentación. 
 - Lee detenidamente las preguntas planteadas y practica tu ituicion de tester.
 - Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.
-- Los archivos de texto con las soluciones las deben de subir - [aqui](./PostWork)
+- Los archivos de texto con las soluciones las deben de subir - [aqui](./)
 
 ## Ejercicio 1
 
