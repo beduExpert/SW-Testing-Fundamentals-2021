@@ -31,10 +31,10 @@ Teniendo el siguiente escenario de negocio, ¡cual seria la mejor sugerencia?:
 "Equipo, tenemos que hacer unas pruebas que nos solicito el cliente, al parecer la aplicacion que estamos desarrollando debe funcionar en 4 navegadores web diferentes y en 2 sistemas operativos y en redes con distanta capacidad de velocidad de conexion
 ademas, debemos garantizar una cobertura de codigo del 85 % he indicar cuales combinaciones no fueron cubiertas"
 
-a. Como tenemos conocimiento suficiente, podriamos iniciar un prueba de cobertura de sentencia, y cumplir lo solicitado.
-b. Aplicar unas pruebas exploratorias, seria sufucientes para cumplir con el porcentaje solicitado.
-c. Probar solo en un navegador y suponer que si funciona bien, en todos estar igual.
-D. Crear condiciones y combinaciones en una tabla de desicion con los navegadores y sistemas operativos, e iniciar investigacion del codigo fuente para aplicar otras tecnicas de caja blanca.
+- a. Como tenemos conocimiento suficiente, podriamos iniciar un prueba de cobertura de sentencia, y cumplir lo solicitado.
+- b. Aplicar unas pruebas exploratorias, seria sufucientes para cumplir con el porcentaje solicitado.
+- c. Probar solo en un navegador y suponer que si funciona bien, en todos estar igual.
+- D. Crear condiciones y combinaciones en una tabla de desicion con los navegadores y sistemas operativos, e iniciar investigacion del codigo fuente para aplicar otras tecnicas de caja blanca.
 
 
 ## Ejercicio 2
