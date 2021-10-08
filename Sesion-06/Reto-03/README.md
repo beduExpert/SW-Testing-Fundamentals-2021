@@ -1,15 +1,16 @@
-# Reto # - Nombre del reto
+# Reto # 3 – Analizar clase de JAVA usando Intellij IDEA 
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Familiarizarse con el entorno de desarrollo, usando un editor de código.
+* Identificar fallos tempranos de lógica del producto, desde el código fuente
 
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
+Usando Intellij IDEA abrir la siguiente clase [FitTime.java](./ FitTime.java) e identificar:
+-	Las posibles mejoras de código
+-	Código muerto
+-	Fallas de lógica.
 
-Aquí se debe agregar eal desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
+Se requiere que suba evidencia del análisis realizado a la siguiente carpeta  [solución reto 3](./solucion)
 
