@@ -10,7 +10,7 @@
 ## ⚙ Requisitos
 
 + [Descargar e instalar](https://www.jetbrains.com/es-es/idea/download/#section=windows) IntelliJ IDEA version Community
-+  [Descargar e instalar]( https://www.sonarqube.org/downloads/) SonarQube version Community
+
 
 ## 🎩 Buenas prácticas
 
