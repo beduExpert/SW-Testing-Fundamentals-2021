@@ -3,24 +3,24 @@
 ## Objetivo
 
 * Identificar todas las combinaciones importantes de las condiciones
-* Elegir correctamente las condiciones y acciones, valores que se usaran en la toma de decision del metodo.
+* Elegir correctamente las condiciones y acciones, valores que se usarán en la toma de decision del metodo.
 
 ## Desarrollo
 
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-01/assets/ejemplo_carro.jpg">
 
-Suponga que un cliente planea comprar un auto nuevo, para el cual debe adquirir un seguro obligatorio con alguna compañia especifica, y la empresa tiene un plan de descuentos segun el perfil del cliente.
+Suponga que un cliente planea comprar un auto nuevo, para el cual debe adquirir un seguro obligatorio con alguna compañía específica, y la empresa tiene un plan de descuentos según el perfil del cliente.
 <b>Reglas de negocio</b>
 <ul>
 
-<li>Un cliente nuevo recibira un descuento del 15% en la poliza de seguro </li>
+<li>Un cliente nuevo recibira un descuento del 15% en la póliza de seguro </li>
 
-<li>Si es un Cliente  tiene una poliza activa con la compañia aseguradora, tendra un 10 % en su poliza nueva </li>
+<li>Si es un Cliente  tiene una póliza activa con la compañia aseguradora, tendra un 10 % en su poliza nueva </li>
 	
-<li>Si el cliente entrega su vehiculo como parte de pago tendra un 20 %, pero no podra sumarse al descuento del 15 % </li>
+<li>Si el cliente entrega su póliza como parte de pago tendra un 20 %, pero no podrá sumarse al descuento del 15 % </li>
 
-<li>Si el cliente entrega su vehiculo como parte de pago y ademas tiene una poliza activa con la compañia aseguradora tendra un descuento acumulado (10%+20%) 30%  </li>
+<li>Si el cliente entrega su póliza como parte de pago y además tiene una póliza activa con la compañía aseguradora tendrá un descuento acumulado (10%+20%) 30%  </li>
 
 </ul>
 
@@ -28,12 +28,12 @@ Condiciones:
 
 <ol>
 <li> Cliente nuevo 15% </li>
-<li> Cliente con poliza activa 10% </li>
-<li> Cliente entrega vehiculo 20% </li>
+<li> Cliente con póliza activa 10% </li>
+<li> Cliente entrega póliza 20% </li>
 
 </ol>
 
-<b> Formula: Para calcular el total de combinaciones</b>
+<b> fórmula: Para calcular el total de combinaciones</b>
 
 2<sup>3</sup> = 8
 
