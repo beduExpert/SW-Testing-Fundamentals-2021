@@ -26,7 +26,7 @@ De igual forma pasa cuando importamos librerías alguna clase sin utilizar
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Ejemplo-03/assets/ejemplo3_3.png">
 
 - También nos va ser útil para identificar variables instanciadas pero no utilizada en la clase
--
+
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Ejemplo-03/assets/ejemplo3_4.png">
 
 
