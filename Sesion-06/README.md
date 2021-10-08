@@ -21,8 +21,8 @@ Pro-tips: “Las 12 mejores herramientas de revisión de código para desarrolla
 - [Ejemplo 01:  Revisiones Ad Hoc](./Ejemplo-01/README.md)
 - [Ejemplo 02: Lista de Comprobaciones](./Ejemplo-02/README.md)
     - [Reto 01: Lista de Comprobaciones](./Reto-01/README.md)
-- [Ejemplo 03: Nombre del ejemplo 02](./Ejemplo-02/README.md)
-    - [Reto 03: Nombre del reto 03](./Reto-03/README.md)
+- [Ejemplo 03: Analisis de codigo con SonarQube](./Ejemplo-03/README.md)
+    - [Reto 03: Analisis de codigo fuente](./Reto-03/README.md)
 - [Postwork: Técnicas estáticas](./Postwork/README.md)
 
 
