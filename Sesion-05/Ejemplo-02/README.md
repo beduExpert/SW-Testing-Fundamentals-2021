@@ -2,14 +2,14 @@
 
 ## 🎯Objetivo
 
-* Poner en practica el concepto de cobertura
-* Comprender que es un sentencia de codigo
+* Poner en Práctica el concepto de cobertura
+* Comprender qué es un sentencia de código
 
 ## Desarrollo
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Ejemplo-02/assets/pruebas_dinamicas.png">
 
-Cada linea es una sentencia del sistema
+Cada línea es una sentencia del sistema
 
 <ol>
 
@@ -21,7 +21,7 @@ Cada linea es una sentencia del sistema
 
 </ol>
 
-De igual forma se considera una sentencia, a varias sentencias que se pueden agrupar, por que siempre se ejecutaran juntas.
+De igual forma se considera una sentencia, a varias sentencias que se pueden agrupar, por que siempre se ejecutarán juntas.
 
 1) Si (A>10) Entonces
 	Imprimir A
@@ -41,7 +41,7 @@ La cobertura consiste en medir :
 4)    C =0
 5) Fin Si 
 
-Si tomamos como valores A= 12 y B = 10 solo necesitariamos un caso de prueba para lograr la cobertura completa.
+Si tomamos como valores A= 12 y B = 10 solo necesitaríamos un caso de prueba para lograr la cobertura completa.
 
 <b>Cobertura de sentencia = # Sentencias ejecutadas (5) / # sentencias ejecutables (5) = 1 = 100 % </b>
 
