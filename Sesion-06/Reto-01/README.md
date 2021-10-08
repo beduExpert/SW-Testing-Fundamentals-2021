@@ -12,7 +12,7 @@
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Reto-01/assets/reto1_3.png">
 
 
-<b>Descripción de funcionalidades</b>zbr>
+<b>Descripción de funcionalidades</b><br>
 - Creas, envías e imprimes rápidamente tus facturas de venta.
 - Puedes facturar aun cuando tu conexión sea inestable.
 - Administras en un solo lugar todas las terminales que usas en tu punto de venta.
