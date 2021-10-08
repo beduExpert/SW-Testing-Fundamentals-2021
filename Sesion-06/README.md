@@ -14,7 +14,7 @@
 
 ## 🎩 Buenas prácticas
 
-Pro-tips: “Las 12 mejores herramientas de revisión de código para desarrolladores “ Blog
+Pro-tips: “Las 12 mejores herramientas de revisión de código para desarrolladores “ [Blog](https://kinsta.com/es/blog/herramientas-de-revision-de-codigo/)
 
 ## 📂 Organización de la clase
 
