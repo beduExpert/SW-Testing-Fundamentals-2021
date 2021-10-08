@@ -1,19 +1,19 @@
-# Postwork 1: Tecnicas de pruebas.
+# Postwork 1: Técnicas de pruebas.
 
 ## :dart: Objetivos
 
 - Argumentar qué tipo de defectos puede haber en los diversos tipos de software.
-- Demostrar los conocimientos aprendidos sobre los conceptos aprendidos durante la sesión.
+- Demostrar lo conocimientos adquiridos, con base en los conceptos de las técnicas de pruebas durante la sesión.
 
 ## ⚙ Desarrollo
 
-Existen muchas tipos diferentes de tecnicas de prueba de software, cada una con sus propias fortalezas y debilidades, cada tecnica individual es buena para encontrar tipos particulares de defectos y relativamente pobre para encontrar otro tipos.
-Del mismo modo, las pruebas realizadas en diferentes etapas del ciclo de vida de desarrollo de software, encontrara diferentes tipos de defectos cada tecnica de prueba cae en una de varias categorias diferentes, en terminos generales hay dos categorias princiaples
-estaticas y dinamicas.
+Existen muchas tipos diferentes de técnicas de prueba de software, cada una con sus propias fortalezas y debilidades, cada técnica individual es buena para encontrar tipos particulares de defectos y relativamente pobre para encontrar otro tipos.
+Del mismo modo, las pruebas realizadas en diferentes etapas del ciclo de vida de desarrollo de software, encontrará diferentes tipos de defectos cada tecnica de prueba cae en una de varias categorías diferentes, en terminos generales hay dos categorías princiaples
+estáticas y dinámicas.
 
-Los factores de eleccion de un tecnica de prueba que se van a utilizar dependen de una serie de factores como:
+Los factores de elección de una técnica de prueba que se van a utilizar dependen de una serie de factores como:
 
-- El contexto donde encontramos el componente a probar o sistema, es decir el tipo de complejidad y tipos de defectos esperados. No es lo mismo probar la pagina web de un colegio local, al sistema de un lanzamiento de un misil de la fuerza aerea.
+- El contexto donde encontramos el componente a probar o sistema, es decir el tipo de complejidad y tipos de defectos esperados. No es lo mismo probar la página web de un colegio local, al sistema de un lanzamiento de un misil de la fuerza aérea.
 - Requisitos funcionales y no funcionales.
 - Niveles y clases de riesgo, no es lo mismo hacer el control de calidad a la modificacion un titulo de un formulario a tener que probar el modulo de notas de una facultad de ingenieria.
 
@@ -26,57 +26,56 @@ Los factores de eleccion de un tecnica de prueba que se van a utilizar dependen 
 
 ## Ejercicio 1
 
-Teniendo el siguiente escenario de negocio, ¡cual seria la mejor sugerencia?:
+Teniendo el siguiente escenario de negocio, ¿Cuál sería la mejor sugerencia?:
 
-"Equipo, tenemos que hacer unas pruebas que nos solicito el cliente, al parecer la aplicacion que estamos desarrollando debe funcionar en 4 navegadores web diferentes y en 2 sistemas operativos y en redes con distanta capacidad de velocidad de conexion
-ademas, debemos garantizar una cobertura de codigo del 85 % he indicar cuales combinaciones no fueron cubiertas"
+"Equipo, tenemos que hacer unas pruebas que nos solicitó el cliente, al parecer la aplicación que estamos desarrollando debe funcionar en 4 navegadores web diferentes y en 2 sistemas operativos y en redes con distanta capacidad de velocidad de conexión además, debemos garantizar una cobertura de código del 85 % e indicar cuales combinaciones no fueron cubiertas"
 
-- a. Como tenemos conocimiento suficiente, podriamos iniciar un prueba de cobertura de sentencia, y cumplir lo solicitado.
-- b. Aplicar unas pruebas exploratorias, seria sufucientes para cumplir con el porcentaje solicitado.
+- a. Como tenemos conocimiento suficiente, podríamos iniciar un prueba de cobertura de sentencia, y cumplir lo solicitado.
+- b. Aplicar unas pruebas exploratorias, sería suficiente para cumplir con el porcentaje solicitado.
 - c. Probar solo en un navegador y suponer que si funciona bien, en todos estar igual.
-- D. Crear condiciones y combinaciones en una tabla de desicion con los navegadores y sistemas operativos, e iniciar investigacion del codigo fuente para aplicar otras tecnicas de caja blanca.
+- D. Crear condiciones y combinaciones en una tabla de decisión con los navegadores y sistemas operativos, e iniciar investigación del código fuente para aplicar otras técnicas de caja blanca.
 
 
 ## Ejercicio 2
 
-Elaborar la tecnica que requiera conveniente para el siguiente enunciado:
+Elaborar la técnica que requiera conveniente para el siguiente enunciado:
 
 "El cliente requiere probar los siguientes requerimientos del aplicativo electoral"
 	- Ciudadanos aptos para votar teniendo en cuenta el criterio de la edad
-	- Ciudadanos aptos para votar solo si tiene la cedula registrada en la ciudad o tiene un certificado de desplazamiento forzado
+	- Ciudadanos aptos para votar solo si tiene el documento de identidad registrado en la ciudad o tiene un certificado de desplazamiento forzado
 
 Se requiere entrega en archivo de texto.
 
 ## Ejercicio 3
 
-Caso de uso: Para una solicitud aprobada de tarjeta de credito, se debe asignar una categoria, dependiendo del ingreso reportado por el cliente
+Caso de uso: Para una solicitud aprobada de tarjeta de crédito, se debe asignar una categoria, dependiendo del ingreso reportado por el cliente
 
 Condiciones:
 - Si el cliente tiene un ingreso de $800 USD a $2000 USD, se le asignar una TDC DORADA
 - Si el cliente tiene un ingreso de $2001 USD a $3500 USD, se le asignara una TDC PLATINO
 - Si el cliente tine un ingreso de $3001 USD ... n, se le asignara una TDC NEGRA.
 
-Solucion:
-- Las particiiones de equivalencia para valores validos y no validos
+Solución:
+- Las particiones de equivalencia para valores validos y no validos
 
 Se requiere entrega en archivo de texto.
 
 
 ## Ejercicio 3
 
-Un algoritmo valida los siguientes campos numericos:
+Un algoritmo valida los siguientes campos numéricos:
 - Valores menotres que 40 son rechazados.
 - Valores entre 42 y 71 son acpetados.
 - Valores mayores o iguales a 92 son rechazados.
 
-¿Cúal de los siguientess valores cubre más los valores limites?
-¿ Como agruparia las clases equivalentes ?
+¿Cuál de los siguientess valores cubre más los valores límites?
+¿Cómo agruparía a las clases equivalentes ?
 
 Se requiere entrega en archivo de texto.
 
 ## Ejercicio 4
 
-Describa los casos de uso que probaria, si le pidieran una prueba exploratoria de la siguiente pantalla.
+Describa los casos de uso que probaría, si le pidieran una prueba exploratoria de la siguiente pantalla.
 
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Postwork/simulador_credito.png">
