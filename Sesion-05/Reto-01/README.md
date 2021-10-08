@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-* Aplicar tecnicas de caja blanca
+* Aplicar técnicas de caja blanca
 * Analizar un algoritmo de codigo basico
 
 ## Desarrollo
@@ -19,4 +19,4 @@ Algoritmo:
 <h3>Solucion: </h3>
 Usando las tecnicas de cobertura de sentencia y cobertura de decisión, listar los casos de prueba necesario para tener una cobertura del 100%.
 
-Para el entregable puede usar en un archivo .txt y subirlos en el carpeta <a href="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/tree/main/Sesion-05/Reto-01/Solucion">solucion </a>
+Para el entregable se requiere crear un archivo de texto con la lista de casos y publicarlos en la siguiente carpeta. <a href="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/tree/main/Sesion-05/Reto-01/Solucion">solucion </a>
