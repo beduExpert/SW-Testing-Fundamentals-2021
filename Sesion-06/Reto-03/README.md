@@ -7,10 +7,10 @@
 
 ## Desarrollo
 
-Usando Intellij IDEA abrir la siguiente clase [FitTime.java](./ FitTime.java) e identificar:
+Usando Intellij IDEA abrir la siguiente clase [FitTime.java](./FitTime.java) e identificar:
 -	Las posibles mejoras de código
 -	Código muerto
 -	Fallas de lógica.
 
-Se requiere que suba evidencia del análisis realizado a la siguiente carpeta  [solución reto 3](./solucion)
+Se requiere que suba evidencia del análisis realizado a la siguiente carpeta  [solución reto 3](./Solucion)
 
