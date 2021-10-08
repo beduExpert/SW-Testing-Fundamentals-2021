@@ -1,42 +1,25 @@
-# Ejemplo 2 - Listas de comprobación
+# Ejemplo 3 – Análisis de código con SonarQube
 
 ## Objetivo
 
-* Comprender correctamente las especificaciones dadass por el cliente
-* Realizas las comprobaciones correctas del aplicativo y sus posibles características.
+*Instalar e implementar la herramienta de análisis de código locamente
+* Identificar mejoras de código de manera temprana
 
 ## Desarrollo
+>**💡 Nota para experto(a)**
+> Code Smell: No son fallos o bugs del código, pero si indican deficiencias en el diseño software o patrón de desarrollo, que puede ralentizar el funcionamiento del aplicativo o aumentar el riesgo de errores o fallos en el futuro.
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Ejemplo-02/assets/ejemplo2_1.png">
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Ejemplo-02/assets/ejemplo2_2.png">
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Ejemplo-02/assets/ejemplo2_2.png">
+SonarQueb, es una herramienta de revisión automática de código para detectar bugs, vulnerabilidades y “code smell” en algún código fuente. Se puede integrar con su flujo de trabajo existente para permitir la inspección continua de código en las ramas de su proyecto.
 
-Un equipo de desarrollo recibe los diseños de algunas pantallas y una descripción a alto nivel por parte del cliente, para iniciar el desarrollo de este.
-
-<b>Descripción:</b> 
-<br>
-- Los directores de proyectos y coordinadores en general pueden tener la información en línea del estado de todas las actividades del personal a su cargo así como las evidencias recolectadas en campo, lo que les permitirá la toma de decisiones de manera ágil y oportuna.
-- A través de esta interfaz puedes parametrizar cualquier tipo de proyecto asignándole actividades específicas, cada una de ellas con un flujo detallado de tareas, lo que te permitirá un sin número de posibilidades para administrar todos tus proyectos de manera personalizada.
-- Cada actividad tiene un flujo detallado del procedimiento a seguir, desde esta interfaz puedes tener una trazabilidad completa de cada actividad desde su creación hasta su cierre, validando y aprobando las evidencias recolectadas en cada paso, de esta manera puedes mitigar los riesgos laborales que el personal en campo puede llegar a tener
-
-
-
-<b>Lista de comprobaciones:</b>
-
--	¿Solo los directores y coordinadores de proyecto pueden tener acceso al sistema?
--	¿Cuáles son los estados que se pueden mostrar de cada actividad?
--	¿La pantalla será responsive para todos los dispositivos?
--	¿Cuáles son las evidencias que cada personal podrá subir?
--	¿Qué formato permitirá en las evidencias?
--	¿Cuántos usuarios simultáneos permite?
--	¿Qué velocidad de carga tiene cada pantalla?
--	¿Qué atributos tendrá cada actividad asignada?
--	¿Cuántos proyecto por coordinar se pueden manejar?
--	¿Cuántas actividades por página se podrán visualizar?
--	Especificar los enlaces de cada menú
--	Diseñar la pantalla que vera el usuario cuando haga clic en “Ver Detalles”
--	¿La tabla de los flujos detalles, que librería estará usando?
--	Especificar la fuente que esta consultando la tabla de seguimiento de procedimiento
--	En la pantalla de flujo detallado no esta especificado el funcionamiento de todos los iconos o botones
-
+Después de la descarga del paquete:
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Ejemplo-03/assets/ejemplo3_1.png">
+Después, de descomprimir el archivo .zip, copiamos la carpeta al disco local (C:)
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Ejemplo-03/assets/ejemplo3_2.png">
+El siguiente paso es ejecutar SonarQube, para ello abrimos una consola de Windows o CMD e ingresamos el siguiente comando para llegar a la carpeta de SonarQube.
+Cd .. / ENTER – Cd .. /enter  - Cd “nombre_carpeta_sonar_Qube”
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Ejemplo-03/assets/ejemplo3_3.png">
+En la carpeta “C:\sonarqube-9.1.0.47736\conf” modificar el archivo “wrapper.conf”
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Ejemplo-03/assets/ejemplo3_5.png">
+Después de guardar el archivo, podemos ejecutar StartSonar.bat en la carpeta /bin/Windows-x86-64
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Ejemplo-03/assets/ejemplo3_4.png">
 
