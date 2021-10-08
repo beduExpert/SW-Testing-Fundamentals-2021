@@ -69,7 +69,7 @@ Condiciones:
     <td class="tg-0lax">8/2=4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Cliente con poliza activa 10 %</td>
+    <td class="tg-0pky">Cliente con póliza activa 10 %</td>
     <td class="tg-0pky">V</td>
     <td class="tg-0pky">V</td>
     <td class="tg-0pky">F</td>
@@ -81,7 +81,7 @@ Condiciones:
     <td class="tg-0lax">4/2=2</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Cliente entrega vehiculo 20%</td>
+    <td class="tg-0pky">Cliente entrega vehículo 20%</td>
     <td class="tg-0pky">V</td>
     <td class="tg-0pky">F</td>
     <td class="tg-0pky">V</td>
@@ -123,5 +123,5 @@ Condiciones:
 
 >**💡 Nota para experto(a)**
 >
-> Es importante a la hora de encontrar impresiciones en los requisitos del producto
+> Esta tecnica es importante a la hora de encontrar impresiciones en los requisitos del producto
 
