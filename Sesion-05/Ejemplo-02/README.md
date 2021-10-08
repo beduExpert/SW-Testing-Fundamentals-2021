@@ -2,7 +2,7 @@
 
 ## 🎯Objetivo
 
-* Poner en Práctica el concepto de cobertura
+* Poner en práctica el concepto de cobertura
 * Comprender qué es un sentencia de código
 
 ## Desarrollo
