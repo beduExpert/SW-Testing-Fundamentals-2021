@@ -10,13 +10,15 @@ El análisis estático, es una practica poco en los equipos de desarrollo comune
 Lo cual para muchos proyectos resulta ser bastantes costos, pues una falla detectada desde etapas muy tempranas del ciclo del software, podría brindar beneficios al equipo de desarrollo en factores económicos, entregas reducción de tiempo y esfuerzo en el proceso de pruebas y despliegues a entornos productivos.
 
 🗒️ Instrucciones
-Los siguientes ejercicios serán parte de los entregables del Checkpoint. No dudes en contactar al Experto (a) por Slack si tienes dudas o necesitas retroalimentación.
-Lee detenidamente las preguntas planteadas y practica tu intuición de tester.
-Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.
-Los archivos de texto con las soluciones se deben de publica, [aquí](./Solucion)
-En el análisis de código, no es necesario tener conocimientos técnicos del lenguaje, solo usar el IDEA o editor de código, para identificar posibles anomalías. 
+
+- Los siguientes ejercicios serán parte de los entregables del Checkpoint. No dudes en contactar al Experto (a) por Slack si tienes dudas o necesitas retroalimentación.
+- Lee detenidamente las preguntas planteadas y practica tu intuición de tester.
+- Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.
+- Los archivos de texto con las soluciones se deben de publica, [aquí](./Solucion)
+- En el análisis de código, no es necesario tener conocimientos técnicos del lenguaje, solo usar el IDEA o editor de código, para identificar posibles anomalías. 
 
 # Ejercicio 1
+
 En el siguiente ejercicio, se requiere realizar en un documento de texto:
 - 1.	Lista de comprobación para requisitos, diseño y código fuente. Utilizando la siguiente información.
 - 2.	Listas de comprobación basadas en roles: Administrador, comercial, cliente final.
