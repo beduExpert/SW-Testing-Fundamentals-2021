@@ -55,6 +55,7 @@ En La Haus acompañamos a las personas a tomar una de las decisiones más import
 # Ejercicio 2
 Descargar el siguiente repositorio, [RobotRetos](./) descomprimir él .ZIP  y abrirlo en intellji IDEA. 
 <br>
-Analice el código fuente, usando el IDEA  como ayuda para identificar código muerto o inalcanzable, y en un editor de texto pegar los pantallazos donde se evidencie dichas líneas de código.
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_6.png">
+Analice el código fuente, usando el IDEA  como ayuda para identificar código muerto o inalcanzable, y en un editor de texto pegar los pantallazos donde se evidencie dichas líneas de código.
+
 
