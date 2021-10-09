@@ -37,7 +37,7 @@ En La Haus acompañamos a las personas a tomar una de las decisiones más import
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_2.png">
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_3.png">
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_4.png"
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_4.png">
 
 
 # Requisitos.
