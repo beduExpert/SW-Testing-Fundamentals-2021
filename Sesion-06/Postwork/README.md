@@ -22,7 +22,7 @@ En el siguiente ejercicio, se requiere realizar en un documento de texto:
 
 
 
-#Negocio:
+# Negocio:
 ¿Qué es La Haus?<br>
 Estamos transformando la industria de compra de vivienda nueva en Latinoamérica.
 En La Haus acompañamos a las personas a tomar una de las decisiones más importantes de su vida: Comprar casa nueva.
