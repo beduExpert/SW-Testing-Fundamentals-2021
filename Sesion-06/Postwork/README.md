@@ -1,7 +1,9 @@
 # Postwork 1: Testing Estático
 🎯 Objetivos
+
 -	Tener las capacidades para realizar técnicas estáticas en cualquier producto de software
 -	Identificar criterios básicos del análisis de código fuente
+
 ⚙ Desarrollo
 
 El análisis estático, es una practica poco en los equipos de desarrollo comunes, pues se tiene el pensamiento equivocado, que es mejor realizar las pruebas directamente en el aplicativo funcional. 
