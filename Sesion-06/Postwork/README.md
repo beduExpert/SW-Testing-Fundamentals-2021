@@ -28,11 +28,12 @@ Estamos transformando la industria de compra de vivienda nueva en Latinoamérica
 En La Haus acompañamos a las personas a tomar una de las decisiones más importantes de su vida: Comprar casa nueva.
 
 # Diseño:<br>
-https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_1.png
-https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_2.png
-https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_3.png
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_1.png">
 
-https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_4.png
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_2.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_3.png">
+
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_4.png"
 
 
 # Requisitos.
@@ -44,12 +45,12 @@ https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/P
 
 
 # Diagramas de base datos
-https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_5.png
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_5.png">
 
 
 # Ejercicio 2
 Descargar el siguiente repositorio, [RobotRetos](./) descomprimir él .ZIP  y abrirlo en intellji IDEA. 
 <br>
 Analice el código fuente, usando el IDEA  como ayuda para identificar código muerto o inalcanzable, y en un editor de texto pegar los pantallazos donde se evidencie dichas líneas de código.
-https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_6.png
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_6.png">
 
