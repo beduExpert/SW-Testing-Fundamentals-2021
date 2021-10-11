@@ -1,5 +1,5 @@
 
-# Sesión 7: Gestión y mantenimiento de las pruebas.
+# Sesión 7: Herramientas usadas en el software testing
 
 ## :dart: Objetivos
 
@@ -21,7 +21,7 @@ Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea un
     - [Reto 01: Elaborar un plan de pruebas con matriz de riesgos](./Reto-01/README.md)
 - [Ejemplo 03: Uso de la herramienta Azure Devops](./Ejemplo-03/README.md)
     - [Reto 02: Aplicar plan de prueba en Azure Devops](./Reto-02/README.md)
-- [Postwork: Gestion y Mantenimiento de las pruebas](./Postwork/README.md)
+- [Postwork: Herramientas usadas en el software testing](./Postwork/README.md)
 
 
 
