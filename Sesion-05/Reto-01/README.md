@@ -9,7 +9,7 @@
 
 ## Desarrollo
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Reto-02/assets/reto_02.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Reto-01/assets/reto_02.png">
 
 <h3>Reglas de negocio: </h3>
 <ul>
