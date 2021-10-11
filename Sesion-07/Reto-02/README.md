@@ -1,15 +1,20 @@
-# Reto # - Nombre del reto
+# Reto 2 - Aplicar plan de pruebas en azure devops
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Reconocer elementos de azure devops, para la gestion de pruebas
+* Creacion de casos de pruebas en cada historia de usuario
 
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
+> Crear un cuenta gratis en <a href="https://azure.microsoft.com/es-es/services/devops/boards/" target="black">azure devops</a> 
+Usando la solucion del reto 1 realizar los siguiente items:
 
-Aquí se debe agregar eal desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
+-  Crear una historia de usuario
+-  Crear los casos de prueba
+-  Ejecutar los casos de prueba
+
+
+<h3>Solucion: </h3>
+Se requiere entrega en un archivo de texto con las evidencias del resultado,  en el carpeta <a href="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/tree/main/Sesion-07/Reto-02/Solucion">solucion </a>
 
