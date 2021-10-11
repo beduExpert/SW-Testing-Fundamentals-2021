@@ -24,3 +24,5 @@ La siguiente plataforma desea agregar un modulo nuevo de productos para la decor
  -  El codigo de producto debe ser alfanumerico
  -  Despues de selecionar añadir al carrito, me debe mostrar la opcion de seguir comprando
 
+<h3>Solucion: </h3>
+Se requiere entrega en un archivo de texto en el carpeta <a href="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/tree/main/Sesion-07/Reto-01/Solucion">solucion </a>
