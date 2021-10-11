@@ -26,17 +26,17 @@
 
 > Hacer clic en file/open y en la carpeta del ejemplo, se encuentra el archivo “ejemplo_script.jmx”.
 
-<img src=" https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_4.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_4.png">
 
 > Hacer clic en el play, para ejecutar las pruebas
 
-<img src=" https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_5.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_5.png">
 
 > Haciendo clic en “View Result Tree” Se visualiza el resultado de petición por petición.
 
-<img src=" https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_6.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_6.png">
 
 > Haciendo clic en “Summary Report” Se visualiza un resumen completo de toda la ejecucion.
 
-<img src=" https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_7.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_7.png">
 
