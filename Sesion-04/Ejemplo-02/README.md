@@ -11,7 +11,7 @@
 
 > Una prueba de regresión, es recomendable hacer cada vez que salga a producción una funcionalidad nueva del sistema.
 
-Realizar una prueba funcional de la tienda virtual :  https://www.demoblaze.com/}
+### Realizar una prueba funcional de la tienda virtual :  https://www.demoblaze.com/}
 >Se debe validar todos las opciones del menú principal y módulos de la tienda.
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-02/assets/ejemplo1_1.png">
 
