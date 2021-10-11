@@ -3,9 +3,10 @@
 
 ## :dart: Objetivos
 
-Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
 
 - El alumno será capaz de analizar la clasificación de los distintos tipos de testing, por medio de ejemplos y ejercicios prácticos, a fin de aplicarlos durante el desarrollo de software.
+- Conocer herramientas para realizar preubas no funcionales
+- Comprendera la manera correcta de aplicar pruebas de regresion a un aplicacion en función
 
 ## ⚙ Requisitos
 
