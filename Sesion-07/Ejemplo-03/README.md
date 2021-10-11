@@ -32,12 +32,18 @@
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_7.png">
  >Creacion de Historia de usuario
   <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_8.png">
+  
   >Creacion del caso de prueba
-   <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_9.png">
-    <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_10.png">
-    >Ingresa el paso a paso del caso de prueba
-     <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_11.png">
-      <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_12.png">
+  
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_9.png">
+ 
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_10.png">
+ 
+ >Ingresa el paso a paso del caso de prueba
+ 
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_11.png">
+ 
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_12.png">
       
  ## Ejecucion de pruebas
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_13.png">
