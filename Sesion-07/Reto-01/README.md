@@ -11,7 +11,7 @@ Elaborar un plan de pruebas con matriz de riesgos tomando como base el siguiente
 
 La siguiente plataforma desea agregar un modulo nuevo de productos para la decoracion de exteriores
 
- <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_1.png">
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Reto-01/assets/reto_1.png">
  
  Con los siguientes criterio de aceptacion:
  
