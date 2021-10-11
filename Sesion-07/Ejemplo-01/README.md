@@ -15,7 +15,7 @@
 
 ## Historia de usuario (Épica)
 -	Yo como usuario comprado de vivienda quiero empezar a buscar mi próxima propiedad desde mi dispositivo móvil. Tal búsqueda pueda seleccionar el país y la ciudad que deseo la propiedad, con la opción de seleccionar el tipo de vivienda “Apartamento o Casa”.
--
+
 ## Criterios de aceptación:
 -	El flujo del happy path no dé puede superar las 4 pantallas.
 -	Después de seleccionar la intensión de compra, la aplicación le debe mostrar el módulo para hacer login, utilizando el api de Gmail, Facebook y por código OTP.
