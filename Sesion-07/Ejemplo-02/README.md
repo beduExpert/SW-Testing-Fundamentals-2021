@@ -13,10 +13,10 @@
 
 Siendo el ejemplo anterior, se aplicara la matriz de riesgo.
 
-| Time | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| Riesgo | Plan de mitigación | Impacto | Probabilidad | Resultado |
 | --- | --- | --- | --- | --- | --- | --- |
-| 9:00 - 11:00 |  |  | X |  | X | X |
-| 12:00 - 14:00 |  |  |  |  | X | X |
-| 15:00 - 17:00 |  |  | X | X | X | X |
+|La probabilidad que al seleccionar un país, ocurra que las ciudades que se muestran no correspondan a este territorio. Lo que  |Se mitigará este riesgo usando los casos de prueba 1-3. Con el cual se asegurará que el listado de ciudades corresponda al país seleccionado.  |  Alto| Medio |Alto  | 
+| 12:00 - 14:00 |  |  |  |  | 
+| 15:00 - 17:00 |  |  | X | X |
 
 
