@@ -20,3 +20,9 @@ Siendo el ejemplo anterior, se aplicara la matriz de riesgo.
 | 15:00 - 17:00 |  |  | X | X |
 
 
+
+| Riesgo | Plan de mitigación | Impacto | Probabilidad | Resultado |
+| --- | --- | --- | --- | --- |
+| 9:00 - 11:00 |  |  | X |  | 
+| 12:00 - 14:00 |  |  |  |  | 
+| 15:00 - 17:00 |  |  | X | X |
