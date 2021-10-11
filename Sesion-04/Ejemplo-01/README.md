@@ -1,15 +1,28 @@
-# Ejemplo # - Nombre del ejemplo
+# Ejemplo 1 – Pruebas funcionales a tienda virtual
 
 ## Objetivo
 
-* Agregar los objetivos del ejemplo (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Aplicar pruebas funcionales a una aplicación web
+* Comprender la importancia de las pruebas funcionales
 
 ## Desarrollo
 
 >**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el ejemplo.
->Si no es necesario, puedes borrar esta nota.
 
-Aquí se debe agregar el desarrollo del ejemplo
+> Una prueba funcional, debe de tener unos criterios de aceptación o historia de usuario que describa los requerimientos de la funcionalidad a probar.
 
+Para la tienda virtual:  https://www.demoblaze.com/
+## Requerimiento funcional: Verificar el funcionamiento del módulo de contacto.
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-01/assets/ejemplo1_1.png">
+
+> Se valida el correcto diseño la Ventana emergente, el cual debe de contener 3 input text y dos botones.
+
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-01/assets/ejemplo1_2.png">
+
+> Se valida el tipo de datos que permite cada caja de texto
+
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-01/assets/ejemplo1_3.png">
+
+> Se valida el mensaje de envió.
+
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-01/assets/ejemplo1_4.png">
