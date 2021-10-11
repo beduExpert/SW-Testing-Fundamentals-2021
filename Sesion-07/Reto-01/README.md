@@ -1,15 +1,26 @@
-# Reto # - Nombre del reto
+# Reto # 1 - Plan de pruebas
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Aplicar analisis para la identificacion de casos de pruebas.
+* Reconocer los riesgo de proceso de calidad.
 
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
+Elaborar un plan de pruebas con matriz de riesgos tomando como base el siguiente escenario de negocio.
 
-Aquí se debe agregar el desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
+La siguiente plataforma desea agregar un modulo nuevo de productos para la decoracion de exteriores
+
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_1.png">
+ 
+ Con los siguientes criterio de aceptacion:
+ 
+ - Los productos se debe permitir agregar atributos de color
+ - El enlace, debe ser un submenu del menu principal de  "Tu Casa"
+ - Debe permitir agregar minino 3 imagenes por producto
+ - Debe tener una caja de busqueda para los productos
+ -  Se debe permitir un titulo no mayor de 25 caracteres
+ -  Le precio debe estar en divisa nacional
+ -  El codigo de producto debe ser alfanumerico
+ -  Despues de selecionar añadir al carrito, me debe mostrar la opcion de seguir comprando
 
