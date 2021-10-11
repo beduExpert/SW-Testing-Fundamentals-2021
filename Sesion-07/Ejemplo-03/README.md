@@ -40,6 +40,6 @@
       <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_12.png">
       
  ## Ejecucion de pruebas
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_13.png">
  
-      <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_13.png">
-            <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_14.png">
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_14.png">
