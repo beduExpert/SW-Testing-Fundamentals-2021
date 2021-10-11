@@ -37,9 +37,9 @@
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-02/assets/ejemplo1_8.png">
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-01/assets/ejemplo1_9.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-02/assets/ejemplo1_9.png">
 
 > Verificar los productos
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-01/assets/ejemplo1_10.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-02/assets/ejemplo1_10.png">
 
