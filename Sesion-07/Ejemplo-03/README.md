@@ -25,21 +25,26 @@
  ## Creacion de proyecto
  
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_5.png">
- >  Se puede usar publico o privado, segun el requerimiento.
+ 
+  >  Se puede usar publico o privado, segun el requerimiento.
+
+
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_6.png">
 
 ## Boards
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_7.png">
- >Creacion de Historia de usuario
-  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_8.png">
+ 
+ > Creacion de Historia de usuario
+ 
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_8.png">
   
-  >Creacion del caso de prueba
+ > Creacion del caso de prueba
   
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_9.png">
  
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_10.png">
  
- >Ingresa el paso a paso del caso de prueba
+ > Ingresa el paso a paso del caso de prueba
  
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-03/assets/ejemplo_azure_devops_11.png">
  
