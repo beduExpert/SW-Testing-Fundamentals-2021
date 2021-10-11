@@ -282,10 +282,11 @@ Algunos de los retos para el testing de mantenimiento son:
 
 Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea una vez se hay leido)
 
-- [Ejemplo 01:  Nombre del ejemplo](./Ejemplo-01/README.md)
-    - [Reto 01: Nombre del reto 01](./Reto-01/README.md)
-    - [Reto  02: Nombre del reto 02](./Reto-02/README.md)
-- [Ejemplo 02: Nombre del ejemplo 02](./Ejemplo-02/README.md)
-    - [Reto 03: Nombre del reto 03](./Reto-03/README.md)
+- [Ejemplo 01:  Pruebas Funcionales](./Ejemplo-01/README.md)
+    - [Reto 01: Prueba funcional a una tienda virtual](./Reto-01/README.md)
+- [Ejemplo 02: Prueba de regresion](./Ejemplo-02/README.md)
+    - [Reto  02: Prueba de regresion a una tienda virtual](./Reto-02/README.md)
+- [Ejemplo 03: Ejecucion de script de Jmeter Basico](./Ejemplo-03/README.md)
+    - [Reto 03: Analizar resultados de un script basico de Jmeter](./Reto-03/README.md)
 - [Postwork: Nombre del postwork](./Postwork/README.md)
 
