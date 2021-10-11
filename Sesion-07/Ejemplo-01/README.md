@@ -90,10 +90,5 @@ Se requiere la aplicación Haus en versión 3.11.1 en la playstore
 - Sugerencias: Es confuso la selección de la divisa cuando se visualiza propiedades de los dos países, la sugerencia seria, en el perfil de usuario seleccionar una moneda, y la aplicación cambiar lo valores a esta divisa.
 - 	Hallazgos: Después de seleccionar los parámetros de búsqueda de la vivienda, y hacer l	login, la vista siguiente no muestra un resultado de la consulta. 
 	- Defectos: 
-Titulo	Descripción	Evidencia	Impacto
-Etiqueta de México	La etiqueta de la pantalla para seleccionar el país de la propiedad, esta mal escrito. Le falta la tilde en la primera “é” 	 	Bajo
 
-
-|Titulo| Descripción |Evidencia|Impacto|
-|:--------------|:-------------:|--------------:|
-| Etiqueta de México |   <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-01/assets/ejmplo_plan%20de%20pruebas2.png"> |La etiqueta de la pantalla para seleccionar el país de la propiedad, esta mal escrito. Le falta la tilde en la primera “é” |Bajo|
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-01/assets/ejmplo_plan%20de%20pruebas3.png">
