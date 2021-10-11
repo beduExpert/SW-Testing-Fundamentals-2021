@@ -14,13 +14,13 @@
 ## Descarga e instalación de Jmeter
 > En la pagina web oficial: https://jmeter.apache.org/
 
- <img src=" https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_1.png">
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_1.png">
 
-<img src=" https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_2.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_2.png">
 
 > Al descargar el archivo ZIP, se debe descomprimir y abrir el siguiente archivo
 
-<img src=" https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_3.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_3.png">
 
 ## Abrir Script
 
