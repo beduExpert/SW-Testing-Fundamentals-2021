@@ -6,7 +6,9 @@
 * Entender los tipos de bug y como es la forma correcta de reportarlos.
 
 **💡 Nota para experto(a)**
+
 > De la misma forma como aplicamos el plan de pruebas para la aplicación móvil en cuestión, aplica para cualquier tipo de software. Salvo que en algunas situaciones se puede omitir o aplicar algunos ítems.
+
 >Happy_path: en lo que se suele en llamar el happy path y que particularmente se conocen en el mundo de las pruebas con el término “pruebas felices". Son los escenarios de pruebas mas comunes, y más fáciles de ejecutar. 
 
 ## Desarrollo
@@ -14,7 +16,7 @@
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-01/assets/ejmplo_plan%20de%20pruebas1.png">
 
 ## Historia de usuario (Épica)
--	Yo como usuario comprado de vivienda quiero empezar a buscar mi próxima propiedad desde mi dispositivo móvil. Tal búsqueda pueda seleccionar el país y la ciudad que deseo la propiedad, con la opción de seleccionar el tipo de vivienda “Apartamento o Casa”.
+- Yo como usuario comprado de vivienda quiero empezar a buscar mi próxima propiedad desde mi dispositivo móvil. Tal búsqueda pueda seleccionar el país y la ciudad que deseo la propiedad, con la opción de seleccionar el tipo de vivienda “Apartamento o Casa”.
 
 ## Criterios de aceptación:
 -	El flujo del happy path no dé puede superar las 4 pantallas.
