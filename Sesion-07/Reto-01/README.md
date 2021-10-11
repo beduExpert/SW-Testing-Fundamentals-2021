@@ -9,11 +9,11 @@
 
 Elaborar un plan de pruebas con matriz de riesgos tomando como base el siguiente escenario de negocio.
 
-La siguiente plataforma desea agregar un modulo nuevo de productos para la decoracion de exteriores
+> La siguiente plataforma desea agregar un modulo nuevo de productos para la decoracion de exteriores
 
  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Reto-01/assets/reto_1.png">
  
- Con los siguientes criterio de aceptacion:
+ ##  Con los siguientes criterio de aceptacion:
  
  - Los productos se debe permitir agregar atributos de color
  - El enlace, debe ser un submenu del menu principal de  "Tu Casa"
