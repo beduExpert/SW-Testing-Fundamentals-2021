@@ -3,7 +3,7 @@
 ## Objetivo
 
 * Analizar correctamente cada item de un plan de pruebas funcionales, como lo son: el alcance, la estrategia y los casos de prueba  a ejecutar.
-*Entender los tipos de bug y como es la forma correcta de reportarlos.
+* Entender los tipos de bug y como es la forma correcta de reportarlos.
 
 >**💡 Nota para experto(a)**
 > De la misma forma como aplicamos el plan de pruebas para la aplicación móvil en cuestión, aplica para cualquier tipo de software. Salvo que en algunas situaciones se puede omitir o aplicar algunos ítems.
@@ -11,7 +11,7 @@
 
 ## Desarrollo
 
- <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-01/assets/ejemplo3_1.png">
+ <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-01/assets/ejmplo_plan%20de%20pruebas1.png">
 
 ## Historia de usuario (Épica)
 -	Yo como usuario comprado de vivienda quiero empezar a buscar mi próxima propiedad desde mi dispositivo móvil. Tal búsqueda pueda seleccionar el país y la ciudad que deseo la propiedad, con la opción de seleccionar el tipo de vivienda “Apartamento o Casa”.
@@ -94,4 +94,4 @@ Etiqueta de México	La etiqueta de la pantalla para seleccionar el país de la p
 
 |Titulo| Descripción |Evidencia|Impacto|
 |:--------------|:-------------:|--------------:|
-| Etiqueta de México |  <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-01/assets/ejemplo3_1.png"> |La etiqueta de la pantalla para seleccionar el país de la propiedad, esta mal escrito. Le falta la tilde en la primera “é” |Bajo|
+| Etiqueta de México |   <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-07/Ejemplo-01/assets/ejmplo_plan%20de%20pruebas2.png"> |La etiqueta de la pantalla para seleccionar el país de la propiedad, esta mal escrito. Le falta la tilde en la primera “é” |Bajo|
