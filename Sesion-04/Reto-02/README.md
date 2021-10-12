@@ -1,15 +1,15 @@
-# Reto # - Nombre del reto
+# Reto 2 – Prueba de regresión
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+- Analizar todos los flujos del aplicativo, asegurando la calidad en todo el aplicativo.
+- Identificar los caminos más importantes del usuario
 
 ## Desarrollo
+Se requiere una prueba de regresión al siguiente aplicativo, teniendo en cuenta todos los posibles flujos del usuario final.
+Aplicativo: http://demo.testim.io/
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Reto-01/assets/reto1.png">
 
-Aquí se debe agregar eal desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
-
+Solucion:
+Se requiere entrega de evidencias de la pruebas de regresion en un archivo de texto en el carpeta solucion
