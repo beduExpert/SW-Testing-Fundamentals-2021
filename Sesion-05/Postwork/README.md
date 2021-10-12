@@ -30,11 +30,11 @@ Teniendo el siguiente escenario de negocio, ¿Cuál sería la mejor sugerencia?:
 
 "Equipo, tenemos que hacer unas pruebas que nos solicitó el cliente, al parecer la aplicación que estamos desarrollando debe funcionar en 4 navegadores web diferentes y en 2 sistemas operativos y en redes con distanta capacidad de velocidad de conexión además, debemos garantizar una cobertura de código del 85 % e indicar cuales combinaciones no fueron cubiertas"
 
+
 - a. Como tenemos conocimiento suficiente, podríamos iniciar un prueba de cobertura de sentencia, y cumplir lo solicitado.
 - b. Aplicar unas pruebas exploratorias, sería suficiente para cumplir con el porcentaje solicitado.
 - c. Probar solo en un navegador y suponer que si funciona bien, en todos estar igual.
 - D. Crear condiciones y combinaciones en una tabla de decisión con los navegadores y sistemas operativos, e iniciar investigación del código fuente para aplicar otras técnicas de caja blanca.
-
 
 ## Ejercicio 2
 
@@ -43,7 +43,7 @@ Elaborar la técnica que requiera conveniente para el siguiente enunciado:
 "El cliente requiere probar los siguientes requerimientos del aplicativo electoral"
 	- Ciudadanos aptos para votar teniendo en cuenta el criterio de la edad
 	- Ciudadanos aptos para votar solo si tiene el documento de identidad registrado en la ciudad o tiene un certificado de desplazamiento forzado
-
+### Solución
 Se requiere entrega en archivo de texto.
 
 ## Ejercicio 3
@@ -55,7 +55,7 @@ Condiciones:
 - Si el cliente tiene un ingreso de $2001 USD a $3500 USD, se le asignara una TDC PLATINO
 - Si el cliente tine un ingreso de $3001 USD ... n, se le asignara una TDC NEGRA.
 
-Solución:
+### Solución
 - Las particiones de equivalencia para valores validos y no validos
 
 Se requiere entrega en archivo de texto.
@@ -63,23 +63,23 @@ Se requiere entrega en archivo de texto.
 
 ## Ejercicio 3
 
+¿Cuál de los siguientess valores cubre más los valores límites?
+¿Cómo agruparía a las clases equivalentes ?
+
 Un algoritmo valida los siguientes campos numéricos:
 - Valores menotres que 40 son rechazados.
 - Valores entre 42 y 71 son acpetados.
 - Valores mayores o iguales a 92 son rechazados.
 
-¿Cuál de los siguientess valores cubre más los valores límites?
-¿Cómo agruparía a las clases equivalentes ?
-
+### Solución
 Se requiere entrega en archivo de texto.
 
 ## Ejercicio 4
 
 Describa los casos de uso que probaría, si le pidieran una prueba exploratoria de la siguiente pantalla.
 
-
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Postwork/simulador_credito.png">
-
+### Solución
 Se requiere entrega en archivo de texto.
 ## ✅ Checklist
 
@@ -87,10 +87,8 @@ Considera que tu proyecto debe cumplir con lo siguiente:
 
 | Requisito | Sí lo cumple | No lo cumple |
 | --- | --- | --- |
-| A. Tabla con 3 ambigüedades y/o defectos encontrados en el requerimiento del ejercicio 1a o 1b. Además un comentario u observación de cómo se podría mejorar por cada defecto o ambigüedad. |  |  |
-| B. Código del programa correspondiente a la solución del ejercicio 1a o 1b. |  |  |
-| C. Video menor a 1 min  que compruebe el funcionamiento del programa del punto anterior (en blockly). |  |  |
-| D. Tabla con al menos 3 comentarios o defectos encontrados por el mismo autor. |  |  |
-| E. Imagen del programa original pedido a otro integrante. |  |  |
-| F. Tabla con al menos 3 defectos encontrados por diferente autor. |  |  |
-| G. Imágenes (capturas de pantalla) con evidencias de los defectos del punto anterior. |  |  |
+|Teniendo el siguiente escenario de negocio, ¿Cuál sería la mejor sugerencia?: | ⬜  | ⬜  |
+|Elaborar la técnica que requiera conveniente para el siguiente enunciado: | ⬜  | ⬜  |
+| ¿Cuál de los siguientess valores cubre más los valores límites?
+¿Cómo agruparía a las clases equivalentes ? |  ⬜ | ⬜  |
+| Describa los casos de uso que probaría, si le pidieran una prueba exploratoria de la siguiente pantalla.|  ⬜ |  ⬜ |
