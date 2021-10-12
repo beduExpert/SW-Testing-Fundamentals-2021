@@ -21,11 +21,11 @@ Agregar buenas prácticas en caso de que la sesión lo requierea, de no ser así
 
 Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea una vez se hay leido)
 
-- [Ejemplo 01:  Pruebas Funcionales](./Ejemplo-01/README.md)
-    - [Reto 01: Prueba funcional a una tienda virtual](./Reto-01/README.md)
-- [Ejemplo 02: Prueba de regresion](./Ejemplo-02/README.md)
-    - [Reto  02: Prueba de regresion a una tienda virtual](./Reto-02/README.md)
+- [Ejemplo 01: Pruebas funcionales a una Tienda virtual ](./Ejemplo-01/README.md)
+    - [Reto 01: Reserva de viajes espaciales](./Reto-01/README.md)
+- [Ejemplo 02: Prueba de regresion a una tienda virtual](./Ejemplo-02/README.md)
+    - [Reto  02: Reserva de viajes espaciales](./Reto-02/README.md)
 - [Ejemplo 03: Ejecucion de script de Jmeter Basico](./Ejemplo-03/README.md)
-    - [Reto 03: Analizar resultados de un script basico de Jmeter](./Reto-03/README.md)
+    - [Reto 03: Ejecucion de Scrip de Jmeter](./Reto-03/README.md)
 - [Postwork: Nombre del postwork](./Postwork/README.md)
 
