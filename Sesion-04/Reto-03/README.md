@@ -1,15 +1,19 @@
-# Reto # - Nombre del reto
+# Reto 3 – Ejecución Script Jmeter
 
 ## Objetivo
-
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+•	Conocer el aplicativo más popular de pruebas no funcionales.
+•	Ejecutar script básico de pruebas no funcionales
 
 ## Desarrollo
 
 >**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
+>  La comunidad JMeter es relativamente completa y proporciona un rico soporte de protocolo. Por ejemplo, además de admitir el protocolo HTTP común, también puede conectarse directamente a la base de datos a través de JDBC Sampler, almacenar los resultados de prueba deseados en la base de datos y verificar directamente los resultados de la prueba.
 
-Aquí se debe agregar eal desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
+### Practica de uso de jmeter de manera local:
+-	Descargar e instalar el jmeter.
+-	Descargar el archivo “Reto_script.jmx” ubicado esta carpeta
+-	Abrir desde jmeter el script
+-	Ejecutar el script y tomar evidencias de los resultados
 
+## Solucion:
+Se requiere entrega de evidencias de las pruebas no funcionales en un archivo de texto en el carpeta solucion
