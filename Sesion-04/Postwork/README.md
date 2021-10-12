@@ -1,4 +1,4 @@
-# Postwork 1: Tipos de testing
+# Postwork 4: Tipos de testing
 
 🎯 Objetivos
 
@@ -17,7 +17,6 @@ En esta sesión se revisaron distintos tipos de pruebas clasificadas en 4 catego
 - Los siguientes ejercicios serán parte de los entregables del Checkpoint. No dudes en contactar al Experto (a) por Slack si tienes dudas o necesitas retroalimentación. 
 - Lee detenidamente las preguntas planteadas y elige la respuesta correcta.
 - Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.
-
 
 
 # Ejercicio 1
