@@ -1,4 +1,4 @@
-# Reto 1 – El juego de los números
+# Reto 1 – Reserva de viajes espaciales
 Objetivo
 *	Analizar los posibles pasos para ejecutar una correcta prueba funcional
 *	Comprender el requisito funcional de la característica a probar
