@@ -92,5 +92,5 @@ Considera que tu proyecto debe cumplir con lo siguiente:
 | --- | --- | --- |
 |Teniendo el siguiente escenario de negocio, ¿Cuál sería la mejor sugerencia?: | ⬜  | ⬜  |
 |Elaborar la técnica que requiera conveniente para el siguiente enunciado: | ⬜  | ⬜  |
-| ¿Cuál de los siguientess valores cubre más los valores límites? ¿Cómo agruparía a las clases equivalentes ? |  ⬜ | ⬜  |
+| ¿Cuál de los siguientess valores cubre más los valores límites? ¿Cómo agruparía a las clases equivalentes? |  ⬜ | ⬜  |
 | Describa los casos de uso que probaría, si le pidieran una prueba exploratoria de la siguiente pantalla.|  ⬜ |  ⬜ |
