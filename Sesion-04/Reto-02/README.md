@@ -11,5 +11,5 @@ Aplicativo: http://demo.testim.io/
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Reto-01/assets/reto1.png">
 
-Solucion:
+## Solucion:
 Se requiere entrega de evidencias de la pruebas de regresion en un archivo de texto en el carpeta solucion
