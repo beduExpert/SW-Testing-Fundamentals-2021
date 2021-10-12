@@ -1,4 +1,4 @@
-# Postwork 1: Testing Estático
+# Postwork 6: Testing Estático
 🎯 Objetivos
 
 -	Tener las capacidades para realizar técnicas estáticas en cualquier producto de software
@@ -58,4 +58,17 @@ Descargar el siguiente repositorio, [RobotRetos](./) descomprimir él .ZIP  y ab
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-06/Postwork/assets/postwork_6.png">
 Analice el código fuente, usando el IDEA  como ayuda para identificar código muerto o inalcanzable, y en un editor de texto pegar los pantallazos donde se evidencie dichas líneas de código.
 
+## ✅ Checklist
 
+Considera que tu proyecto debe cumplir con lo siguiente:
+
+| Requisito | Sí lo cumple | No lo cumple |
+| --- | --- | --- |
+|Lista de comprobación para requisitos, diseño y código fuente. Utilizando la siguiente información.| ⬜  | ⬜  |
+|Listas de comprobación basadas en roles: Administrador, comercial, cliente final.| ⬜  | ⬜  |
+|Listas de comprobación basada en perspectiva: Del diseñador, dueño del producto y probador.|  ⬜ | ⬜  |
+|Establecer estrategia de prueba para la funcionalidad “Buscador de propiedades.|  ⬜ |  ⬜ |
+|Establecer estrategia de prueba teniendo en cuenta la experiencia de usuario.| ⬜  | ⬜  |
+|Establecer estrategia de prueba para el requisito funcional “Foto de 400 x 500 px por vivienda” ⬜  | ⬜  |
+|Establecer estrategia de prueba para el requisito funciona “Ficha técnica con información actualizada y completa de cada vivienda.”|  ⬜ | ⬜  |
+|Capturas de pantalla donde se evidencian las líneas de código muerto o inalcanzable.|  ⬜ |  ⬜ |
