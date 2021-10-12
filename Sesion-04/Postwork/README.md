@@ -57,7 +57,8 @@ Cada una de las versiones de este juego tiene al menos un defecto. Por lo que pa
 # Ejercicio 3
 
 Para el último ejercicio se utilizará la herramienta de jMeter para realizar pruebas en la página Demoblaze (https://www.demoblaze.com/index.html). 
-El objetivo es simular la petición de 10, 100 y 1000 usuarios, y reportar los siguientes datos en la tabla de abajo.
+
+> El objetivo es simular la petición de 10, 100 y 1000 usuarios, y reportar los siguientes datos en la tabla de abajo.
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Postwork/assets/post7.png">
 
