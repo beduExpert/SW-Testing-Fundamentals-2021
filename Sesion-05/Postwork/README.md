@@ -74,13 +74,16 @@ Un algoritmo valida los siguientes campos numéricos:
 ### Solución
 Se requiere entrega en archivo de texto.
 
-## Ejercicio 4
+### Ejercicio 4
 
 Describa los casos de uso que probaría, si le pidieran una prueba exploratoria de la siguiente pantalla.
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-05/Postwork/simulador_credito.png">
+
 ### Solución
+
 Se requiere entrega en archivo de texto.
+
 ## ✅ Checklist
 
 Considera que tu proyecto debe cumplir con lo siguiente:
