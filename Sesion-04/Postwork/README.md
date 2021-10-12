@@ -69,4 +69,6 @@ Para el último ejercicio se utilizará la herramienta de jMeter para realizar p
 
 | Requisito|Sí lo cumple|No lo cumple |
 |:--------------|:-------------:|--------------:|
-| Tabla con 3 especificaciones funcionales y 3 no funcionales de las tres funcionalidades propuestas de la página (18 especificaciones en total). |- [ ] | - [ ]  |
+| Tabla con 3 especificaciones funcionales y 3 no funcionales de las tres funcionalidades propuestas de la página (18 especificaciones en total). |- [ ]|- [ ] |}
+| Tabla con al menos una propuesta de causa raíz  de los defectos encontrados para al menos 8 versiones de la aplicación propuesta. |- [ ]|- [ ] |
+| Tabla con los resultados obtenidos al ejecutar la herramienta Jmeter con 10, 100 y 1000 peticiones.. |- [ ]|- [ ] |
