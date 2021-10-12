@@ -22,7 +22,7 @@ Pro-tips: “Las 12 mejores herramientas de revisión de código para desarrolla
 - [Ejemplo 02: Lista de Comprobaciones](./Ejemplo-02/README.md)
     - [Reto 01: Lista de Comprobaciones](./Reto-01/README.md)
 - [Ejemplo 03: Analisis de codigo](./Ejemplo-03/README.md)
-    - [Reto 03: Analizar una clase de java usando Intellij IDEA](./Reto-03/README.md)
+    - [Reto 02: Analizar una clase de java usando Intellij IDEA](./Reto-03/README.md)
 - [Postwork: Técnicas estáticas](./Postwork/README.md)
 
 
