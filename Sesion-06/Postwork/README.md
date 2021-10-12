@@ -69,6 +69,6 @@ Considera que tu proyecto debe cumplir con lo siguiente:
 |Listas de comprobación basada en perspectiva: Del diseñador, dueño del producto y probador.|  ⬜ | ⬜  |
 |Establecer estrategia de prueba para la funcionalidad “Buscador de propiedades.|  ⬜ |  ⬜ |
 |Establecer estrategia de prueba teniendo en cuenta la experiencia de usuario.| ⬜  | ⬜  |
-|Establecer estrategia de prueba para el requisito funcional “Foto de 400 x 500 px por vivienda” ⬜  | ⬜  |
+|Establecer estrategia de prueba para el requisito funcional “Foto de 400 x 500 px por vivienda”| ⬜  | ⬜  |
 |Establecer estrategia de prueba para el requisito funciona “Ficha técnica con información actualizada y completa de cada vivienda.”|  ⬜ | ⬜  |
 |Capturas de pantalla donde se evidencian las líneas de código muerto o inalcanzable.|  ⬜ |  ⬜ |
