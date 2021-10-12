@@ -7,7 +7,8 @@
 
 ## Desarrollo
 Se requiere una prueba de regresión al siguiente aplicativo, teniendo en cuenta todos los posibles flujos del usuario final.
-Aplicativo: http://demo.testim.io/
+
+> Aplicativo: http://demo.testim.io/
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Reto-01/assets/reto1.png">
 
