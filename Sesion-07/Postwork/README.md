@@ -1,4 +1,4 @@
-# Postwork 1: Herramientas usadas en el software testing
+# Postwork 7: Herramientas usadas en el software testing
 
 🎯 Objetivos
 
@@ -24,9 +24,9 @@ Elaborar un plan de pruebas teniendo en cuenta los siguiente items:
 - Alcance
 - Estrategia
 - Matriz de riesgo
-- Casos de prueba
+- Casos de pruebas
 - Eviencia de bug
-- Suposiciones
+- Suposiciones y restrincciones
 
 # Ejercicio 2
 
@@ -35,4 +35,20 @@ Utilizando la herramienta de Azure Devops, hacer:
 - Casos de prueba
 - Ejecucion de pruebas
 
+
+
+
+## ✅ Checklist
+
+Considera que tu proyecto debe cumplir con lo siguiente:
+
+| Requisito | Sí lo cumple | No lo cumple |
+| --- | --- | --- |
+|Elaborar el alcance de un proceso de pruebas| ⬜  | ⬜  |
+|Elaborar la estrategia de pruebas| ⬜  | ⬜  |
+|Analizar y diseñar una matriz de riesgos|  ⬜ | ⬜  |
+|Enumerar una lista de casos de pruebas|  ⬜ |  ⬜ |
+|Registrar evidencias de bugs|  ⬜ |  ⬜ |
+|Establecer suposiciones y restrincciones|  ⬜ |  ⬜ |
+|Gestionar correctamente la plataforma de Azure Devops para ingresar Historias de usuario, casos de prueba y la ejecucion de cada escenario|  ⬜ |  ⬜ |
 
