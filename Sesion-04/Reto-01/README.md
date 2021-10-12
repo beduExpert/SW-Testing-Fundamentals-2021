@@ -1,15 +1,19 @@
-# Reto # - Nombre del reto
-
-## Objetivo
-
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
-
+# Reto 1 – El juego de los números
+Objetivo
+*	Analizar los posibles pasos para ejecutar una correcta prueba funcional
+*	Comprender el requisito funcional de la característica a probar
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
+### Aplicativo: http://demo.testim.io/
 
-Aquí se debe agregar el desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
+Requisito funcional:  Se requiere poner en producción el nuevo filtro para buscar viajes disponibles, con los siguientes parámetros:
+
+-	Departing (Calendario)
+-	Returnig(Calendario)
+-	Adults (Caja de listas)
+-	Childern(Caja de listas)
+
+<img src=" https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Ejemplo-03/assets/ejemplo3_6.png ">
+## Solucion:
+Se requiere entrega de evidencias de las pruebas funcionales en un archivo de texto en el carpeta solucion
 
