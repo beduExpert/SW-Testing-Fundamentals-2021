@@ -1,8 +1,8 @@
 # Reto 3 – Ejecución Script Jmeter
 
 ## Objetivo
-•	Conocer el aplicativo más popular de pruebas no funcionales.
-•	Ejecutar script básico de pruebas no funcionales
+- Conocer el aplicativo más popular de pruebas no funcionales.
+- Ejecutar script básico de pruebas no funcionales
 
 ## Desarrollo
 
