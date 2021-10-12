@@ -14,6 +14,7 @@ Requisito funcional:  Se requiere poner en producción el nuevo filtro para busc
 -	Childern(Caja de listas)
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Reto-01/assets/reto1.png">
+
 ## Solucion:
 Se requiere entrega de evidencias de las pruebas funcionales en un archivo de texto en el carpeta solucion
 
