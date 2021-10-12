@@ -64,8 +64,9 @@ Para el último ejercicio se utilizará la herramienta de jMeter para realizar p
 
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-04/Postwork/assets/post8.png">
 
-#✅CheckList
+# ✅CheckList
 
-| Requisito| Sí lo cumple | No lo cumple |
+
+| Requisito|Sí lo cumple|No lo cumple |
 |:--------------|:-------------:|--------------:|
-| Tabla con 3 especificaciones funcionales y 3 no funcionales de las tres funcionalidades propuestas de la página (18 especificaciones en total). | [ ] |[ ]  |
+| Tabla con 3 especificaciones funcionales y 3 no funcionales de las tres funcionalidades propuestas de la página (18 especificaciones en total). |- [ ] | - [ ]  |
