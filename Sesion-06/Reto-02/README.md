@@ -1,4 +1,4 @@
-# Reto # 3 – Analizar clase de JAVA usando Intellij IDEA 
+# Reto # 2 – Analizar clase de JAVA usando Intellij IDEA 
 
 ## Objetivo
 
