@@ -1,4 +1,4 @@
-# Ejemplo # - Nombre del ejemplo
+# Ejemplo 2 - Selenium IDE
 
 ## Objetivo
 
