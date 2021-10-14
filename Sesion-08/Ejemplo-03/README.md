@@ -1,4 +1,4 @@
-# Ejemplo 2 - Selenium IDE
+# Ejemplo 3 - PlayWrith
 
 ## Objetivo
 
