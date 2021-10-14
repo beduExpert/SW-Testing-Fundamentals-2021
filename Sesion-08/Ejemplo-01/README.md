@@ -1,4 +1,4 @@
-# Ejemplo 1 - Selenium IDE
+# Ejemplo 1 - Api testing con postman
 
 ## Objetivo
 
