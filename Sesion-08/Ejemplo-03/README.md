@@ -76,13 +76,14 @@ Finalmente Tambien Podemos usar todos los navegadores en una sola linea
 npx playwright test --browser=all
 ```
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo8.png">
+
 
 ### Grabar commandos
 ```
 npx playwright codegen https://blazedemo.com/index.php
 ```
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo9.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo8.png">
+
 
 > Codigo generado
 
@@ -132,3 +133,5 @@ test('Ejemplo usando codegen  ', async ({ page }) => {
   
 
 ```
+
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo9.png">
