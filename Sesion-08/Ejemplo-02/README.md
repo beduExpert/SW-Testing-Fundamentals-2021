@@ -32,9 +32,8 @@
 <img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-02/assets/ejemplo5png">
 
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-02/assets/ejemplo6.png">
+
 > Después de ejecutar la prueba
 
-
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-02/assets/ejemplo7.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-02/assets/ejemplo6.png">
 
