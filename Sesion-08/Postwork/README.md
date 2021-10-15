@@ -1,9 +1,12 @@
-# Postwork 8: Herramientas usadas en el software testing
+# Postwork 7: Herramientas usadas en el software testing
 
 🎯 Objetivos
 
 -	Analizar logica del negocio, e identificar los casos de pruebas ideales para cubrir las pruebas funcionales
 -	Uso correcto de la plataforma de gestion de pruebas
+
+⚙ Desarrollo
+
 
 
 🗒️ Instrucciones
@@ -13,18 +16,27 @@
 - Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.
 - Los archivos de texto con las soluciones se deben de publica, [aquí](./Solucion)
 
-⚙ Desarrollo
 
 # Ejercicio 1
-Realizar Crud a la siguiente apis, usando postman
+
+Elaborar un plan de pruebas teniendo en cuenta los siguiente items:
+
+- Alcance
+- Estrategia
+- Matriz de riesgo
+- Casos de pruebas
+- Eviencia de bug
+- Suposiciones y restrincciones
 
 # Ejercicio 2
 
-Selenium IDE
+Utilizando la herramienta de Azure Devops, hacer:
+- Historias de usuario
+- Casos de prueba
+- Ejecucion de pruebas
 
-# Ejercicio 3
 
-PLAYWRITH
+
 
 ## ✅ Checklist
 
