@@ -1,15 +1,70 @@
-# Ejemplo 3 - PlayWrith
+# Ejemplo 3 – Primer Script PlayWright
 
 ## Objetivo
 
-* Agregar los objetivos del ejemplo (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Conocer una herramienta de automatización de pruebas web y apis rest, usando código JS
+* Ejecutar un escenario de pruebas en varios navegadores
 
 ## Desarrollo
 
 >**💡 Nota para experto(a)**
 >
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el ejemplo.
->Si no es necesario, puedes borrar esta nota.
+> Este lenguaje se puede realizar pruebas usando TypeScript o JavaScript.
+>PlayWright tiene soporte directamente de Microsoft
 
-Aquí se debe agregar el desarrollo del ejemplo
+### Instalacion 
+
+>npm i -D @playwright/test
+<img>
+>npx playwright install
+<img>
+
+### Creación de archivos
+>Crear el test /foo.spec.js (o tests/foo.spec.ts para TypeScript) en la carpeta test de tu proyecto.
+<img>
+
+>Agregar el siguiente código, para JS
+
+
+
+
+const { test, expect } = require('@playwright/test');
+
+test('Ejemplo 3_sesion 8_ BEDU', async ({ page }) => {
+  await page.goto('https://playwright.dev/');
+  const title = page.locator('.navbar__inner .navbar__title');
+  await expect(title).toHaveText('Playwright');
+});
+
+
+<IMG>
+### Ejecuciones
+Ejecutar las pruebas que estan guardadas en la carpeta “test”
+
+>npx playwright test
+
+<img>
+
+Playwright permite ejecutar la prueba usando Chromium browser
+
+npx playwright test –headed
+
+<img>
+
+Podemos usar un navegador especifico con la siguiente linea
+npx playwright test --browser=firefox
+<img>
+
+Finalmente Tambien Podemos usar todos los navegadores en una sola linea
+>npx playwright test --browser=all
+<img>
+
+### Grabar commandos
+>npx playwright codegen https://blazedemo.com/index.php
+
+Codigo generado
+
+>
+Code 
+ <img>
 
