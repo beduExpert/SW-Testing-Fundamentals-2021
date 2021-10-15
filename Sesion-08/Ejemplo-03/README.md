@@ -43,8 +43,6 @@ test('Ejemplo 3_sesion 8_ BEDU', async ({ page }) => {
 });
 ```
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo4.png">
-
 ### Ejecuciones
 
 > Ejecutar las pruebas que estan guardadas en la carpeta “test”
@@ -52,15 +50,17 @@ test('Ejemplo 3_sesion 8_ BEDU', async ({ page }) => {
 ```
 npx playwright test
 ```
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo5.png">
+
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo4.png">
+
+
 
 > Playwright permite ejecutar la prueba usando Chromium browser
 
 ```
 npx playwright test –headed
 ```
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo6.png">
-
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo5.png">
 
 > Podemos usar un navegador especifico con la siguiente linea
 
@@ -68,7 +68,7 @@ npx playwright test –headed
 npx playwright test --browser=firefox
 ```
 
-<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo7.png">
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo6.png">
 
 Finalmente Tambien Podemos usar todos los navegadores en una sola linea
 
@@ -76,7 +76,7 @@ Finalmente Tambien Podemos usar todos los navegadores en una sola linea
 npx playwright test --browser=all
 ```
 
-
+<img src="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/blob/main/Sesion-08/Ejemplo-03/assets/ejemplo7.png">
 
 ### Grabar commandos
 ```
