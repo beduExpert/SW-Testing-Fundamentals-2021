@@ -1,15 +1,23 @@
-# Ejemplo 2 - Selenium IDE
+# Ejemplo 2 – Uso de Selenium IDE
 
 ## Objetivo
 
-* Agregar los objetivos del ejemplo (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+*  Interactura con la herramienta de selenium idea
+* Realizar pruebas automatizadas usando selenium idea
+* Identificar los comandos de selenium para navegar en la web
 
 ## Desarrollo
 
 >**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el ejemplo.
->Si no es necesario, puedes borrar esta nota.
+>Selenium IDEA, es un forma rápida y practica de automatizar. Pero no es la ideal para un proyecto que tenga la visión de realizar CI/CD
+>El archivo de la grabación SELENIUM IDEA queda en la carpeta del ejemplo
 
-Aquí se debe agregar el desarrollo del ejemplo
+### Instalacion
+<img>
+### URL: https://demoqa.com/
+<IMG>
+>Hacer click en la extensión para iniciar la grabación
+<img> 3-6
+>Después de ejecutar la prueba
+Img 7
 
