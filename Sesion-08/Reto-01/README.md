@@ -6,12 +6,9 @@
 *  Identificar y explorar elementos de POSTMAN.
 
 ## Desarrollo
+
 Usando postman, realizar la siguiente Api testing:
 -	Base Url:https://jsonplaceholder.typicode.com/
 -	Probar los 4 metodos HTTP de un CRUD de "ROUTES"
-  -- Crear
-  -- Leer
-  -- Actualizar
-  -- Eliminar
 -	Exportar el archivo y publicarlo aqui
 
