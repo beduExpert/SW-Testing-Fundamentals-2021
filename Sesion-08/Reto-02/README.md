@@ -1,15 +1,13 @@
-# Reto # - Nombre del reto
+# Reto 2 – Automatizar Web de Bedu
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+*  Utilizar correctamente la extensión SELENIUM IDE
+*  Practicar los comandos de selenium, al momento de realizar una automatización web básica.
 
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
-
-Aquí se debe agregar eal desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
-
+Usando SELENIUM IDE,  realizar la siguiente grabación de pasos.
+-	Web a probar: https://bedu.org/
+-	Realizar la grabación, ejecutando un escenario de pruebas para agendar una clase de muestra
+-	Exportar el archivo y publicarlo <a href="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/tree/main/Sesion-08/Reto-02/Solucion"> aquí</a>
