@@ -10,7 +10,6 @@
 
 >**💡 Nota para experto(a)**
 >Selenium IDEA, es un forma rápida y practica de automatizar. Pero no es la ideal para un proyecto que tenga la visión de realizar CI/CD
->El archivo de la grabación SELENIUM IDEA queda en la carpeta del ejemplo
 
 ### Instalacion
 
