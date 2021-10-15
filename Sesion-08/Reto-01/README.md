@@ -1,15 +1,17 @@
-# Reto # - Nombre del reto
+# Reto 1 - Probar un CRUD de API REST
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+*  Aplicar conocimientos sobre Api Rest
+*  Identificar y explorar elementos de POSTMAN.
 
 ## Desarrollo
-
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
-
-Aquí se debe agregar el desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
+Usando postman, realizar la siguiente Api testing:
+-	Base Url:
+-	Probar los 4 metodos HTTP de un CRUD 
+o	Crear
+o	Leer
+o	Actualizar
+o	Eliminar
+-	Exportar el archivo y publicarlo aqui
 
