@@ -14,7 +14,7 @@
 #### Lenguaje de código.
 - Node js
 #### Editor de código.
--Visual Studio Code 
+- Visual Studio Code 
 #### Navegador Web
 - Chrome
 
