@@ -18,7 +18,7 @@
 
 Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea una vez se hay leido)
 
-- [Ejemplo 01:  Pruebas de APIS usando POSTMAN](./Ejemplo-01/README.md)
+- [Ejemplo 01:   Api testing con postman](./Ejemplo-01/README.md)
     - [Reto 01: Probar un CRUD de API REST](./Reto-01/README.md)
 - [Ejemplo 02: Uso de selnium IDE](./Ejemplo-02/README.md)
    - [Reto  02: Automizar la web de BEDU](./Reto-02/README.md)
