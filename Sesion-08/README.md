@@ -24,7 +24,7 @@ Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea un
    - [Reto  02: Grabar con selenium IDE el sitio web de Bedu](./Reto-02/README.md)
 - [Ejemplo 03: Primer Script de Playwright](./Ejemplo-02/README.md)
     - [Reto 03: Automatizacion usando JS con el Framework PlayWright](./Reto-03/README.md)
-- [Postwork: Nombre del postwork](./Postwork/README.md)
+- [Postwork: Herramientas basicas de automatizacion de pruebas](./Postwork/README.md)
 
 
 
