@@ -10,7 +10,7 @@
 - Crear una cuenta en https://trello.com/signup
 - Iniciar sesión
 
-⚙️ Setup
+## ⚙️ Setup
 #### Lenguaje de código.
 - Node js
 #### Editor de código.
