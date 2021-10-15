@@ -1,33 +1,29 @@
 
-# Sesión #: Nombre de la sesión
+# Sesión 8: Herramientas usadas en el software testing.
 
 ## :dart: Objetivos
 
-Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
+- Identificar las herramientas mas populares para ejecutar pruebas funcionales y no funcionales
+- Conocer playwrith como framework de automatizacion
+- Aplicar conocimientos de pruebas en APIS.
 
 ## ⚙ Requisitos
 
-+ Agregar los requisitos de la sesión 
-+ Agregar el link de descarga en caso de ser necesario para la sesión (Borrar estás lineas una vez se hayan leido)
++ Node js
++ Chrome
 
-## 🎩 Buenas prácticas
-
-Agregar buenas prácticas en caso de que la sesión lo requierea, de no ser así borrar está intrucción una vez se haya leido.
 
 ## 📂 Organización de la clase
 
 Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea una vez se hay leido)
 
-- [Ejemplo 01:  Nombre del ejemplo](./Ejemplo-01/README.md)
-    - [Reto 01: Nombre del reto 01](./Reto-01/README.md)
-- [Ejemplo 02: Nombre del ejemplo 02](./Ejemplo-02/README.md)
-   - [Reto  02: Nombre del reto 02](./Reto-02/README.md)
-- [Ejemplo 03: Nombre del ejemplo 02](./Ejemplo-02/README.md)
-    - [Reto 03: Nombre del reto 03](./Reto-03/README.md)
+- [Ejemplo 01:  Pruebas de APIS usando POSTMAN](./Ejemplo-01/README.md)
+    - [Reto 01: Probar un CRUD de API REST](./Reto-01/README.md)
+- [Ejemplo 02: Uso de selnium IDE](./Ejemplo-02/README.md)
+   - [Reto  02:Automizar la web de BEDU](./Reto-02/README.md)
+- [Ejemplo 03: Primer Script de Playwright](./Ejemplo-02/README.md)
+    - [Reto 03: Aumatizacion usando JS](./Reto-03/README.md)
 - [Postwork: Nombre del postwork](./Postwork/README.md)
 
 
