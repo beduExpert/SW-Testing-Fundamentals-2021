@@ -2,14 +2,24 @@
 
 ## Objetivo
 
-* Agregar los objetivos del ejemplo (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+* Conocer la herramienta para hacer pruebas manuales en Apis
+* Aplicar prueba en los diferente métodos http
 
 ## Desarrollo
 
 >**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el ejemplo.
->Si no es necesario, puedes borrar esta nota.
+> Usando postman, es muy fácil exporta o importar cualquier colección de servicios
 
-Aquí se debe agregar el desarrollo del ejemplo
-
+### Descarga e instalación
+<img>
+>La insalacion, es muy simple como cualquier programe en Windows.
+<img>
+### Pruebas apis, usando la siguiente base url : https://reqres.in/
+>Después de crear una nueva colección, vamos a crear una carpeta “CRUD de usuario”
+<img>
+>Después se crean las peticiones de cada método
+<IMG>
+>Se ejecuta cada método del crud 
+<IMG>4-7
+>Se importar/exportar la colección
+<img>8-9
