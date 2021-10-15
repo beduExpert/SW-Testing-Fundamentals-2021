@@ -1,29 +1,28 @@
 # Postwork 8: Herramientas basicas de automatizacion de pruebas
 
-🎯 Objetivos
+ ## 🎯 Objetivos
 
 - Utilizar  las herramientas más populares para ejecutar pruebas funcionales
 - Desarrollar y ejecutar un script básico, usando JS o TS en Playwright como framework de automatización
 - Usar Postman para diseñar y ejecutar pruebas manuales de APIS.
 
-Antes de empezar
-
+ ## Antes de empezar
 - Crear una cuenta en https://trello.com/signup
 - Iniciar sesión
 
 ⚙️ Setup
-### Lenguaje de código.
+#### Lenguaje de código.
 - Node js
-### Editor de código.
+#### Editor de código.
 -Visual Studio Code 
-### Navegador Web
+#### Navegador Web
 - Chrome
 
-⚙ Desarrollo
+ ## ⚙ Desarrollo
 
 
 
-🗒️ Instrucciones
+ ## 🗒️ Instrucciones
 
 - Los siguientes ejercicios serán parte de los entregables del Checkpoint. No dudes en contactar al Experto (a) por Slack si tienes dudas o necesitas retroalimentación.
 - Lee detenidamente las preguntas planteadas y practica tu intuición de tester.
@@ -31,7 +30,7 @@ Antes de empezar
 - Los entregables con las soluciones se deben de publicar, [aquí](./Solucion)
 
 
-# Ejercicio 1
+## Ejercicio 1
 
 
 Trello es un software de administración de proyectos con interfaz web y con cliente para iOS y android para organizar proyectos.​
