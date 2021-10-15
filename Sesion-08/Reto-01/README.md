@@ -7,8 +7,8 @@
 
 ## Desarrollo
 Usando postman, realizar la siguiente Api testing:
--	Base Url:
--	Probar los 4 metodos HTTP de un CRUD 
+-	Base Url:https://jsonplaceholder.typicode.com/
+-	Probar los 4 metodos HTTP de un CRUD de "ROUTES"
 o	Crear
 o	Leer
 o	Actualizar
