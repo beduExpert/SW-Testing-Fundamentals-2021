@@ -1,15 +1,13 @@
-# Reto 3 - Automatizacion usando JS con el Framework PlayWright
+# Reto 3 - Automatización usando JS con el Framework PlayWright
 
 ## Objetivo
 
-* Agregar los objetivos del reto (Mínimo agregar 2 objetivos y Borrar está linea una vez se hay leido)
+*  Usar código de programación para realizar una primera automatización
+* Ejecutar escenario de pruebas en varios navegadores web
 
 ## Desarrollo
 
->**💡 Nota para experto(a)**
->
-> Este es un ejemplo por si el experto necesita tener en cuenta un punto clave durante el reto.
->Si no es necesario, puedes borrar esta nota.
-
-Aquí se debe agregar eal desarrollo del reto, **NO** olvides poner el resultado del ejercicio propuesto para el feedback de los alumnos
-
+Usando el framework PlayWright,  desarrollar y ejecutar  un escenario de pruebas con los siguientes requisitos
+-	Web a probar: https://bedu.org/
+-	Escenario de pruebas para agendar una clase de muestra
+-	Comprimir el proyecto ZIP y publicarlo <a href="https://github.com/beduExpert/SW-Testing-Fundamentals-2021/tree/main/Sesion-08/Reto-03/Solucion"> aquí</a>
