@@ -23,6 +23,8 @@ Los factores de elección de una técnica de prueba que se van a utilizar depend
 - Lee detenidamente las preguntas planteadas y practica tu ituicion de tester.
 - Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.
 - Los archivos de texto con las soluciones las deben de subir - [aqui](./)
+- Este Postwork consiste en validar los conocimientos adquiridos a lo largo de la sesión sobre las diferentes técnicas de pruebas. Recuerda que todos los postworks formarán parte de tu entregable dentro de un portafolio de evidencias, para validar tu aprendizaje del módulo.
+A continuación mostramos los ejercicios a realizar:
 
 ## Ejercicio 1
 
