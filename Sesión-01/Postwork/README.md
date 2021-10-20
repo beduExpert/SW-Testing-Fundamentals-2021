@@ -18,6 +18,7 @@ A lo largo de la sesión has podido entender los conceptos fundamentales, los 7 
 - Los siguientes ejercicios serán parte de los entregables del Checkpoint. No dudes en contactar al Experto (a) por Slack si tienes dudas o necesitas retroalimentación. 
 - Lee detenidamente las preguntas planteadas y elige la respuesta correcta.
 - Recuerda que el propósito de la actividad es reforzar tus conocimientos y poner a prueba lo aprendido.
+- Los postwork de la sesión 01 a la 08 se entregarán como un portafolio de evidencias, por lo que es importante que realices las actividades propuestas al término de cada una de las sesiones.
 
 ## Ejercicio 1
 
