@@ -2,11 +2,11 @@
 
 ## Objetivo
 
-Diseñar pruebas unitarias y desarrollar código utilizando el efoque de programación de desarrollo conducido por pruebas.
+Diseñar pruebas unitarias y desarrollar código utilizando el enfoque de programación de desarrollo conducido por pruebas.
 
 ## Desarrollo
 
-En el ejemplo anterior diseñamos algunas de los casos de prueba y desarrollamos el código necesario para poder cubrirlos, en este reto debes terminar de diseñar los casos de prueba faltantes, así como el código para poder cubrirlos.
+En el ejemplo anterior, se diseñaron algunos de los casos de prueba y desarrollamos el código necesario para poder cubrirlos, en este reto debes terminar de diseñar los casos de prueba faltantes, así como el código para poder cubrirlos.
 
 Este es el código hasta el momento:
 
