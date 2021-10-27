@@ -1,4 +1,4 @@
-# Reto #1  - Tecnias de Caja Blanca
+# Reto #2  - Tecnias de Caja Blanca
 
 ## Objetivo
 
