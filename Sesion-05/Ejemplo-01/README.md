@@ -3,7 +3,7 @@
 ## Objetivo
 
 * Identificar todas las combinaciones importantes de las condiciones
-* Elegir correctamente las condiciones y acciones, valores que se usaran en la toma de decision del metodo.
+* Elegir correctamente las condiciones, acciones y valores que se usaran en la toma de decision del metodo.
 
 ## Desarrollo
 
