@@ -7,7 +7,7 @@ Reconocer la diferencia entre un requerimiento tradicional contra una historia d
 ## Desarrollo
 
 Dada la siguiente especificación:
-"Una panadería desea implementar una aplicación que al recibir el nombre y cantidad de 3 productos, muestre por pantalla en forma de lista el nombre de los productos, cantidades, precios unitarios y precios totales con 2 decimales. Ecribir al menos 3 historias de usuario desde el punto de vista de un desarrollador de esta especificación."
+"Una panadería desea implementar una aplicación que al recibir el nombre y cantidad de 3 productos, muestre por pantalla en forma de lista el nombre de los productos, cantidades, precios unitarios y precios totales con 2 decimales. Escribir al menos 3 historias de usuario desde el punto de vista de un desarrollador de esta especificación."
 
 Los productos disponibles y sus precios son:
 | Producto | Precio |
