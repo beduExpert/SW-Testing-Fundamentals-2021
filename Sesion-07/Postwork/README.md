@@ -3,7 +3,7 @@
 🎯 Objetivos
 
 -	Analizar logica del negocio, e identificar los casos de pruebas ideales para cubrir las pruebas funcionales
--	Uso correcto de la plataforma de gestion de pruebas
+-	Usar de forma correcta la plataforma de gestion de pruebas
 
 ⚙ Desarrollo
 
