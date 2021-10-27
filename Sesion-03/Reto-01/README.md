@@ -12,7 +12,7 @@ Ahora es turno del alumno para realizar las siguientes actividades:
 
 1. Crear las pruebas unitarias para la "cantidadCompuesta" para palzo 1, plazo 2, plazo 3 y plazo 18.
 2. Crear las pruebas unitarias para la función "obtenerMensajeDecisionUsuario()".
-3. Correjir los errores encontrados en el código y correr nuevamente las pruebas.
+3. Corregir los errores encontrados en el código y correr nuevamente las pruebas.
 
 De acuerdo a la especificación del cliente estos son los valores que deberíamos de esperar que el programa calcule con un ejemplo de inversión inicial de $1500.
 
