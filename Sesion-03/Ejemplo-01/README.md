@@ -2,13 +2,13 @@
 
 ## Objetivo
 
-Desarrollar pruebas unitarias en un programa de software, utilizando el framework de preubas TestNG y el lenguaje de programación Java lo cual ayudará al alumno a entender como desarrollar este tipo de pruebas y su utilidad.
+Desarrollar pruebas unitarias en un programa de software, utilizando el framework de pruebas TestNG y el lenguaje de programación Java lo cual ayudará al alumno a entender cómo desarrollar este tipo de pruebas y su utilidad.
 
 ## Desarrollo
 
 Para este ejemplo utilizaremos el programa utilizado en la sesión anterior para calcular la inversion en distintos plazos.
 
-En las sesiones anteriores estuvimos utilizando un enfoque de pogramación estructurada. Es decir la ejecución del programa era secuencial y en algunos casos mandabamos a llamar funciones. Ya que la mayoría de cosas que se hacen en Java es con un enfoque de programación orientado a objetos el programa de la sesión anterior fue modificado utilizando este enfoque.
+En las sesiones anteriores estuvimos utilizando un enfoque de pogramación estructurada. Es decir, la ejecución del programa era secuencial y en algunos casos mandabamos a llamar funciones. Ya que la mayoría de cosas que se hacen en Java es con un enfoque de programación orientado a objetos el programa de la sesión anterior fue modificado utilizando este enfoque.
 
 Este es el programa propuesto que utilizaremos:
 
