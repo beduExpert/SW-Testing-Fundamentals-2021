@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Ejemplificar como se construye un programa al utilizar desarrollo conducido por pruebas.
+Ejemplificar cómo se construye un programa al utilizar desarrollo conducido por pruebas.
 
 ## Desarrollo
 
