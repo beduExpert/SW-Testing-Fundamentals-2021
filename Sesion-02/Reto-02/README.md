@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Reconocer la diferencia entre un requrimiento tradicional contra una historia de usuario usadas en modelos iterativos o incrementales y metodologías Agile.
+Reconocer la diferencia entre un requerimiento tradicional contra una historia de usuario usadas en modelos iterativos o incrementales y metodologías Agile.
 
 ## Desarrollo
 
