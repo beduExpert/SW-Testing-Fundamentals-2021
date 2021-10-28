@@ -3,7 +3,7 @@
 ## Objetivo
 
 * Analizar la información del sistema a probar
-* Identificar de forma secuencia los posibles defectos del objecto a probar.
+* Identificar de forma secuencial los posibles defectos del objecto a probar.
 
 ## Desarrollo
 
