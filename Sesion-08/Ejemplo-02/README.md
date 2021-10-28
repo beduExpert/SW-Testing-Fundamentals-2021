@@ -1,4 +1,4 @@
-# Ejemplo 2 – Uso de Selenium IDE
+# Ejemplo 2 – Uso de Selenium IDEA
 
 ## Objetivo
 
