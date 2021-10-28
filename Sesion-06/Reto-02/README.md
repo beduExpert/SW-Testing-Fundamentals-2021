@@ -1,8 +1,8 @@
-# Reto # 2 – Analizar clase de JAVA usando Intellij IDEA 
+# Reto # 2 – Analizar clases de JAVA usando Intellij IDEA 
 
 ## Objetivo
 
-* Familiarizarse con el entorno de desarrollo, usando un editor de código.
+* Reconocer el entorno de desarrollo, usando un editor de código.
 * Identificar fallos tempranos de lógica del producto, desde el código fuente
 
 ## Desarrollo
