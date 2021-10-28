@@ -3,7 +3,7 @@
 ## Objetivo
 
 * Creacion de cuenta gratuita en azure devops
-* Identificar elementos del aplitivo, para la gestion de pruebas
+* Identificar elementos del aplicativo, para la gestión de pruebas
 
 ## Desarrollo
 
