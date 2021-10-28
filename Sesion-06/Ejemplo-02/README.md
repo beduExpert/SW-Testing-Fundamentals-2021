@@ -3,7 +3,7 @@
 ## Objetivo
 
 * Comprender correctamente las especificaciones dadass por el cliente
-* Realizas las comprobaciones correctas del aplicativo y sus posibles características.
+* Realizar las comprobaciones correctas del aplicativo y sus posibles características.
 
 ## Desarrollo
 
